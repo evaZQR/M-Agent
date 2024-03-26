@@ -4,16 +4,19 @@ import requests
 import time
 import json
 import time
+from dotenv import load_dotenv
+load_dotenv()
 
-API_SECRET_KEY = "sk-zk2f1bf5d82ad12aa356ed0aca32e1b31de66017ff6a710b";  # 你在智增增的key
-BASE_URL = "https://flag.smarttrot.com/v1"
 
+API_SECRET_KEY = os.getenv("API_SECRET_KEY")
+BASE_URL = os.getenv("BASE_URL")
+print(API_SECRET_KEY,BASE_URL)
 def stream_chat(prompt: str):
     openai.api_key = API_SECRET_KEY
     openai.api_base = BASE_URL
     ans = ""
     for chunk in openai.ChatCompletion.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4",
         messages=[{"role": "user", "content": prompt}],
         stream=True,
     ):

@@ -1,0 +1,23 @@
+[
+    {
+        "history": "changshengEVA:亲爱的ZQR，你的好友江海共余生在QQ上留言问你：“签到了吗？”\nZQR:thanks\nchangshengEVA:不客气，有什么其它需要我帮助的吗？\nZQR:exitexit\nchangshengEVA:好的，已经为您退出。如果有任何需要，请随时召唤我。祝您一天愉快。\n",
+        "kwargs": {
+            "observation": "接收到来自好友江海共余生的QQ信息:签到了吗？",
+            "time": "2024-03-26 23:54:39"
+        }
+    },
+    {
+        "history": "changshengEVA:亲爱的ZQR，刚才你的好友江海共余生在QQ上向你询问：你今天的QQ签到了吗？\nZQR:说的不是QQ，是学习通上的签到\nchangshengEVA:明白了，ZQR，你的好友江海共余生实际上是在询问你是否在学习通上签到了。\n",
+        "kwargs": {
+            "observation": "接收到来自好友江海共余生的QQ信息:签到了吗？",
+            "time": "2024-03-26 23:56:24"
+        }
+    },
+    {
+        "history": "changshengEVA:亲爱的用户，我注意到好友江海共余生在QQ上向您发送了一条信息，内容为\"签到了吗？\"。\nZQR:签完了\nchangshengEVA:好的，我明白了，您已经完成签到。\n",
+        "kwargs": {
+            "observation": "接收到来自好友江海共余生的QQ信息:签到了吗？",
+            "time": "2024-03-27 00:04:04"
+        }
+    }
+]
