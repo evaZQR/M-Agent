@@ -4,19 +4,12 @@ from streamcall import stream_chat
 import yaml
 import json
 import time
+from flipflop.utils import *
 load_dotenv()
-from datetime import datetime
-
-def get_current_time():
-    now = datetime.now()
-    formatted_time = now.strftime("%Y-%m-%d %H:%M:%S")
-    return formatted_time
-
-
 with open("/Users/eva/Desktop/M-Agent/prompt.yaml","r",encoding="utf-8") as file:
     prompt_data = yaml.safe_load(file)
 
-SELFWOM,OBSERVATION,HISTORY =   prompt_data["obserchatprompt"]["selfwom"],\
+SELFWOM,OBSERVATION,HISTORY  =   prompt_data["obserchatprompt"]["selfwom"],\
                                 prompt_data["obserchatprompt"]["observation"],\
                                 prompt_data["obserchatprompt"]["history"],
 #print(SELFWOM,OBSERVATION,HISTORY)
