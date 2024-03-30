@@ -19,5 +19,12 @@
             "observation": "接收到来自好友江海共余生的QQ信息:签到了吗？",
             "time": "2024-03-27 00:04:04"
         }
+    },
+    {
+        "history": "changshengEVA:您好，ZQR，我检测到您收到了以下几封重要的邮件：\n\n1. 来自埃罗芒阿老公的邮件讨论了一个叫做liteloadQQNNT的项目，她希望通过使用LLAPI插件来暴露一些接口，这样老版的插件就能连接到新版的QQ。然而，这可能是因为对QQNT的不理解而产生的提议。\n\n2. 有另一封邮件来自aicorein，他提到了一个叫做LLOneBot的项目，这个项目可以实现之前提到的功能。\n\n3. Steam的邮件通知您愿望单中的Eternights正在特卖，现在购买可以享受50%的折扣。\n\n4. Cloudcampus Canvas平台的邮件提醒您有几个即将到期的作业，其中包括：Assignment-2 Quiz #1 和 Assignment-2 Quiz #2（两者均未来4月14日23:59交），以及Software Analysis的编程任务（4月21日23:59交）。您可以通过这个链接来管理您的通知设置：https://lms.cloudcampus.com.cn/profile/communication\n\n希望以上信息对您有所帮助。如果需要更具体的信息，或者有任何其他的问题，欢迎随时向我询问。\nZQR:OK\nchangshengEVA:您好，ZQR，如果您有任何其他问题或需要帮助，欢迎随时向我提问。\nZQR:说邮件的时候简单点\nchangshengEVA:好的，ZQR。以下是您收到的邮件摘要：\n\n1. 有关liteloadQQNNT项目的讨论，提到了使用LLAPI插件暴露接口的可能性。\n2. aicorein提到可以实现相关功能的LLOneBot项目。\n3. Steam通知：愿望单的Eternights游戏正在50%折扣销售。\n4. Cloudcampus Canvas平台通知了几个即将到期的作业任务。\n",
+        "kwargs": {
+            "observation": "\n---------------------------\nSubject: Re: [Mrs4s/go-cqhttp] QQ Bot的未来以及迁移建议 (Issue #2471), From: 埃罗芒阿老公\n纯文本内容：邮件内容提到了最近发现一个叫liteloadQQNNT的项目，希望能够利用其中的LLAPI插件暴露一些接口，以便老版插件可以连接到新版QQ。这可能是因为对QQNT的不理解导致的疑问和提议。\n---------------------------\nSubject: Re: [Mrs4s/go-cqhttp] QQ Bot的未来以及迁移建议 (Issue #2471), From: aicorein <notifications@github.com>\n纯文本内容：有个项目叫LLOneBot可以实现你说的功能。\n---------------------------\nSubject: 您 Steam 愿望单上的 Eternights 正在特卖！, From: Steam <noreply@steampowered.com>\n纯文本内容：邮件内容：提醒您愿望单中的Eternights正在促销，省50%，详情请点击链接查看。祝愉快，Steam团队。\n---------------------------\nSubject: Recent Canvas Notifications, From: Cloudcampus Canvas <noreply@cloudcampus.com.au>\n纯文本内容：Weekly report for Canvas account notifications:\n\n- Assignment-2 Quiz #1 due Apr 14 at 23:59\n- Assignment-2 Quiz #2 due Apr 14 at 23:59\n- Coding Task for Software Analysis Part 1 due Apr 21 at 23:59\n\nManage notification settings here: https://lms.cloudcampus.com.cn/profile/communication",
+            "time": "2024-03-30 21:14:10"
+        }
     }
 ]

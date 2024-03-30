@@ -11,7 +11,7 @@ load_dotenv()
 API_SECRET_KEY = os.getenv("API_SECRET_KEY").encode().decode('utf-8')
 BASE_URL = os.getenv("BASE_URL")
 print(API_SECRET_KEY,BASE_URL)
-def stream_chat(prompt: str,model = "gpt-3.5-turbo"):
+def stream_chat(prompt: str,model = "gpt-3.5-turbo",chat = False):
     openai.api_key = API_SECRET_KEY
     openai.api_base = BASE_URL
     ans = ""
@@ -22,9 +22,9 @@ def stream_chat(prompt: str,model = "gpt-3.5-turbo"):
     ):
         content = chunk["choices"][0].get("delta", {}).get("content")
         if content is not None:
-            print(content,end='')
+            if chat: print(content,end='')
             ans += content
     return ans
 
 if __name__ == '__main__':
-    stream_chat("你是谁？")
+    stream_chat("你是谁？",chat = True)

@@ -61,15 +61,16 @@ def store_the_history(history, **kwargs):
 def emerge_chat_prompt_wo_memory(observation,history): 
     return f"{SELFWOM.format(LANGUAGE)}{OBSERVATION.format(observation)}{HISTORY.format(history)}"
 
-def chat_wo_memory(observation):
+def start_chat_wo_memory(observation, model = "gpt-3.5-turbo"):
     """
     start to chat with the observation
     observation: the observation that input for changshengEVA who wants to talk about it.
     """
     final_prompt = emerge_chat_prompt_wo_memory(observation,"")
-    #print(final_prompt,end="")
+    #print(final_prompt)
+    #raise ValueError("EVA error...")
     print("changshengEVA:")
-    response = stream_chat(final_prompt)
+    response = stream_chat(final_prompt,model,chat=True)
     print("")
     displayed = "changshengEVA:" + response + "\n"
     history = ""
@@ -81,7 +82,7 @@ def chat_wo_memory(observation):
         history += "ZQR:" + message + "\n"
         final_prompt = emerge_chat_prompt_wo_memory(observation,history)
         print("changshengEVA:")
-        response = stream_chat(final_prompt)
+        response = stream_chat(final_prompt,model,chat=True)
         print("")
         displayed = "changshengEVA:" + response + "\n"
         history += displayed
@@ -92,4 +93,4 @@ def chat_wo_memory(observation):
     
 
 if __name__ == "__main__":
-    chat_wo_memory("接收到来自好友江海共余生的QQ信息:签到了吗？")
+    start_chat_wo_memory("接收到来自好友江海共余生的QQ信息:签到了吗？")
