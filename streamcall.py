@@ -8,15 +8,15 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-API_SECRET_KEY = os.getenv("API_SECRET_KEY")
+API_SECRET_KEY = os.getenv("API_SECRET_KEY").encode().decode('utf-8')
 BASE_URL = os.getenv("BASE_URL")
 print(API_SECRET_KEY,BASE_URL)
-def stream_chat(prompt: str):
+def stream_chat(prompt: str,model = "gpt-3.5-turbo"):
     openai.api_key = API_SECRET_KEY
     openai.api_base = BASE_URL
     ans = ""
     for chunk in openai.ChatCompletion.create(
-        model="gpt-4",
+        model=model,
         messages=[{"role": "user", "content": prompt}],
         stream=True,
     ):

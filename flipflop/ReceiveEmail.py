@@ -4,6 +4,7 @@ import yaml
 import os, sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from flipflop.utils import try_multi_decode
+from streamcall import stream_chat
 
 with open("./flipflop/config.yaml",'r', encoding="utf-8") as f:
     cfg = yaml.safe_load(f)['Email']
@@ -25,7 +26,10 @@ server.select('INBOX')
 # 搜索邮件（按需修改搜索条件）
 status, messages = server.search(None, 'UNSEEN')    
  
-
+def conclude(email_message):
+    prompt = cfg['conclude_prompt'].format(str(email_message))
+    response = stream_chat(prompt)
+    return response
 # 获取邮件列表
 if messages:
     email_ids = messages[0].split()
@@ -43,14 +47,30 @@ if messages:
             subject = email.header.decode_header(email_message['subject'])[0][0]
             from_ = email.header.decode_header(email_message['from'])[0][0]
             content_type = email_message.get_content_type()
-            if content_type == 'text/plain' or content_type == 'text/html':
+            print("\n---------------------------")
+            print(f"Subject: {try_multi_decode(subject)}, From: {try_multi_decode(from_)}")
+            print(content_type)
+            # 检查是否为 multipart/alternative 类型
+            if content_type == 'multipart/alternative':
+                # 遍历邮件的所有部分
+                for part in email_message.walk():
+                    sub_content_type = part.get_content_type()
+                    if sub_content_type == 'text/plain':
+                        # 纯文本内容
+                        plain_text = part.get_payload(decode=True).decode(part.get_content_charset() or 'utf-8')
+                        #print("纯文本内容：", plain_text)
+                        print("concluded:",conclude(plain_text))
+                    elif sub_content_type == 'text/html':
+                        # HTML 内容
+                        html_text = part.get_payload(decode=True).decode(part.get_content_charset() or 'utf-8')
+                       #print("HTML 内容：", html_text)
+            elif content_type == 'text/plain' or content_type == 'text/html':
                 content = email_message.get_payload(decode=True)
                 # 解码内容（如果需要）
                 content = content.decode()
-                
-                # 打印邮件信息
-                print(f"Subject: {try_multi_decode(subject)}, From: {try_multi_decode(from_)}")
-            server.store(email_id, '+FLAGS', '\\Seen')
+                #print("纯文本内容：",content)
+                print("conclude:", conclude(content))
+            #server.store(email_id, '+FLAGS', '\\Seen')
 
 # 关闭连接
 server.close()
