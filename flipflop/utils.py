@@ -5,23 +5,22 @@ dotenv.load_dotenv()
 tomorrow_api = os.getenv("TOMORROW_API")
 city = os.getenv("LOCATION")
 def try_multi_decode(subject):
-    if type(subject) == str:
+    # 确保输入是字节序列
+    if not isinstance(subject, (bytes, bytearray)):
         return subject
-    try:
-        # 尝试使用 UTF-8 编码解码
-        subject = subject.decode('utf-8')
-    except UnicodeDecodeError:
+
+    # 更新编码方式列表的顺序
+    encodings_to_try = ['utf-8', 'gbk', 'ascii', 'latin1', 'windows-1252']
+
+    # 遍历不同的编码方式
+    for encoding in encodings_to_try:
         try:
-            # 如果 UTF-8 失败，尝试使用 Latin-1 编码解码
-            subject = subject.decode('latin1')
+            return subject.decode(encoding)
         except UnicodeDecodeError:
-            try:
-                # 如果 Latin-1 也失败，尝试使用 ASCII 编码解码
-                subject = subject.decode('ascii', 'ignore')  # 'ignore' 将忽略无法解码的字节
-            except Exception as e:
-                # 如果所有尝试都失败，输出错误信息
-                print(f"无法解码 subject: {e}")
-    return subject
+            continue
+
+    # 如果所有尝试都失败，返回错误信息
+    return f"无法解码字节序列: {subject}"
 
 def get_current_time():
     now = datetime.now()

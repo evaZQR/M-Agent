@@ -21,10 +21,31 @@
         }
     },
     {
-        "history": "changshengEVA:您好，ZQR，我检测到您收到了以下几封重要的邮件：\n\n1. 来自埃罗芒阿老公的邮件讨论了一个叫做liteloadQQNNT的项目，她希望通过使用LLAPI插件来暴露一些接口，这样老版的插件就能连接到新版的QQ。然而，这可能是因为对QQNT的不理解而产生的提议。\n\n2. 有另一封邮件来自aicorein，他提到了一个叫做LLOneBot的项目，这个项目可以实现之前提到的功能。\n\n3. Steam的邮件通知您愿望单中的Eternights正在特卖，现在购买可以享受50%的折扣。\n\n4. Cloudcampus Canvas平台的邮件提醒您有几个即将到期的作业，其中包括：Assignment-2 Quiz #1 和 Assignment-2 Quiz #2（两者均未来4月14日23:59交），以及Software Analysis的编程任务（4月21日23:59交）。您可以通过这个链接来管理您的通知设置：https://lms.cloudcampus.com.cn/profile/communication\n\n希望以上信息对您有所帮助。如果需要更具体的信息，或者有任何其他的问题，欢迎随时向我询问。\nZQR:OK\nchangshengEVA:您好，ZQR，如果您有任何其他问题或需要帮助，欢迎随时向我提问。\nZQR:说邮件的时候简单点\nchangshengEVA:好的，ZQR。以下是您收到的邮件摘要：\n\n1. 有关liteloadQQNNT项目的讨论，提到了使用LLAPI插件暴露接口的可能性。\n2. aicorein提到可以实现相关功能的LLOneBot项目。\n3. Steam通知：愿望单的Eternights游戏正在50%折扣销售。\n4. Cloudcampus Canvas平台通知了几个即将到期的作业任务。\n",
+        "history": "changshengEVA:亲爱的ZQR，我已经阅读了您的邮件，以下是我观察到的重要信息：\n\n1.在Github上，有关于\"QQ Bot的未来以及迁移建议\"的讨论。用户\"埃罗芒阿老公\"提出疑问，他希望探索是否可以利用liteloadQQNNT项目中的LLAPI插件向外暴露接口，让老版插件能够连接新版QQ。不过他对QQNT了解不足，不确定此方案是否可行。对此，用户aicorein建议他可以尝试使用LLOneBot项目来实现这一需求，这个项目已经存在且可能满足他的需要。\n\n2.您收到了来自Steam的通知，您愿望单上的游戏\"Eternights\"正在进行特卖，原价的一半即可购得。如果您对这个优惠感兴趣，可以点击他们提供的链接进一步了解和购买。\n\n3.你收到了来自Canvas的通知，本周截至到3月31日这一周间，有以下任务需要注意：\n   - 计划于4月14日的\"Assignment-2 Quiz #1\"，\n   - 计划于4月14日的\"Assignment-2 Quiz #2\"，\n   - 计划于4月21日的\"Assignment-2 Coding Task\"。\n\n如果您对这些任务的通知设定有所更动，可以点击他们提供的链接完成设定更改。\n\n以上就是我对您邮箱的观察结果，如有需要请告诉我。\nZQR:好的\nchangshengEVA:如果您有需要查询的信息或者需要完成的任务，请随时告诉我。\n",
         "kwargs": {
-            "observation": "\n---------------------------\nSubject: Re: [Mrs4s/go-cqhttp] QQ Bot的未来以及迁移建议 (Issue #2471), From: 埃罗芒阿老公\n纯文本内容：邮件内容提到了最近发现一个叫liteloadQQNNT的项目，希望能够利用其中的LLAPI插件暴露一些接口，以便老版插件可以连接到新版QQ。这可能是因为对QQNT的不理解导致的疑问和提议。\n---------------------------\nSubject: Re: [Mrs4s/go-cqhttp] QQ Bot的未来以及迁移建议 (Issue #2471), From: aicorein <notifications@github.com>\n纯文本内容：有个项目叫LLOneBot可以实现你说的功能。\n---------------------------\nSubject: 您 Steam 愿望单上的 Eternights 正在特卖！, From: Steam <noreply@steampowered.com>\n纯文本内容：邮件内容：提醒您愿望单中的Eternights正在促销，省50%，详情请点击链接查看。祝愉快，Steam团队。\n---------------------------\nSubject: Recent Canvas Notifications, From: Cloudcampus Canvas <noreply@cloudcampus.com.au>\n纯文本内容：Weekly report for Canvas account notifications:\n\n- Assignment-2 Quiz #1 due Apr 14 at 23:59\n- Assignment-2 Quiz #2 due Apr 14 at 23:59\n- Coding Task for Software Analysis Part 1 due Apr 21 at 23:59\n\nManage notification settings here: https://lms.cloudcampus.com.cn/profile/communication",
-            "time": "2024-03-30 21:14:10"
+            "observation": "\n---------------------------\nSubject: Re: [Mrs4s/go-cqhttp] QQ Bot的未来以及迁移建议 (Issue #2471), From: 埃罗芒阿老公\n纯文本内容：询问是否可以使用liteloadQQNNT项目中的LLAPI插件向外暴露接口，以便让老版插件连接新版QQ。表达对QQNT的不了解，不确定是否可行。\n---------------------------\nSubject: Re: [Mrs4s/go-cqhttp] QQ Bot的未来以及迁移建议 (Issue #2471), From: aicorein <notifications@github.com>\n纯文本内容：可以使用LLOneBot项目来实现你提到的功能。项目已经存在，可以满足你的需求。\n---------------------------\nSubject: 您 Steam 愿望单上的 Eternights 正在特卖！, From: Steam <noreply@steampowered.com>\n纯文本内容：邮件内容简要如下：\n您的心愿单中的物品正在促销，Eternights可以省50%！祝您愉快，Steam团队。此通知已发送至您的电子邮件地址，由系统自动生成。如需帮助，请访问Steam客服网站。© Valve Corporation。详情请查看链接：https://store.steampowered.com/email/WishlistItemOnSale?sparams=eJxtkM1uwyAQhN_F...\n---------------------------\nSubject: Recent Canvas Notifications, From: Cloudcampus Canvas <noreply@cloudcampus.com.au>\n纯文本内容：Weekly report for Canvas account notifications ending on Mar 31: \n\n- Assignment-2 Quiz #1 due April 14\n- Assignment-2 Quiz #2 due April 14\n- Assignment-2 Coding Task due April 21\n\nChange notification settings here: \nhttps://lms.cloudcampus.com.cn/profile/communication",
+            "time": "2024-03-30 21:21:40"
+        }
+    },
+    {
+        "history": "changshengEVA:早上好，ÕÔÆåÈñ。您在邮件中提到了对我完成第一个pipeline的祝贺，感谢您的肯定和鼓励。请问有其他我可以帮助您的事情吗？\nZQR:嗯嗯，加油\nchangshengEVA:好的，ZQR，我会继续努力的。如果您有任何需要帮助的地方，随时告诉我。\n",
+        "kwargs": {
+            "observation": "\n---------------------------\nSubject: ÍíÉÏºÃ, From: ÕÔÆåÈñ\n纯文本内容：恭喜完成第一个pipeline。",
+            "time": "2024-03-30 21:36:55"
+        }
+    },
+    {
+        "history": "changshengEVA:赵棋锐，你好。我观察到你收到了两封重要的邮件，我会给你简单地概括一下内容。\n\n第一封邮件是从Facebook发来的，邮件中提醒你有一条新的通知需要查看，邮件中附有链接直接前往Facebook查看。并且邮件也提醒你如果不希望以后收到类似通知，可以通过邮件底部的链接进行退订。\n\n第二封邮件是由GitGuardian系统发来的，邮件中提到在你的GitHub账户中，检测到了一个通用密码的泄露。邮件里附有链接，你可以通过该链接来修复这个安全问题。此外，邮件还向你介绍了GitGuardian是如何作为开发者信赖的代码安全平台，并提供了处理秘密信息泄露的相关指导。同样地，如果你不想再收到这类邮件，可以在邮件底部找到退订链接。\n\n以上就是这两封邮件的主要内容，希望能对你有所帮助。\nZQR:OK\nchangshengEVA:好的，如果你有其他需要我帮助的事情，随时告诉我。\n",
+        "kwargs": {
+            "observation": "\n---------------------------\nSubject: 有动态更新等你查看：1 条新通知, From: \"Facebook\" <reminders@facebookmail.com>\n纯文本内容：邮件内容简而言之，是通知赵棋锐有一条未读通知需要查看，并提供了链接前往 Facebook 查看通知。邮件结尾提供了退订链接，并提醒不要转发邮件以保护账户安全。\n---------------------------\nSubject: [evaZQR/Q-Agent] Generic Password exposed on GitHub, From: GitGuardian <security@getgitguardian.com>\n纯文本内容：邮件内容提到GitGuardian检测到您的GitHub账户中泄露了一个通用密码，请查看详细信息并立即修复。提供了一个链接可用于修复此安全漏洞。邮件还包含了指导如何应对泄露秘密信息的指南，介绍了GitGuardian作为开发者信赖的代码安全平台。最后，邮件结尾提供了一个退订链接。",
+            "time": "2024-04-01 22:13:13"
+        }
+    },
+    {
+        "history": "changshengEVA:ZQR先生，这一周我在您的GitHub个人账户“evaZQR”上发现了一些安全警告。我们在“ray”和“langchain”依赖项中发现了一些漏洞。您可以在这个地址查看所有有漏洞的依赖项：https://github.com/evaZQR/Q-Agent/security/dependabot。如果想更新安全警告通知设置，可以访问这个链接：https://github.com/settings/notifications#vulnerability-alerts-heading。\nZQR:OK\nchangshengEVA:ZQR先生，有任何需要我帮忙的事情吗？\n",
+        "kwargs": {
+            "observation": "\n---------------------------\nSubject: [GitHub] Your Dependabot alerts for the week of Mar 26 - Apr 2, From: GitHub <noreply@github.com>\n纯文本内容：Dependabot alerts for evaZQR’s personal account this week. Vulnerabilities identified in 'ray' and 'langchain' dependencies. View all vulnerable dependencies at https://github.com/evaZQR/Q-Agent/security/dependabot. Update security alert email preferences at https://github.com/settings/notifications#vulnerability-alerts-heading.",
+            "time": "2024-04-02 14:38:40"
         }
     }
 ]

@@ -51,7 +51,7 @@ def read_unseen_emails(delete = False):
                 from_ = email.header.decode_header(email_message['from'])[0][0]
                 content_type = email_message.get_content_type()
                 print("\n---------------------------")
-                print(f"Subject: {try_multi_decode(subject)}, From: {try_multi_decode(from_)}")
+                print(f"Subject: {try_multi_decode(subject)}, From: {try_multi_decode(from_)}",subject)
                 email_get += "\n---------------------------\n"
                 email_get += f"Subject: {try_multi_decode(subject)}, From: {try_multi_decode(from_)}"
                 print(content_type)
