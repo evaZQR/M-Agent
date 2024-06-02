@@ -6,7 +6,7 @@ import json
 import time
 from flipflop.utils import *
 load_dotenv()
-with open("/Users/eva/Desktop/M-Agent/prompt.yaml","r",encoding="utf-8") as file:
+with open("./prompt.yaml","r",encoding="utf-8") as file:
     prompt_data = yaml.safe_load(file)
 
 SELFWOM,OBSERVATION,HISTORY  =   prompt_data["obserchatprompt"]["selfwom"],\
