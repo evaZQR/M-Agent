@@ -3,3 +3,11 @@ python-dotenv
 pyyaml
 llama-index
 neo4j
+langchain
+pyvis
+pypdf
+Ipython
+llama-index-graph-stores-neo4j
+llama-index-graph-stores-nebulagraph
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
