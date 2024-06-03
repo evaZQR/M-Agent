@@ -1,3 +1,5 @@
 openai == 0.28.1
 python-dotenv
 pyyaml
+llama-index
+neo4j
