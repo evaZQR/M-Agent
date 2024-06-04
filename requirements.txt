@@ -1,4 +1,3 @@
-openai == 0.28.1
 python-dotenv
 pyyaml
 llama-index
@@ -8,6 +7,10 @@ pyvis
 pypdf
 Ipython
 llama-index-graph-stores-neo4j
-llama-index-graph-stores-nebulagraph
 llama-index-llms-ollama
+llama-index-llms-huggingface
 llama-index-embeddings-huggingface
+bitsandbytes
+sentencepiece
+accelerate
+py2neo
