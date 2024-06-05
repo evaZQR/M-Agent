@@ -14,6 +14,6 @@ Then install the other dependencies
 pip install -r requirements.txt
 ```
 
-To vertify if you are successful, run test.ipynb
+To vertify if you are successful, run test.ipynb, which finish the fundamental functions of llama-index
 
 # config

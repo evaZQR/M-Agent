@@ -14,3 +14,4 @@ bitsandbytes
 sentencepiece
 accelerate
 py2neo
+ipywidgets
