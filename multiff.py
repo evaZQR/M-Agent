@@ -7,7 +7,7 @@ from flipflop.ReceiveEmail import read_unseen_emails
 import asyncio
 
 def check_email_and_start_chat():
-    T = time.time()
+    T = 0
     while True:
         T_c = time.time()
         if T_c - T >= 1000:

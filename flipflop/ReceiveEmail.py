@@ -4,7 +4,7 @@ import yaml
 import os, sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from flipflop.utils import try_multi_decode
-from streamcall import stream_chat
+from opanai_call import stream_chat
 
 with open("./flipflop/config.yaml",'r', encoding="utf-8") as f:
     cfg = yaml.safe_load(f)['Email']

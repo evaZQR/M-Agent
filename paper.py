@@ -1,4 +1,4 @@
-from streamcall import stream_chat
+from opanai_call import stream_chat
 from tqdm import tqdm
 #stream_chat(prompt, model = "gpt-4", chat = True)
 prompt = """现在你需要根据下面的主题，写出论文标题为“习近平新时代中国特色社会主义经济思想对中国经济发展的路径与实践”一段内容

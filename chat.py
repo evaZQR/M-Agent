@@ -1,6 +1,6 @@
 import os
 from dotenv import load_dotenv
-from streamcall import stream_chat
+from opanai_call import stream_chat
 import yaml
 import json
 import time

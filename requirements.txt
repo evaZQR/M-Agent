@@ -10,6 +10,8 @@ llama-index-graph-stores-neo4j
 llama-index-llms-ollama
 llama-index-llms-huggingface
 llama-index-embeddings-huggingface
+llama-index-embeddings-azure-openai
+llama-index-llms-azure-openai
 bitsandbytes
 sentencepiece
 accelerate
