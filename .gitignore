@@ -3,3 +3,5 @@ checkpoint/*
 data/memory/*
 
 data/graph_data/*
+
+/.env
