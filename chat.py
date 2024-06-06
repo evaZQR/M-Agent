@@ -30,7 +30,7 @@ def store_the_history(history, **kwargs):
         print(f"{key}: {value}")
     
     # 指定要写入的文件名
-    filename = "dialog_history.json"
+    filename = "./data/memory/dialog_history.json"
     
     # 读取现有文件内容，如果文件不存在，则创建一个新的空数组
     try:

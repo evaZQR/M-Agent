@@ -13,7 +13,7 @@ def stream_chat(prompt: str,model = "gpt-3.5-turbo",chat = False):
     for chunk in client.completions.create(
             model="gpt-3.5-turbo-instruct",
             prompt=prompt,
-            max_tokens=100,
+            max_tokens=200,
             temperature=0,
             stream=True
         ):
