@@ -1,5 +1,5 @@
 # M-Agent
-This this a chat robot with memory throughout KG!!
+This this a chat robot with memory throughout the right rag!!
 
 
 # install
