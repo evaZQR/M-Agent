@@ -16,6 +16,15 @@ pip install -r requirements.txt
 
 To vertify if you are successful, run test.ipynb, which finish the fundamental functions of llama-index
 
+# run
+Select the method you want to run, and run it
+```shell
+python main.py --method <method>
+```
+the \<method\> you can choose are:
+* local -> this mean that you will use the local model.
+* azure -> this mean that you will use the azure base openai.
+* openai -> this mean that you will use the openai or domestic factor base openai.
 # Config
 Firstly, you need to set your .env file 
 ```

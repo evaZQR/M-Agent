@@ -8,7 +8,7 @@ BASE_URL = os.getenv("BASE_URL")
 client = OpenAI(api_key = API_SECRET_KEY, base_url = BASE_URL)
 
 print(API_SECRET_KEY,BASE_URL)
-def stream_chat(prompt: str,model = "gpt-3.5-turbo",chat = False):
+def stream_chat(prompt: str,chat = False):
     ans = ''
     for chunk in client.completions.create(
             model="gpt-3.5-turbo-instruct",

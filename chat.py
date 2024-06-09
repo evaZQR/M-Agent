@@ -1,17 +1,19 @@
 import os
 from dotenv import load_dotenv
-from opanai_call import stream_chat
 import yaml
 import json
 import time
 from flipflop.utils import *
+from llama_index.core.llms import ChatMessage
+from llama_index.core import Settings
 load_dotenv()
 with open("./prompt.yaml","r",encoding="utf-8") as file:
     prompt_data = yaml.safe_load(file)
 
-SELFWOM,OBSERVATION,HISTORY  =   prompt_data["obserchatprompt"]["selfwom"],\
+SELFWOM,OBSERVATION,HISTORY,MEMORY  =   prompt_data["obserchatprompt"]["selfwom"],\
                                 prompt_data["obserchatprompt"]["observation"],\
-                                prompt_data["obserchatprompt"]["history"],
+                                prompt_data["obserchatprompt"]["history"],\
+                                prompt_data["obserchatprompt"]["memory"]
 #print(SELFWOM,OBSERVATION,HISTORY)
 LANGUAGE = os.getenv("LANGUAGE")
 
@@ -50,17 +52,27 @@ def store_the_history(history, **kwargs):
 def emerge_chat_prompt_wo_memory(observation,history): 
     return f"{SELFWOM.format(LANGUAGE)}{OBSERVATION.format(observation)}{HISTORY.format(history)}"
 
-def start_chat_wo_memory(observation, model = "gpt-3.5-turbo"):
+def make_memory(history):
+    pass
+
+def find_memory(llm, embed, ff):
+    pass
+
+
+def start_chat(observation, llm, embed, memory = False):
     """
     start to chat with the observation
     observation: the observation that input for changshengEVA who wants to talk about it.
     """
-    final_prompt = emerge_chat_prompt_wo_memory(observation,"")
+    if memory is False:
+        final_prompt = emerge_chat_prompt_wo_memory(observation,"")
+    else:
+        final_prompt = emerge_chat_prompt_w_memory(observation,"","")
     #print(final_prompt)
     #raise ValueError("EVA error...")
     print("changshengEVA:")
-    response = stream_chat(final_prompt,model,chat=True)
-    print("")
+    response = str(llm.chat([ChatMessage(content = final_prompt)])).split('assistant:')[-1]
+    print(response)
     displayed = "changshengEVA:" + response + "\n"
     history = ""
     history += displayed
@@ -71,8 +83,8 @@ def start_chat_wo_memory(observation, model = "gpt-3.5-turbo"):
         history += "ZQR:" + message + "\n"
         final_prompt = emerge_chat_prompt_wo_memory(observation,history)
         print("changshengEVA:")
-        response = stream_chat(final_prompt,model,chat=True)
-        print("")
+        response = str(llm.chat([ChatMessage(content = final_prompt)])).split('assistant:')[-1]
+        print(response)
         displayed = "changshengEVA:" + response + "\n"
         history += displayed
     print("OK")
@@ -80,5 +92,10 @@ def start_chat_wo_memory(observation, model = "gpt-3.5-turbo"):
     print(history)
     store_the_history(history, observation=observation, time=get_current_time())
     
+def emerge_chat_prompt_w_memory(observation,history,memory): 
+    return f"{SELFWOM.format(LANGUAGE)}{MEMORY.format(memory)}{OBSERVATION.format(observation)}{HISTORY.format(history)}"
+
+
+
 if __name__ == "__main__":
-    start_chat_wo_memory("接收到来自好友江海共余生的QQ信息:签到了吗？")
+    start_chat("接收到来自好友江海共余生的QQ信息:签到了吗？")

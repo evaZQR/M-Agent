@@ -1,5 +1,6 @@
 obserchatprompt:
   selfwom: "###Now you are the AI called changshengEVA created by ZQR, you generally use {} to talk unless meeting special concept that must speak by English or other language, now you should tell ZQR about your observasion\n" 
+  memory: "### now you have the following memories:(though they are not useful)\n{}\n"
   observation: "@@@observation:{}\n"
   history: "There is the conversation between changshengEVA and ZQR:\n{}changshengEVA:"
 

@@ -2,9 +2,9 @@ import imaplib
 import email
 import yaml
 import os, sys
+from llama_index.core.llms import ChatMessage
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from flipflop.utils import try_multi_decode
-from opanai_call import stream_chat
 
 with open("./flipflop/config.yaml",'r', encoding="utf-8") as f:
     cfg = yaml.safe_load(f)['Email']
@@ -16,7 +16,7 @@ imap_host = 'imap.qq.com'
 username = cfg['Acount']
 password = cfg['Password']
  
-def read_unseen_emails(delete = False):
+def read_unseen_emails(use_llm, delete = False):
 
     email_get = ''
     # 连接到IMAP服务器
@@ -31,8 +31,9 @@ def read_unseen_emails(delete = False):
     
     def conclude(email_message):
         prompt = cfg['conclude_prompt'].format(str(email_message))
-        response = stream_chat(prompt)
-        return response
+        response = use_llm.chat(messages = [ChatMessage(content = prompt)])
+        print(response,type(response))
+        return str(response).split('assistant:')[-1]
     # 获取邮件列表
     if messages:
         email_ids = messages[0].split()
@@ -76,14 +77,15 @@ def read_unseen_emails(delete = False):
                     # 解码内容（如果需要）
                     content = content.decode()
                     #print("纯文本内容：",content)
-                    conclude_content = conclude(content)
-                    print("conclude:", conclude_content)
-                    email_get += "\n纯文本内容：" + conclude_content
+                    if len(content) < 100:
+                        conclude_content = conclude(content)
+                        print("conclude:", conclude_content)
+                        email_get += "\n纯文本内容：" + conclude_content
+                    else:
+                        print('too long to conclude')
                 if delete: server.store(email_id, '+FLAGS', '\\Seen')
 
     # 关闭连接
     server.close()
     server.logout()
     return email_get
-if __name__ == '__main__':
-    read_unseen_emails()
