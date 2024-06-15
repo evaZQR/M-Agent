@@ -10,10 +10,11 @@ load_dotenv()
 with open("./prompt.yaml","r",encoding="utf-8") as file:
     prompt_data = yaml.safe_load(file)
 
-SELFWOM,OBSERVATION,HISTORY,MEMORY  =   prompt_data["obserchatprompt"]["selfwom"],\
+SELFWOM,OBSERVATION,HISTORY,MEMORY,FIND  =   prompt_data["obserchatprompt"]["selfwom"],\
                                 prompt_data["obserchatprompt"]["observation"],\
                                 prompt_data["obserchatprompt"]["history"],\
-                                prompt_data["obserchatprompt"]["memory"]
+                                prompt_data["obserchatprompt"]["memory"],\
+                                prompt_data['obserchatprompt']['findmemory']
 #print(SELFWOM,OBSERVATION,HISTORY)
 LANGUAGE = os.getenv("LANGUAGE")
 
@@ -52,14 +53,16 @@ def store_the_history(history, **kwargs):
 def emerge_chat_prompt_wo_memory(observation,history): 
     return f"{SELFWOM.format(LANGUAGE)}{OBSERVATION.format(observation)}{HISTORY.format(history)}"
 
-def make_memory(history):
-    pass
+from llama_index.core import StorageContext, load_index_from_storage
+def find_memory(index, find):
+    query_engine = index.as_query_engine()
+    response = query_engine.query(FIND.format(find))
+    return response
+    
+def emerge_chat_prompt_w_memory(observation,history,memory): 
+    return f"{SELFWOM.format(LANGUAGE)}{MEMORY.format(memory)}{OBSERVATION.format(observation)}{HISTORY.format(history)}"
 
-def find_memory(llm, embed, ff):
-    pass
-
-
-def start_chat(observation, llm, embed, memory = False):
+def start_chat(observation, llm, embed, memory = False, store = False):
     """
     start to chat with the observation
     observation: the observation that input for changshengEVA who wants to talk about it.
@@ -67,8 +70,12 @@ def start_chat(observation, llm, embed, memory = False):
     if memory is False:
         final_prompt = emerge_chat_prompt_wo_memory(observation,"")
     else:
-        final_prompt = emerge_chat_prompt_w_memory(observation,"","")
-    #print(final_prompt)
+        Settings.llm = llm
+        Settings.embed_model = embed
+        storage_context = StorageContext.from_defaults(persist_dir="./data/memory/index")
+        index = load_index_from_storage(storage_context)
+        final_prompt = emerge_chat_prompt_w_memory(observation,"",find_memory(index, observation))
+    print(final_prompt)
     #raise ValueError("EVA error...")
     print("changshengEVA:")
     response = str(llm.chat([ChatMessage(content = final_prompt)])).split('assistant:')[-1]
@@ -81,7 +88,10 @@ def start_chat(observation, llm, embed, memory = False):
         message = input()
         if message.lower() == "exit": break
         history += "ZQR:" + message + "\n"
-        final_prompt = emerge_chat_prompt_wo_memory(observation,history)
+        if memory:
+            final_prompt = emerge_chat_prompt_w_memory(message,history,find_memory(index, message))
+        else:
+            final_prompt = emerge_chat_prompt_wo_memory(observation,history)
         print("changshengEVA:")
         response = str(llm.chat([ChatMessage(content = final_prompt)])).split('assistant:')[-1]
         print(response)
@@ -90,10 +100,8 @@ def start_chat(observation, llm, embed, memory = False):
     print("OK")
     print("The following is you talked with the changshengEVA:")
     print(history)
-    store_the_history(history, observation=observation, time=get_current_time())
-    
-def emerge_chat_prompt_w_memory(observation,history,memory): 
-    return f"{SELFWOM.format(LANGUAGE)}{MEMORY.format(memory)}{OBSERVATION.format(observation)}{HISTORY.format(history)}"
+    if store: store_the_history(history, observation=observation, time=get_current_time())
+
 
 
 
