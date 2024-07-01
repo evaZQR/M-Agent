@@ -6,9 +6,11 @@ from multiff import start_server
 import argparse
 parser = argparse.ArgumentParser(description='处理方法选择。')
 parser.add_argument('--method', type=str, choices=['local', 'azure', 'openai'], required=True, help='选择处理方法,参照README。')
-parser.add_argument('--memory', type=bool, default = False, help='是否使用记忆')
-parser.add_argument('--store', type=bool, default = False, help='是否使用保存记忆')
+parser.add_argument('--memory', type=str, default = "False", help='是否使用记忆')
+parser.add_argument('--store', type=str, default = "False", help='是否使用保存记忆')
 args = parser.parse_args()
+args.memory = args.memory == "True"
+args.store = args.store == "True"
 if args.method == 'local':
     """
     this needs you put the llm model and embed model in the same folder as this file -> checkpoint and change the local.py.
@@ -27,9 +29,9 @@ elif args.method == 'openai':
     API_SECRET_KEY = os.getenv("API_SECRET_KEY").encode().decode('utf-8')
     BASE_URL = os.getenv("BASE_URL")
     args.llm = OpenAI(api_key = API_SECRET_KEY, api_base = BASE_URL, temperature=0.1, model="gpt-3.5-turbo")
-    #args.embed_model = OpenAIEmbedding(api_key = API_SECRET_KEY, api_base = BASE_URL, model="text-embedding-3-small")
+    args.embed_model = OpenAIEmbedding(api_key = API_SECRET_KEY, api_base = BASE_URL, model="text-embedding-3-small")
     # if the api embed is not working, use the local embed model.
-    args.embed_model = get_embed_model("./checkpoint/bge-large-en-v1.5")
+    #args.embed_model = get_embed_model("./checkpoint/bge-large-en-v1.5")
 
 from llama_index.core import VectorStoreIndex
 from llama_index.core import Document

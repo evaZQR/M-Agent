@@ -20,15 +20,25 @@ LANGUAGE = os.getenv("LANGUAGE")
 
 import json
 
-def store_the_history(history, **kwargs):
+def store_the_history(history, llm, **kwargs):
+    
+    memory_o = ""
+    for key, value in kwargs.items():
+        content = f"{key}: {value}"
+        memory_o += content + "\n"
+        print(content)
+    memory_o += "The following is the conversation history:\n" + history
+    memory_o += f"\nThis is the basic memory of a conversation, please summarize the content in {LANGUAGE} taking changshengEVA's perspective, only talk about the key information, such as time...\n"
+    print("Start to memory...")
+    mem = str(llm.chat([ChatMessage(content=memory_o)])).split('assistant:')[-1]
+    #print(mem)
+    #raise ValueError('Stop')
+    print("The history is storing, find the following args:")
     data_to_store = {
         'history': history,
-        'kwargs': kwargs
+        'kwargs': kwargs,
+        'memory': mem
     }
-    print("The history is storing, find the following args:")
-    for key, value in kwargs.items():
-        print(f"{key}: {value}")
-    
     filename = "./data/memory/dialog_history.json"
     
     try:
@@ -100,7 +110,8 @@ def start_chat(observation, llm, embed, memory = False, store = False):
     print("OK")
     print("The following is you talked with the changshengEVA:")
     print(history)
-    if store: store_the_history(history, observation=observation, time=get_current_time())
+    if store: 
+        store_the_history(history, llm, observation=observation, time=get_current_time())
 
 
 
