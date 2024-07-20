@@ -61,11 +61,15 @@ with open(words_path, 'r', encoding='utf-8') as f:
                 chinese_translation = connect(word)
                 trans += 1
             except:
-                chinese_translation = "无法翻译"
-                no_trans += 1 
+                try:
+                    chinese_translation = str(args.llm.chat([ChatMessage(content=f"解释一下该单词的意思:{word}")])).split('assistant:')[-1]
+                except:
+                    chinese_translation = "翻译失败"
+                    no_trans += 1 
         
         # 将单词和翻译存入字典，并添加到列表中
-        vocab_list.append({"word": word, "mean": chinese_translation, "memory": 'No'})
+        helping_text = str(args.llm.chat([ChatMessage(content=f"简洁地说出记住这个单词的你觉得最简单的方式:{word}")])).split('assistant:')[-1]
+        vocab_list.append({"word": word, "mean": chinese_translation, "memory": 'No', 'helping_text': helping_text})
 
 print('翻译成功：', trans, '翻译失败：', no_trans,"总计", trans+no_trans)
 

@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import scrolledtext
 import json
 import random
+import time
 
 def center_window(width, height, window):
     screen_width = window.winfo_screenwidth()
@@ -29,19 +30,26 @@ def start_learning_program():
             word = words_to_learn[current_index]["word"]
             word_label.config(text=word)
             mean_text.delete('1.0', tk.END)  # 清空之前的单词意思
+            helping_text_label.pack_forget()  # 隐藏帮助文本
             progress_label.config(text=f"Progress: {current_index + 1}/{len(words_to_learn)}")
             
             window.wait_variable(show_mean)
-            word_mean = words_to_learn[current_index]["mean"]
+            word_mean = words_to_learn[current_index]["helping_text"]
             mean_text.insert(tk.END, word_mean)  # 在单词正下方显示意思
+            helping_text = words_to_learn[current_index]["mean"]
+            helping_text_label.config(text=helping_text)
+            helping_text_label.pack(pady=10)  # 显示帮助文本
             
             input_entry.pack(pady=10)
             input_entry.focus_set()
         else:
             word_label.config(text="Congratulations! You've finished learning!")
             mean_text.delete('1.0', tk.END)
+            time.sleep(2)
+            helping_text_label.pack_forget()
             progress_label.config(text="")
             input_entry.pack_forget()
+            on_closing()
 
     def check_input(event):
         user_input = input_entry.get().strip().upper()
@@ -50,6 +58,8 @@ def start_learning_program():
             if item["word"] == word:
                 if 'Y' in user_input:
                     item["memory"] = "Yes"
+                    with open(words_json_path, 'w', encoding='utf-8') as f:
+                        json.dump(vocab_list, f, ensure_ascii=False, indent=4)
                 else:
                     item["memory"] = "No"
                 break
@@ -70,8 +80,11 @@ def start_learning_program():
     word_label = tk.Label(window, text="", font=("Helvetica", 48))
     word_label.pack(pady=20)
 
-    mean_text = scrolledtext.ScrolledText(window, wrap=tk.WORD, font=("Helvetica", 34), height=3)
+    mean_text = scrolledtext.ScrolledText(window, wrap=tk.WORD, font=("Helvetica", 24), height=3)
     mean_text.pack(pady=10)
+
+    helping_text_label = tk.Label(window, text="", font=("Helvetica", 14))
+    helping_text_label.pack_forget()  # 初始化时隐藏帮助文本
 
     progress_label = tk.Label(window, text="", font=("Helvetica", 12))
     progress_label.pack(pady=10)
@@ -80,15 +93,13 @@ def start_learning_program():
     window.bind("<Key-space>", lambda event: show_mean.set(True))
 
     def on_closing():
-        with open(words_json_path, 'w', encoding='utf-8') as f:
-            json.dump(vocab_list, f, ensure_ascii=False, indent=4)
+        window.quit()
         window.destroy()
 
     input_entry = tk.Entry(window, font=("Helvetica", 14))
     input_entry.bind('<Return>', check_input)
     window.protocol("WM_DELETE_WINDOW", on_closing)
     window.bind('<Control-q>', lambda event: on_closing())
-    window.bind('<Command-q>', lambda event: on_closing())
 
     learn_word()
     window.mainloop()
