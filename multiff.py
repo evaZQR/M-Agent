@@ -1,4 +1,4 @@
-from chat import *
+from observation_chat import *
 import time
 from datetime import datetime
 print("启动前置工具...")
@@ -32,9 +32,9 @@ def check_email_and_start_chat(args):
         while True:
             T_c = time.time()
             if T_c - T >= 1000:
-                observation = read_unseen_emails(use_llm=args.llm, delete=False)
+                observation = read_unseen_emails(use_llm=args.llm, delete=True)
                 if observation:
-                    start_chat(observation, args.llm, args.embed_model, args.memory, args.store)
+                    start_chat(args.llm, args.embed_model, args.memory, args.store, observation)
                 else:
                     print("未检测到邮件...")
                 T = T_c  # 更新时间戳

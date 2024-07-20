@@ -9,8 +9,8 @@ parser.add_argument('--method', type=str, choices=['local', 'azure', 'openai'], 
 parser.add_argument('--memory', type=str, default = "False", help='是否使用记忆')
 parser.add_argument('--store', type=str, default = "False", help='是否使用保存记忆')
 args = parser.parse_args()
-args.memory = args.memory == "True"
-args.store = args.store == "True"
+args.memory = (args.memory).strip().upper() == "TRUE"
+args.store = (args.store).strip().upper() == "TRUE"
 if args.method == 'local':
     """
     this needs you put the llm model and embed model in the same folder as this file -> checkpoint and change the local.py.
@@ -46,8 +46,10 @@ def pre_load():
     index = VectorStoreIndex.from_documents(documents,)
     index.storage_context.persist(persist_dir="./data/memory/index")
 def main():
-    #pre_load()
     start_server(args)
+    #print('正在加载记忆，请稍等...')
+    #pre_load()
+    #print('记忆加载完成')
     pass
 
 if __name__ == '__main__':

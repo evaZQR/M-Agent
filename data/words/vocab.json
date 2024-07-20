@@ -1,0 +1,572 @@
+[
+    {
+        "word": "gregarious",
+        "mean": "a:群居",
+        "memory": "Yes"
+    },
+    {
+        "word": "swarm",
+        "mean": "v:挤满,蜂拥|n:蜂群",
+        "memory": "Yes"
+    },
+    {
+        "word": "flock",
+        "mean": "n:群|v:蜂拥",
+        "memory": "Yes"
+    },
+    {
+        "word": "herd",
+        "mean": "v:牧畜,成群,看管,牧放|n:民众",
+        "memory": "Yes"
+    },
+    {
+        "word": "mammal",
+        "mean": "n:哺乳动物",
+        "memory": "Yes"
+    },
+    {
+        "word": "carnivore",
+        "mean": "食肉动物",
+        "memory": "Yes"
+    },
+    {
+        "word": "carnivorous",
+        "mean": "a:肉食",
+        "memory": "Yes"
+    },
+    {
+        "word": "appetite",
+        "mean": "n:食欲,胃口,欲望,嗜好,爱好,饭量,食量",
+        "memory": "Yes"
+    },
+    {
+        "word": "herbivorous",
+        "mean": "食草",
+        "memory": "Yes"
+    },
+    {
+        "word": "omnivorous",
+        "mean": "a:杂食",
+        "memory": "Yes"
+    },
+    {
+        "word": "predator",
+        "mean": "捕食者",
+        "memory": "Yes"
+    },
+    {
+        "word": "predatory",
+        "mean": "掠夺性",
+        "memory": "Yes"
+    },
+    {
+        "word": "prey",
+        "mean": "n:猎物|v:掠夺",
+        "memory": "Yes"
+    },
+    {
+        "word": "poikilotherm",
+        "mean": "n:变温动物",
+        "memory": "No"
+    },
+    {
+        "word": "rodent",
+        "mean": "啮齿动物",
+        "memory": "No"
+    },
+    {
+        "word": "scavenger",
+        "mean": "n:清道夫",
+        "memory": "Yes"
+    },
+    {
+        "word": "microbe",
+        "mean": "n:微生物,细菌",
+        "memory": "Yes"
+    },
+    {
+        "word": "reptile",
+        "mean": "n:爬行动物,爬虫",
+        "memory": "Yes"
+    },
+    {
+        "word": "homotherm",
+        "mean": "无法翻译",
+        "memory": "Yes"
+    },
+    {
+        "word": "primate",
+        "mean": "n:灵长目,大主教,首领",
+        "memory": "Yes"
+    },
+    {
+        "word": "primates",
+        "mean": "无法翻译",
+        "memory": "Yes"
+    },
+    {
+        "word": "mollusk",
+        "mean": "n:软体动物",
+        "memory": "Yes"
+    },
+    {
+        "word": "coelenterate",
+        "mean": "n:腔肠动物",
+        "memory": "No"
+    },
+    {
+        "word": "vertebrate",
+        "mean": "n:脊椎动物",
+        "memory": "Yes"
+    },
+    {
+        "word": "invertebrate",
+        "mean": "无法翻译",
+        "memory": "Yes"
+    },
+    {
+        "word": "finch",
+        "mean": "n:鸣禽",
+        "memory": "Yes"
+    },
+    {
+        "word": "fowl",
+        "mean": "n:鸡,家禽,飞禽",
+        "memory": "No"
+    },
+    {
+        "word": "monster",
+        "mean": "n:怪物,妖怪,怪,庞然大物,妖物,畸形,畸胎,魔,精怪,巨人,魔鬼",
+        "memory": "Yes"
+    },
+    {
+        "word": "hordes",
+        "mean": "无法翻译",
+        "memory": "Yes"
+    },
+    {
+        "word": "insect",
+        "mean": "n:昆虫,虫,虫子,蛊,小人",
+        "memory": "Yes"
+    },
+    {
+        "word": "worm",
+        "mean": "n:蠕虫,虫,虫子,痛苦,螺线|v:排挤",
+        "memory": "Yes"
+    },
+    {
+        "word": "beast",
+        "mean": "n:野兽,动物,畜生,走兽,兽,慝,坏蛋,家畜,飞行器,衣冠禽兽",
+        "memory": "Yes"
+    },
+    {
+        "word": "aquatic",
+        "mean": "a:水上,水生|n:水上",
+        "memory": "No"
+    },
+    {
+        "word": "amphibian",
+        "mean": "n:两栖动物",
+        "memory": "No"
+    },
+    {
+        "word": "migrate",
+        "mean": "v:迁徙,迁移,移居,移民",
+        "memory": "Yes"
+    },
+    {
+        "word": "graze",
+        "mean": "v:吃,擦伤,放牧,掠过,轮牧|n:畜牧,牧草",
+        "memory": "No"
+    },
+    {
+        "word": "gasp",
+        "mean": "v:透不过气,喘|n:气喘,屏息",
+        "memory": "No"
+    },
+    {
+        "word": "peck",
+        "mean": "v:啄|n:大量,找岔子",
+        "memory": "No"
+    },
+    {
+        "word": "trot",
+        "mean": "n:快步,小跑|v:疾走,跳舞|d:快步,骤",
+        "memory": "No"
+    },
+    {
+        "word": "dormant",
+        "mean": "v:休眠,隐,蛰伏|a:隐",
+        "memory": "No"
+    },
+    {
+        "word": "offspring",
+        "mean": "n:后代,子女,产物,子孙,后,后嗣,幼苗,仔,根苗,后裔,昆,下辈,胄,胤,子代,结果,儿女,苗裔",
+        "memory": "Yes"
+    },
+    {
+        "word": "spawn",
+        "mean": "n:产物,丝,小鬼,结果,卵,子,菌|v:产卵,酿成,引起",
+        "memory": "No"
+    },
+    {
+        "word": "pregnant",
+        "mean": "a:怀孕,大肚子,有喜",
+        "memory": "Yes"
+    },
+    {
+        "word": "hatch",
+        "mean": "v:孵,策划,孵化|n:闸门,便门",
+        "memory": "Yes"
+    },
+    {
+        "word": "breed",
+        "mean": "v:繁殖,饲养|n:集团",
+        "memory": "Yes"
+    },
+    {
+        "word": "domesticate",
+        "mean": "v:驯养,驯,驯化,培养,引入,驯服",
+        "memory": "Yes"
+    },
+    {
+        "word": "fertilize",
+        "mean": "v:施肥,肥,授粉,受孕,受胎",
+        "memory": "Yes"
+    },
+    {
+        "word": "regeneration",
+        "mean": "n:再生,新生,更生|v:更新,还原,再生|a:更生",
+        "memory": "Yes"
+    },
+    {
+        "word": "reproduce",
+        "mean": "v:繁殖,复制,再现,重现,生殖,转载,传种,仿造,孳,演示,复写,再版,再生产,增殖,翻印",
+        "memory": "Yes"
+    },
+    {
+        "word": "squeak",
+        "mean": "d:吱,咿呀|n:机会|v:吱",
+        "memory": "No"
+    },
+    {
+        "word": "chirp",
+        "mean": "n:哨,叽叽喳喳,吱|d:吱,唧唧|v:鸣叫",
+        "memory": "No"
+    },
+    {
+        "word": "hibernate",
+        "mean": "v:冬眠|n:蚕眠",
+        "memory": "No"
+    },
+    {
+        "word": "camouflage",
+        "mean": "n:伪装|v:掩饰,装扮,欺瞒",
+        "memory": "No"
+    },
+    {
+        "word": "extinction",
+        "mean": "n:灭绝,消灭,熄灭,废除|v:熄灭",
+        "memory": "Yes"
+    },
+    {
+        "word": "monogamous",
+        "mean": "一夫一妻制",
+        "memory": "No"
+    },
+    {
+        "word": "polyandrous",
+        "mean": "一妻多夫的",
+        "memory": "Yes"
+    },
+    {
+        "word": "nest",
+        "mean": "n:窝,巢|v:筑巢",
+        "memory": "Yes"
+    },
+    {
+        "word": "niche",
+        "mean": "利基市场",
+        "memory": "No"
+    },
+    {
+        "word": "pest",
+        "mean": "n:害虫,虫害,害人虫,鸟害,蟊贼,瘟疫",
+        "memory": "Yes"
+    },
+    {
+        "word": "habitat",
+        "mean": "n:自然环境,住所,原产地,产地",
+        "memory": "Yes"
+    },
+    {
+        "word": "rhinoceros",
+        "mean": "n:犀牛,犀",
+        "memory": "No"
+    },
+    {
+        "word": "chimpanzee",
+        "mean": "n:黑猩猩",
+        "memory": "No"
+    },
+    {
+        "word": "baboon",
+        "mean": "n:狒狒",
+        "memory": "No"
+    },
+    {
+        "word": "gorilla",
+        "mean": "n:大猩猩,猩猩,打手,凶手",
+        "memory": "No"
+    },
+    {
+        "word": "lizard",
+        "mean": "n:蜥蜴,壁虎,四脚蛇",
+        "memory": "No"
+    },
+    {
+        "word": "moth",
+        "mean": "n:蛾子,飞蛾,蛀,蛾,蛀虫,蠹虫,蠹",
+        "memory": "No"
+    },
+    {
+        "word": "canary",
+        "mean": "n:金丝雀",
+        "memory": "No"
+    },
+    {
+        "word": "caterpillar",
+        "mean": "n:毛虫,毛毛虫,履带",
+        "memory": "Yes"
+    },
+    {
+        "word": "dinosaur",
+        "mean": "n:恐龙",
+        "memory": "Yes"
+    },
+    {
+        "word": "chameleon",
+        "mean": "n:变色龙,石龙子",
+        "memory": "No"
+    },
+    {
+        "word": "larva",
+        "mean": "n:幼虫,幼体,妖怪",
+        "memory": "No"
+    },
+    {
+        "word": "bat",
+        "mean": "n:蝙蝠|v:投球,战斗,拍",
+        "memory": "Yes"
+    },
+    {
+        "word": "family",
+        "mean": "n:家庭,家,家人,家族,人家,家属,子女,系,科,家子,亲属,种族,语族,语系,户,门,族,门第,氏族,眷属,老小,类别,同僚,人种,亲族,民族,派别",
+        "memory": "Yes"
+    },
+    {
+        "word": "class",
+        "mean": "n:班,阶级,班级,阶层,课,类,优秀,组,等级,等,纲,级,类别,门类,讲习班,路|v:归类,分类",
+        "memory": "Yes"
+    },
+    {
+        "word": "suborder",
+        "mean": "亚目",
+        "memory": "Yes"
+    },
+    {
+        "word": "order",
+        "mean": "n:命令|v:饬令,驱迫,支,注定,定制|d:先后",
+        "memory": "Yes"
+    },
+    {
+        "word": "genus",
+        "mean": "n:属,类,种类",
+        "memory": "No"
+    },
+    {
+        "word": "antenna",
+        "mean": "n:天线,触角",
+        "memory": "Yes"
+    },
+    {
+        "word": "tentacle",
+        "mean": "n:触须,触角,触手",
+        "memory": "No"
+    },
+    {
+        "word": "spleen",
+        "mean": "n:脾脏,脾,发脾气,颓丧,忧郁,愤怒,发怒,消沉",
+        "memory": "No"
+    },
+    {
+        "word": "hide",
+        "mean": "v:藏,隐藏,掩饰,隐瞒,遮掩,躲藏,遮盖,掩藏,暗藏,躲避,没,埋伏,瞒|n:隐秘,皮肤,皮子",
+        "memory": "Yes"
+    },
+    {
+        "word": "spine",
+        "mean": "n:脊骨,刺,书脊,脊柱,脊椎骨,棘,脊梁骨,书背,背,毅力,勇气,针,骨针,脊",
+        "memory": "Yes"
+    },
+    {
+        "word": "spineless",
+        "mean": "v:优柔寡断|a:优柔寡断",
+        "memory": "Yes"
+    },
+    {
+        "word": "toe",
+        "mean": "n:脚趾,脚,脚尖,尖,脚指头,趾,尖头,趾头,指头",
+        "memory": "Yes"
+    },
+    {
+        "word": "bill",
+        "mean": "n:比尔,账单,法案,议案,票,钞票,票据,招贴,纸币,支票,票子,单,单据,发票,汇票,传单,帽檐,发单,证券,海报,报单,单子,广告,岬角,诉状,戏单,账单子,招子,凭单,清单|v:填,接吻,宣布,填报",
+        "memory": "Yes"
+    },
+    {
+        "word": "beak",
+        "mean": "n:嘴,觜,先生,铁嘴",
+        "memory": "Yes"
+    },
+    {
+        "word": "fuzzy",
+        "mean": "模糊",
+        "memory": "Yes"
+    },
+    {
+        "word": "hump",
+        "mean": "n:驼峰,驼背|v:飞跑,拱",
+        "memory": "No"
+    },
+    {
+        "word": "scale",
+        "mean": "n:刻度,比例,尺度,标,规模,天平,秤,比例尺,尺|v:设计,缩减",
+        "memory": "Yes"
+    },
+    {
+        "word": "wing",
+        "mean": "n:翅膀,机翼,翼,翅,飞翔,天使,飞行,边锋|v:飞跑",
+        "memory": "Yes"
+    },
+    {
+        "word": "fluffy",
+        "mean": "a:蓬松,暄,松软,蓬",
+        "memory": "Yes"
+    },
+    {
+        "word": "carnal",
+        "mean": "无法翻译",
+        "memory": "Yes"
+    },
+    {
+        "word": "nervous",
+        "mean": "a:紧张,胆怯,张,战战兢兢,张皇失措,张皇,怯|v:神经过敏",
+        "memory": "Yes"
+    },
+    {
+        "word": "fat",
+        "mean": "n:脂肪|a:肥囊囊,肥实",
+        "memory": "Yes"
+    },
+    {
+        "word": "grease",
+        "mean": "n:油脂,油|v:贿赂",
+        "memory": "No"
+    },
+    {
+        "word": "greasy",
+        "mean": "a:油腻,腻,腻人,肥|v:腻",
+        "memory": "No"
+    },
+    {
+        "word": "turtle",
+        "mean": "n:海龟,龟,甲鱼",
+        "memory": "Yes"
+    },
+    {
+        "word": "beaver",
+        "mean": "n:海狸,河狸,礼帽,胡须,海獭,孜孜不倦",
+        "memory": "No"
+    },
+    {
+        "word": "jellyfish",
+        "mean": "n:水母,海蟹,海蜇",
+        "memory": "Yes"
+    },
+    {
+        "word": "starfish",
+        "mean": "n:海星",
+        "memory": "Yes"
+    },
+    {
+        "word": "whale",
+        "mean": "v:捕鲸|n:庞然大物",
+        "memory": "Yes"
+    },
+    {
+        "word": "porpoise",
+        "mean": "n:海豚,波动",
+        "memory": "No"
+    },
+    {
+        "word": "dolphin",
+        "mean": "n:海豚,海猪",
+        "memory": "Yes"
+    },
+    {
+        "word": "prawn",
+        "mean": "n:大虾,明虾,对虾,龙虾",
+        "memory": "No"
+    },
+    {
+        "word": "shrimp",
+        "mean": "n:虾,毛虾",
+        "memory": "No"
+    },
+    {
+        "word": "lobster",
+        "mean": "n:龙虾,傻子",
+        "memory": "No"
+    },
+    {
+        "word": "sponge",
+        "mean": "v:吸收,消除,敲诈,乞讨,揩油|n:海绵",
+        "memory": "No"
+    },
+    {
+        "word": "plankton",
+        "mean": "n:浮游生物",
+        "memory": "No"
+    },
+    {
+        "word": "oyster",
+        "mean": "n:牡蛎,海蛎子,蚝,蚝油",
+        "memory": "No"
+    },
+    {
+        "word": "clam",
+        "mean": "n:蛤蜊,蛤,河蚌,夹子,蚌,一元,夹具,文蛤,银币|v:三缄其口,嘴紧",
+        "memory": "No"
+    },
+    {
+        "word": "coral",
+        "mean": "n:珊瑚,珊瑚虫,瑚",
+        "memory": "No"
+    },
+    {
+        "word": "crab",
+        "mean": "n:螃蟹,蟹,蟹肉|v:贬损,干涉,挑剔,发牢骚,抱怨,苛责",
+        "memory": "No"
+    },
+    {
+        "word": "conch",
+        "mean": "n:海螺,甲,螺号,螺,外耳,法螺,贝壳",
+        "memory": "No"
+    },
+    {
+        "word": "squirrel",
+        "mean": "n:松鼠,威士忌酒,怪人,疯子,灰鼠",
+        "memory": "Yes"
+    }
+]

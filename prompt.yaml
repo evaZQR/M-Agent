@@ -4,4 +4,3 @@ obserchatprompt:
   memory: "### now you have the following memories:(though they are not useful)\n{}\n"
   observation: "@@@observation:{}\n"
   history: "There is the conversation between changshengEVA and ZQR:\n{}changshengEVA:"
-
