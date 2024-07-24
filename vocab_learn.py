@@ -45,10 +45,10 @@ def start_learning_program():
         else:
             word_label.config(text="Congratulations! You've finished learning!")
             mean_text.delete('1.0', tk.END)
-            time.sleep(2)
             helping_text_label.pack_forget()
             progress_label.config(text="")
             input_entry.pack_forget()
+            time.sleep(2)
             on_closing()
 
     def check_input(event):

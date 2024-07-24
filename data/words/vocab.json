@@ -682,5 +682,3119 @@
         "mean": "n:松鼠,威士忌酒,怪人,疯子,灰鼠",
         "memory": "Yes",
         "helping_text": " 松鼠。"
+    },
+    {
+        "word": "insular",
+        "mean": "a:岛",
+        "memory": "Yes",
+        "helping_text": " insular这个单词的意思是\"狭隘的，与外界隔绝的\"，可以通过将其拆分为\"in\"（内部）和\"sular\"（类似于\"isolated\"，孤立的）来记忆。所以，insular意味着与外界隔绝，狭隘的。"
+    },
+    {
+        "word": "island",
+        "mean": "n:岛,岛屿,海岛,安全岛",
+        "memory": "Yes",
+        "helping_text": " 将\"land\"中的\"l\"去掉，剩下\"is\"，再加上\"land\"的意思，即\"岛屿\"。"
+    },
+    {
+        "word": "peninsula",
+        "mean": "n:半岛",
+        "memory": "Yes",
+        "helping_text": " peninsula这个单词可以拆分为\"pen\"和\"insula\"，其中\"pen\"意为\"几乎\"，\"insula\"意为\"岛屿\"，所以peninsula指的是一个几乎被水包围的陆地。"
+    },
+    {
+        "word": "islet",
+        "mean": "n:胰岛,孤岛,屿",
+        "memory": "Yes",
+        "helping_text": " islet这个单词与“小岛”有关，因为islet是指小岛或小岛状的东西。"
+    },
+    {
+        "word": "marine",
+        "mean": "n:海军,水兵|a:海",
+        "memory": "Yes",
+        "helping_text": " 海洋（marine）- 想象海洋中的生物和环境"
+    },
+    {
+        "word": "maritime",
+        "mean": "a:近海",
+        "memory": "Yes",
+        "helping_text": " 将maritime拆分成两部分，mar和time。mar意为海洋，time意为时间。因此，maritime的意思是与海洋有关的，通常用来描述海洋事务或海洋环境。"
+    },
+    {
+        "word": "moist",
+        "mean": "a:潮湿,湿润,润湿,潮,润泽,湿乎乎,津,润,沮|n:潮,津|v:润泽",
+        "memory": "Yes",
+        "helping_text": " moist的意思是潮湿的，可以通过记忆“moist”这个单词的发音，联想到“moist”听起来像“moisture”（水分），从而记住它的意思。"
+    },
+    {
+        "word": "ledge",
+        "mean": "n:檐,暗礁,矿脉,突起",
+        "memory": "Yes",
+        "helping_text": " ledge的意思是“突出部分，壁架”，可以通过将ledge拆分成两部分，le和dge，然后将le理解为“上”，dge理解为“边缘”，即ledge是在上方的边缘部分，帮助记忆这个单词的意思。"
+    },
+    {
+        "word": "oasis",
+        "mean": "n:绿洲",
+        "memory": "Yes",
+        "helping_text": " Oasis是一个绿洲，而绿洲是沙漠中的水源，所以可以将oasis与“沙漠中的水源”联系起来，帮助记住它的意思。"
+    },
+    {
+        "word": "tide",
+        "mean": "n:潮水,涨潮,潮汐,形势,潮,浪潮,潮流|v:克服,渡",
+        "memory": "Yes",
+        "helping_text": " 潮汐（tide）是海水的周期性涨落，可以通过“潮汐涨落”的意思来记忆这个单词。"
+    },
+    {
+        "word": "ebb",
+        "mean": "v:减退,落潮,落槽,退潮,衰退,退|n:落潮,衰落",
+        "memory": "Yes",
+        "helping_text": " Ebb的意思是潮退，可以通过记忆“ebb”这个单词的发音，与“ebb”潮退的意思联系起来。"
+    },
+    {
+        "word": "continent",
+        "mean": "n:大陆,洲,陆地,大洲",
+        "memory": "Yes",
+        "helping_text": " continent这个单词的意思是大陆，可以通过将continent拆分成两部分记忆：con（一起）+ tinent（土地），表示大片土地连在一起形成的大陆。"
+    },
+    {
+        "word": "terrestrial",
+        "mean": "n:陆地",
+        "memory": "Yes",
+        "helping_text": " terrestrial这个单词中包含了\"terra\"，意思是地球，所以terrestrial的意思是与地球有关的，即陆地的、地球的。"
+    },
+    {
+        "word": "outskirt",
+        "mean": "n:市郊,郊区,外边",
+        "memory": "Yes",
+        "helping_text": " outskirt这个单词可以理解为\"out\"表示外部，\"skirt\"表示裙子，所以可以联想为裙子的外部，即城市或地区的边缘或郊区。"
+    },
+    {
+        "word": "region",
+        "mean": "n:地区,区域,区,范围,地方,地带,层,域,邻近,地面,领域,区间,部位,局部,部,方,路,间隔,界,境,行政区,地域,地段",
+        "memory": "Yes",
+        "helping_text": " region这个单词可以通过将其拆分为\"re\"和\"gin\"来记忆，\"re\"表示重新，\"gin\"可以联想到酒精饮料gin，因此region可以理解为重新划分的地区或区域。"
+    },
+    {
+        "word": "endemic",
+        "mean": "n:地方病",
+        "memory": "Yes",
+        "helping_text": " endemic这个词可以记忆为\"end\"（结束）+ \"emic\"（特定的），表示某种疾病或物种在特定地区或群体中普遍存在的。"
+    },
+    {
+        "word": "cosmopolitan",
+        "mean": "世界性的",
+        "memory": "Yes",
+        "helping_text": " cosmopolitan这个单词可以通过将其拆分为两部分来记忆：cosmo（宇宙）+ politan（城市），意思是涉及到宇宙和城市的，表示开放、包容和世界性的。"
+    },
+    {
+        "word": "subterrane",
+        "mean": "n:洞穴,地下室,下层",
+        "memory": "Yes",
+        "helping_text": " subterrane这个单词中的\"sub\"表示下面，\"terr\"表示地面，\"ane\"表示与...有关。所以subterrane的意思是与地下有关的。"
+    },
+    {
+        "word": "subterranean",
+        "mean": "a:地下|n:地下",
+        "memory": "Yes",
+        "helping_text": " subterranean这个单词中的\"sub\"意为下面，\"terr\"意为地，\"anean\"意为居住，所以subterranean的意思是地下的。可以通过将\"sub\"理解为下面，\"terr\"理解为地，\"anean\"理解为居住，来记住这个单词的意思。"
+    },
+    {
+        "word": "cavern",
+        "mean": "n:山洞,洞穴,硐,洞窟,龙洞",
+        "memory": "Yes",
+        "helping_text": " cavern的意思是洞穴，可以通过将\"cavern\"拆分成\"cave\"和\"ern\"来记忆，\"cave\"是洞穴的意思，\"ern\"可以联想为\"earth\"，表示洞穴是在地下的。"
+    },
+    {
+        "word": "flaw",
+        "mean": "n:缺陷,缺点,裂纹,裂缝,漏洞,瑕疵,漏子,破绽,疵,疵点",
+        "memory": "Yes",
+        "helping_text": " flaw的意思是缺陷或瑕疵，可以通过将flaw拆分成两部分，记住flaw中的\"law\"，表示规则或标准，而\"fl\"则可以联想到\"fault\"，表示错误或缺陷，从而记住flaw的意思是缺陷或瑕疵。"
+    },
+    {
+        "word": "cleft",
+        "mean": "n:裂缝,裂口,裂片,裂痕,沟纹",
+        "memory": "Yes",
+        "helping_text": " 将\"cleft\"拆分成两部分，\"c\"代表\"cut\"（切割），\"left\"代表\"left behind\"（留下），因此\"cleft\"的意思是\"被切割或分开的\"。"
+    },
+    {
+        "word": "crevice",
+        "mean": "n:缝,裂缝,裂隙,隙,夹缝",
+        "memory": "Yes",
+        "helping_text": " crevice这个单词可以通过将其拆分为\"c\"和\"revice\"来记忆，\"c\"可以代表\"crack\"（裂缝），而\"revice\"可以联想到\"receive\"（接收），因此crevice的意思就是指裂缝或缝隙。"
+    },
+    {
+        "word": "gap",
+        "mean": "n:差距,间隙,缺口,空白,间隔,距离,中断,空隙,隔阂,豁口,缝隙,缺陷,裂缝,空当儿,空子,裂口,分歧,空当,脱漏,空当子,空缺,山口,山峡,隘口,沟槽,空白点,缺门|v:间断,裂",
+        "memory": "Yes",
+        "helping_text": " gap这个单词的意思是“缝隙”或“间隔”，可以通过将字母g和a分开来记忆，表示两者之间有一个间隔或缝隙。"
+    },
+    {
+        "word": "zone",
+        "mean": "区",
+        "memory": "Yes",
+        "helping_text": " 将\"zone\"拆分成两部分，\"z\"代表\"zone\"的首字母，\"one\"代表\"一个\"，所以可以记住\"zone\"的意思是\"一个区域\"。"
+    },
+    {
+        "word": "equator",
+        "mean": "n:赤道,圆",
+        "memory": "Yes",
+        "helping_text": " equator这个单词中包含\"equa\"，类似于equal，表示平等。equator是地球上的赤道线，将地球分为南半球和北半球，两半球在赤道线上是平等的。"
+    },
+    {
+        "word": "longitude",
+        "mean": "n:经度|p:经",
+        "memory": "Yes",
+        "helping_text": " Longitude可以记为\"long\"（长）+ \"itude\"（度），表示地球表面上从北到南的方向上的角度。"
+    },
+    {
+        "word": "altitude",
+        "mean": "n:高,海拔,高等,高程|a:高",
+        "memory": "Yes",
+        "helping_text": " 海拔高度，记住这个单词的方法是将\"altitude\"中的\"alti\"联想为\"高\"，表示高度。"
+    },
+    {
+        "word": "latitude",
+        "mean": "n:纬度,自由,地区,余地,幅度,纬,地方,地域",
+        "memory": "Yes",
+        "helping_text": " Latitude这个单词中包含\"lati\"，可以联想为\"ladder（梯子）\"，梯子是用来爬高度的，而latitude是用来表示地球表面的纬度，也是一种高度的度量。"
+    },
+    {
+        "word": "meridian",
+        "mean": "n:子午线,经线,子午圈,顶点,正午,绝顶",
+        "memory": "Yes",
+        "helping_text": " meridian这个单词可以通过将其拆分为\"meri\"和\"dian\"来记忆，\"meri\"可以联想到\"米\"，而\"米\"是一个长度单位，而meridian表示经线，经线是地球表面上的一种长度单位，因此可以将meridian理解为地球表面上的长度单位，即经线。"
+    },
+    {
+        "word": "subsidiary",
+        "mean": "a:附属,辅助,附带,补给品,附属品,副|v:辅助,附属|n:子公司",
+        "memory": "Yes",
+        "helping_text": " subsidiary可以拆分成sub（下面）+sid（坐）+iary（形容词后缀），可以理解为“坐在下面”的意思，即指的是一个公司或机构作为母公司的附属机构。"
+    },
+    {
+        "word": "Antarctic",
+        "mean": "n:南极",
+        "memory": "Yes",
+        "helping_text": " Antarctic的意思是南极的，可以通过将单词拆分为\"Ant\"（反）和\"arctic\"（北极的）来记忆，即南极是北极的反义词。"
+    },
+    {
+        "word": "Antarctica",
+        "mean": "n:南极洲",
+        "memory": "Yes",
+        "helping_text": " Antarctica - 南极洲，记住这个单词的方法是将其分解为\"Antar\"（像\"ant\"）和\"arctica\"（像\"Arctic\"），这样可以帮助记住它是地球上最南端的大陆。"
+    },
+    {
+        "word": "Arctic",
+        "mean": "n:北极,北极圈|a:严寒",
+        "memory": "Yes",
+        "helping_text": " Arctic这个单词的首字母\"A\"可以代表\"极地\"，而\"rctic\"部分可以让我们联想到\"北极\"。因此，Arctic这个单词的意思是指北极地区。"
+    },
+    {
+        "word": "coastland",
+        "mean": "沿海地区",
+        "memory": "Yes",
+        "helping_text": " coastland意为海岸地带，可以通过将coast和land两个词合并在一起来记忆，表示海岸和陆地的结合。"
+    },
+    {
+        "word": "hemisphere",
+        "mean": "n:半球,范围,领域",
+        "memory": "Yes",
+        "helping_text": " 将单词hemisphere分解为\"hemis\"（半）和\"sphere\"（球体），可以联想到hemisphere意为\"半球\"，即地球的半球。"
+    },
+    {
+        "word": "contour",
+        "mean": "n:轮廓,等高线,环路,略图,形势,外形,大要,概略,回路",
+        "memory": "Yes",
+        "helping_text": " Contour这个单词可以记忆为\"con\"（一起）+ \"tour\"（旅行），意思是沿着一起旅行的线路或轮廓。"
+    },
+    {
+        "word": "geography",
+        "mean": "n:地理,地理学,地形,布局,地势,地志",
+        "memory": "Yes",
+        "helping_text": " 地理学（geography）可以通过将单词拆分为“geo”（地球）和“graphy”（写作、研究）来记忆，因此地理学是研究地球的科学。"
+    },
+    {
+        "word": "horizon",
+        "mean": "n:地平线,眼界,水平线,天边,视野,天际,范围,见识,水平仪,地层,水平面",
+        "memory": "Yes",
+        "helping_text": " 将单词\"horizon\"拆分为\"hor\"和\"izon\"，\"hor\"可以联想到\"horizon\"是地平线的意思，即我们能看到的地平线。"
+    },
+    {
+        "word": "lowland",
+        "mean": "n:低地",
+        "memory": "Yes",
+        "helping_text": " lowland这个单词中的\"low\"表示低，而\"land\"表示陆地，所以lowland的意思就是低洼的陆地。"
+    },
+    {
+        "word": "plain",
+        "mean": "a:明摆着|n:平地|v:悲歌,叹惜,痛哭,悲伤,诉苦|d:明白,平,便,坦白",
+        "memory": "Yes",
+        "helping_text": " plain这个单词的意思是简单的、清晰的，可以通过将plain拆分成两部分，\"pl\"代表平坦、简单，\"ain\"代表清晰、明了，从而记住它的意思。"
+    },
+    {
+        "word": "strait",
+        "mean": "n:海峡,口,地峡,穷困|a:艰难,窄",
+        "memory": "Yes",
+        "helping_text": " 记住单词strait的方法是将其与“strict”（严格）联系起来，因为strait表示“狭窄”或“严格”的意思。"
+    },
+    {
+        "word": "channel",
+        "mean": "n:信道,通道,渠道,航道,海峡,水道,频道,系统,途径,沟,道,沟渠,河槽,河床,管道,电路|v:开,开辟",
+        "memory": "Yes",
+        "helping_text": " 将channel拆分为两部分，\"chan\"和\"nel\"，\"chan\"可以联想到\"change\"，表示变化或转变，而\"nel\"可以联想到\"new\"，表示新的。因此，channel可以理解为传递变化或新事物的途径或渠道。"
+    },
+    {
+        "word": "valley",
+        "mean": "n:山谷,谷,谷地,流域,崖谷,山洼,峪,波谷,山沟,山窝,低谷",
+        "memory": "Yes",
+        "helping_text": " 山谷（valley）的意思是两座山之间的低洼地带，可以通过将valley拆分为val（值）和ley（低），来记住valley是两座山之间的低值地带。"
+    },
+    {
+        "word": "volcano",
+        "mean": "n:火山",
+        "memory": "Yes",
+        "helping_text": " 火山（volcano）是一个由火山喷发形成的地质现象，可以通过将“volcano”拆分为“vol”和“cano”来记忆，其中“vol”可以联想到“volcanic（火山的）”，而“cano”可以联想到“cannon（大炮）”，火山喷发时会释放出巨大的能量，就像大炮发射一样。"
+    },
+    {
+        "word": "plateau",
+        "mean": "n:高原,坪,高地,平顶,台地",
+        "memory": "Yes",
+        "helping_text": " 将plateau拆分成两部分，\"plat\"代表平坦，\"eau\"代表水。因此，plateau指的是一个平坦的高地或平原，通常被认为是一个自然的平台。"
+    },
+    {
+        "word": "basin",
+        "mean": "n:盆地,盆,深度,容器,脸盆,面盆,流域,水系,水坑,盆子,船坞,骨盆",
+        "memory": "Yes",
+        "helping_text": " basin的意思是盆地，可以通过将basin拆分成两部分，bas和in，其中bas可以联想到bath（浴室），而in表示里面，所以basin可以理解为盆地，就像浴室里的盆一样。"
+    },
+    {
+        "word": "navigation",
+        "mean": "n:导航,航行,航海,领航|v:导航,航海",
+        "memory": "Yes",
+        "helping_text": " 将navigation拆分为两部分，\"navi\"和\"gate\"，\"navi\"可以联想到导航，\"gate\"可以联想到门，因此navigation的意思是通过导航找到正确的方向或路径。"
+    },
+    {
+        "word": "ranges",
+        "mean": "范围",
+        "memory": "Yes",
+        "helping_text": " ranges这个单词可以通过将其拆分为\"range\"和\"s\"来记忆，\"range\"表示范围或区间，而\"s\"表示复数形式，因此ranges表示范围的复数形式，意思是范围或区间。"
+    },
+    {
+        "word": "salinity",
+        "mean": "n:盐度,盐分",
+        "memory": "Yes",
+        "helping_text": " salinity这个单词中包含了\"sal\"这个词根，sal在拉丁语中意为盐。因此，可以通过单词中的\"sal\"来记住salinity的意思，即指水或土壤中盐的含量。"
+    },
+    {
+        "word": "sediment",
+        "mean": "n:沉积物,泥沙,沉积,沉渣,沉淀,渣,渣滓,滓",
+        "memory": "Yes",
+        "helping_text": " Sediment sounds like \"set in mint\", so I remember that sediment is the material that settles at the bottom of a liquid, like mint settling at the bottom of a glass of water."
+    },
+    {
+        "word": "elevation",
+        "mean": "n:高度,海拔,仰角,高程,上升,高地,高处,标高,升级,正面图,挺起,高举,高升,上进,高尚,向上,正视图,主视图|a:高尚",
+        "memory": "Yes",
+        "helping_text": " elevation这个单词与\"高度\"有关，可以通过将\"elevation\"拆分为\"elevate\"（提升）和\"tion\"（名词后缀），来记住它的意思是\"高度\"。"
+    },
+    {
+        "word": "formation",
+        "mean": "n:形成,结构,队形,层,构成,建造,组织,组,队列,构造|v:形成,成形,建造,组成",
+        "memory": "Yes",
+        "helping_text": " formation这个单词可以通过将其拆分为\"form\"（形成）和\"ation\"（动作、过程）来记忆，表示形成或组成的过程。"
+    },
+    {
+        "word": "geothermy",
+        "mean": "n:地热",
+        "memory": "Yes",
+        "helping_text": " geothermy这个单词可以通过将其拆分为\"geo\"（地球）和\"thermy\"（热量）来记忆，意思是地热。"
+    },
+    {
+        "word": "terrain",
+        "mean": "n:地形,地势,地带,地区,地面,形势,地域",
+        "memory": "Yes",
+        "helping_text": " terrain这个单词与\"地形\"有关，可以通过记忆\"terrain\"中的\"rain\"来联想到地形，因为雨水会影响地形的形成。"
+    },
+    {
+        "word": "topography",
+        "mean": "n:地形,地形学,地志,外形,地势",
+        "memory": "Yes",
+        "helping_text": " topography这个单词可以通过将其拆分为\"topo\"和\"graphy\"来记忆。\"Topo\"表示地形，而\"graphy\"表示描述或研究。因此，topography指的是地形的描述或研究，即地形学。"
+    },
+    {
+        "word": "tropical",
+        "mean": "a:热带,炎热",
+        "memory": "Yes",
+        "helping_text": " 热带（tropical）的意思是热带地区的，可以通过将“tropical”与“热带”联系起来记住其意思。"
+    },
+    {
+        "word": "tropics",
+        "mean": "n:热带",
+        "memory": "Yes",
+        "helping_text": " 热带地区（tropics）的意思是热带地区，可以通过将“tropics”与“热带”这个词联系起来记住。"
+    },
+    {
+        "word": "temperate",
+        "mean": "a:温和,哀而不伤",
+        "memory": "Yes",
+        "helping_text": " temperate这个单词可以通过与temperature（温度）的发音相似来记忆，它的意思是温和的、适度的。"
+    },
+    {
+        "word": "cistern",
+        "mean": "n:水槽,水缸,蓄水池,水池,水塔,水塘",
+        "memory": "Yes",
+        "helping_text": " cistern的意思是水箱，可以通过将\"cistern\"拆分成\"c-is-tern\"来记忆，其中\"is\"可以联想到\"水\"，而\"tern\"可以联想到\"容器\"，因此cistern就是一个装水的容器。"
+    },
+    {
+        "word": "lagoon",
+        "mean": "n:泻湖,咸水湖,水道",
+        "memory": "Yes",
+        "helping_text": " lagoon这个单词可以记忆为\"lag\" + \"oon\"，lag表示滞后，oon表示水，所以lagoon可以理解为滞后的水，即指潟湖或环礁湖。"
+    },
+    {
+        "word": "canal",
+        "mean": "n:运河,水渠,渠,沟渠,渠道,水沟,水道,管,管路,道,沟,漕河",
+        "memory": "Yes",
+        "helping_text": " \"canal\"这个单词和\"channel\"发音相似，可以联想到它们都是指一条水道或通道。"
+    },
+    {
+        "word": "celestial",
+        "mean": "n:天神,神仙",
+        "memory": "Yes",
+        "helping_text": " celestial这个单词的意思是\"天空的\"，可以通过将\"celestial\"拆分成\"cele\"（庆祝）和\"stial\"（星星），来记住它的意思是与天空或星星有关的。"
+    },
+    {
+        "word": "universe",
+        "mean": "n:宇宙,世界,银河系,天地,整体,宇,全世界,森罗万象,全人类",
+        "memory": "Yes",
+        "helping_text": " 将单词\"universe\"拆分为\"uni\"和\"verse\"，其中\"uni\"表示\"一\"，\"verse\"表示\"诗歌\"或\"诗句\"。因此，可以将\"universe\"理解为\"一首诗歌\"，暗示着宇宙是一个美丽而神秘的存在。"
+    },
+    {
+        "word": "universal",
+        "mean": "a:普遍,万能,宇宙,普及,普",
+        "memory": "Yes",
+        "helping_text": " universal这个单词可以拆分为两部分，\"uni\"表示一，\"versal\"表示全部。因此，universal的意思是涵盖一切的，普遍的，全球的。"
+    },
+    {
+        "word": "orbit",
+        "mean": "n:轨道|v:环行",
+        "memory": "Yes",
+        "helping_text": " orbit这个单词可以通过将其拆分为\"or\"和\"bit\"来记忆，\"or\"可以理解为\"或者\"，\"bit\"可以理解为\"位\"，所以orbit可以理解为\"在某个位置上或者位于某个轨道上\"，即表示物体绕着某个中心运动的轨道。"
+    },
+    {
+        "word": "comet",
+        "mean": "n:彗星,彗,孛,扫帚星",
+        "memory": "Yes",
+        "helping_text": " comet（彗星）- comet sounds like \"come it\", so when a comet comes into view, it is a rare and exciting event."
+    },
+    {
+        "word": "galaxy",
+        "mean": "n:星系,银河系,银河,河外星系,天河",
+        "memory": "Yes",
+        "helping_text": " galaxy - 星系，可以通过将galaxy拆分成gal和axy，gal类似于galactic（银河的），axy类似于axis（轴线），所以galaxy可以理解为“银河的轴线”，即星系。"
+    },
+    {
+        "word": "constellation",
+        "mean": "n:星座,型,配合,星宿,座,丛",
+        "memory": "Yes",
+        "helping_text": " 星座是由一组星星组成的图案，而constellation这个单词中的\"constell\"可以联想到星座，帮助记住它的意思。"
+    },
+    {
+        "word": "asteroid",
+        "mean": "n:小行星,海星",
+        "memory": "Yes",
+        "helping_text": " 记住单词\"asteroid\"的方法是将其拆分为\"aster\"（星星）和\"oid\"（形状），因此asteroid指的是像星星一样的形状，即小行星。"
+    },
+    {
+        "word": "planet",
+        "mean": "n:行星,星,星体",
+        "memory": "Yes",
+        "helping_text": " planet这个单词中包含\"plan\"，而plan的意思是计划或者规划。因此，可以将planet理解为宇宙中被规划或者安排在某个轨道上运行的天体。"
+    },
+    {
+        "word": "chondrite",
+        "mean": "球粒状陨石",
+        "memory": "Yes",
+        "helping_text": " 将chondrite拆分成两部分：chondr（音似“重”的）+ ite（音似“爱特”），可以联想到“重要”的意思。chondrite是一种重要的陨石，其中含有小颗粒状结构。"
+    },
+    {
+        "word": "cluster",
+        "mean": "n:簇|v:连缀",
+        "memory": "Yes",
+        "helping_text": " 将单词\"cluster\"拆分成两部分，\"clu\"和\"ster\"，然后将\"clu\"理解为\"close\"（接近）的缩写，\"ster\"理解为\"cluster\"（群集），即\"cluster\"表示一群或一堆东西聚集在一起。"
+    },
+    {
+        "word": "meteor",
+        "mean": "n:流星,陨星,贼星,星火",
+        "memory": "Yes",
+        "helping_text": " Meteor是指流星，可以通过记忆“meteor”中的“met”来联想“metal（金属）”，因为流星在夜空中像金属一样闪耀。"
+    },
+    {
+        "word": "dwart",
+        "mean": "矮人",
+        "memory": "Yes",
+        "helping_text": " 将单词\"dwart\"拆分成两部分，\"dw\"和\"art\"，然后将\"dw\"理解为\"down\"，\"art\"理解为\"艺术\"，所以\"dwart\"的意思可以理解为\"向下的艺术\"，记忆联系方式是将\"dw\"理解为向下，\"art\"理解为艺术。"
+    },
+    {
+        "word": "star",
+        "mean": "n:恒星,星星,星,明星|v:主演",
+        "memory": "Yes",
+        "helping_text": " 星星（star）是夜空中闪烁的亮点，所以记住这个单词可以联想到星星的形象。"
+    },
+    {
+        "word": "stellar",
+        "mean": "恒星",
+        "memory": "Yes",
+        "helping_text": " stellar这个单词与星星(star)有关，意思是优秀的、出色的，可以通过将stellar与star联系起来记住其意思。"
+    },
+    {
+        "word": "cosmos",
+        "mean": "n:宇宙,和谐,秩序",
+        "memory": "Yes",
+        "helping_text": " cosmos这个单词与宇宙有关，因为cosmos意为宇宙。"
+    },
+    {
+        "word": "cosmic",
+        "mean": "宇宙",
+        "memory": "Yes",
+        "helping_text": " cosmic这个单词可以通过\"cosmos\"这个词来记忆，意思是宇宙的，与宇宙相关的。"
+    },
+    {
+        "word": "cosmology",
+        "mean": "宇宙学",
+        "memory": "Yes",
+        "helping_text": " cosmology这个单词可以通过将其拆分为\"cosmo\"和\"logy\"来记忆。\"cosmo\"意为宇宙，\"logy\"意为学科。因此，cosmology指的是研究宇宙起源、结构和演化的学科。"
+    },
+    {
+        "word": "nebula",
+        "mean": "n:星云,翳,云翳",
+        "memory": "Yes",
+        "helping_text": " 星云（nebula）是一个星云状的天体，可以通过将“nebula”拆分为“neb”和“ula”来记忆，其中“neb”可以联想到星云中的星星，而“ula”可以联想到宇宙中的星云。"
+    },
+    {
+        "word": "quasar",
+        "mean": "n:类星体",
+        "memory": "Yes",
+        "helping_text": " quasar这个单词可以记忆为\"quasi star\"，意思是\"类恒星\"。quasar是一种极为明亮的天体，类似于恒星，但是具有更高的能量输出。"
+    },
+    {
+        "word": "space",
+        "mean": "n:空间,时间,地方,太空,间隔,篇幅,距离,间隙,空地,场地,空隙,行距|v:拉开,岔开",
+        "memory": "Yes",
+        "helping_text": " Space这个单词的意思是空间，可以通过记忆“space”这个单词的拼写中的字母“a”来联想到“area”（区域），从而帮助记忆其意思。"
+    },
+    {
+        "word": "planetoid",
+        "mean": "n:小行星",
+        "memory": "Yes",
+        "helping_text": " planetoid这个单词可以拆分成\"planet\"和\"oid\"，其中\"planet\"表示行星，\"oid\"表示类似于的意思。因此，planetoid的意思就是类似于行星的天体。"
+    },
+    {
+        "word": "intergalactic",
+        "mean": "星际",
+        "memory": "Yes",
+        "helping_text": " intergalactic可以拆分为inter（之间）+ galactic（星系的），意思是“星际的”，可以通过将galactic想象成“银河系”的一部分，再加上inter表示“之间”的含义，来记住这个单词的意思。"
+    },
+    {
+        "word": "interplanetary",
+        "mean": "a:星际",
+        "memory": "Yes",
+        "helping_text": " interplanetary这个单词可以拆分成两部分：inter（之间）+ planetary（行星的），所以它的意思就是“行星之间的”。"
+    },
+    {
+        "word": "interstellar",
+        "mean": "n:星际|a:星际",
+        "memory": "Yes",
+        "helping_text": " 星际之间的联系方式。interstellar意思是星际的，表示在星际空间中的。"
+    },
+    {
+        "word": "corona",
+        "mean": "n:日冕,电晕,谷,冠,花冠,华,光环",
+        "memory": "Yes",
+        "helping_text": " corona这个单词与新冠病毒疫情有关，因为新冠病毒也被称为冠状病毒。"
+    },
+    {
+        "word": "chromosphere",
+        "mean": "n:色球",
+        "memory": "Yes",
+        "helping_text": " 将\"chromo\"与\"色彩\"联系起来，chromosphere指的是太阳大气的一层，因为这一层太阳大气呈现出多种颜色而得名。"
+    },
+    {
+        "word": "solar",
+        "mean": "a:太阳",
+        "memory": "Yes",
+        "helping_text": " 太阳（solar）是太阳系中心的恒星，因此solar这个单词与太阳有关。"
+    },
+    {
+        "word": "photosphere",
+        "mean": "n:光球",
+        "memory": "Yes",
+        "helping_text": " 将单词\"photosphere\"拆分成两部分，\"photo\"意为光，\"sphere\"意为球体，因此可以联想到\"光球体\"，即指太阳的光球层。"
+    },
+    {
+        "word": "pseudoscience",
+        "mean": "n:伪科学",
+        "memory": "Yes",
+        "helping_text": " 伪科学（pseudoscience）的联系方式是：伪（pseudo）的意思是“假的”，科学（science）的意思是“科学”，因此伪科学指的是假冒成科学的理论或实践。"
+    },
+    {
+        "word": "astronomy",
+        "mean": "n:天文学,天文",
+        "memory": "Yes",
+        "helping_text": " 星星（astr）+ 知识（nomy）= astronomy，意思是研究天体和宇宙的科学。"
+    },
+    {
+        "word": "astronomical",
+        "mean": "n:天文|a:天文数字",
+        "memory": "Yes",
+        "helping_text": " astronomical - astronomical sounds like \"astronomy\" which is the study of celestial objects and phenomena in outer space. So, astronomical means extremely large or vast, like the size of objects in outer space."
+    },
+    {
+        "word": "astrology",
+        "mean": "n:占星术,星相,星象",
+        "memory": "Yes",
+        "helping_text": " 星座学（astrology）可以通过“星座”这个词来记忆，因为星座学是研究星座和它们对人类生活的影响的学科。"
+    },
+    {
+        "word": "astrophysics",
+        "mean": "天体物理学",
+        "memory": "Yes",
+        "helping_text": " astrophysics - 天体物理学\n\n联系方式：astrophysics中的\"astro\"意为星星，\"physics\"意为物理学，因此astrophysics指的是研究宇宙中的星体、行星、星系等天体物理现象的学科。"
+    },
+    {
+        "word": "Jupiter",
+        "mean": "n:木星",
+        "memory": "Yes",
+        "helping_text": " Jupiter是太阳系中最大的行星，所以可以将其与“巨大”、“庞大”联系起来。"
+    },
+    {
+        "word": "lunar",
+        "mean": "a:太阴|n:太阴",
+        "memory": "Yes",
+        "helping_text": " lunar这个单词与月亮有关，因为lunar意为与月亮有关的，比如lunar calendar就是指农历。"
+    },
+    {
+        "word": "Mars",
+        "mean": "n:火星,荧惑,战争",
+        "memory": "Yes",
+        "helping_text": " Mars是火星的英文名，可以通过记住这个单词的首字母M和火星之间的联系来记住它的意思。"
+    },
+    {
+        "word": "mercury",
+        "mean": "n:汞,水银,水星,精神,活泼,元气,温度表,信使",
+        "memory": "Yes",
+        "helping_text": " Mercury是水星的英文名称，水星是太阳系中最接近太阳的行星，因此可以通过记住这个联系来记住mercury这个单词的意思。"
+    },
+    {
+        "word": "Earth",
+        "mean": "n:地球,大地,地面,泥土,世界,土,地上,土壤|v:下世",
+        "memory": "Yes",
+        "helping_text": " Earth这个单词和地球的意思有联系，因为Earth是地球的英文名称。"
+    },
+    {
+        "word": "Uranus",
+        "mean": "n:天王星",
+        "memory": "Yes",
+        "helping_text": " \"乌拉诺斯\"这个单词与\"天王星\"有关，可以通过记忆\"乌拉诺斯\"这个名字来联想到它是太阳系中的一颗行星。"
+    },
+    {
+        "word": "Venus",
+        "mean": "n:维纳斯,色情,长庚,美人,爱神,启明,性爱,美女",
+        "memory": "Yes",
+        "helping_text": " Venus是太阳系中的第二颗行星，与爱与美神话女神维纳斯有关，因此可以将Venus与爱与美联系起来记忆其意思。"
+    },
+    {
+        "word": "Pluto",
+        "mean": "n:冥王星",
+        "memory": "Yes",
+        "helping_text": " \"Pluto\"这个单词和它的意思联系在一起，可以通过记住它是矮行星的名字，同时也是迪士尼卡通角色米老鼠的宠物狗的名字。"
+    },
+    {
+        "word": "Neptune",
+        "mean": "n:海王星,海神",
+        "memory": "Yes",
+        "helping_text": " \"Neptune\"这个单词和\"海神\"之间有联系，因为在罗马神话中，Neptune是海洋之神的名字。"
+    },
+    {
+        "word": "Saturn",
+        "mean": "n:土星,镇星",
+        "memory": "Yes",
+        "helping_text": " Saturn是太阳系中的第六颗行星，记住这个单词可以通过它的环来联想，因为Saturn有一系列美丽的环，这可以帮助记住它的意思。"
+    },
+    {
+        "word": "emission",
+        "mean": "n:发射,散发,排放,放射,发出,传播,排出,发行,遗精|v:放射,发射",
+        "memory": "Yes",
+        "helping_text": " emission的意思是排放，可以通过记忆“emission”中的“mission”来联想，排放物是某种任务或使命的结果。"
+    },
+    {
+        "word": "infinite",
+        "mean": "a:无限,无穷,无边无际|n:无穷|v:无穷无尽",
+        "memory": "Yes",
+        "helping_text": " 无限（infinite）可以记忆为“in”表示“无”，加上“finite”表示“有限”，即无限表示没有限制，无穷无尽。"
+    },
+    {
+        "word": "interferometer",
+        "mean": "干涉仪",
+        "memory": "Yes",
+        "helping_text": " Interferometer可以拆分为\"interfere\"（干涉）和\"meter\"（测量），因此interferometer是一种用来测量干涉现象的仪器。"
+    },
+    {
+        "word": "radiation",
+        "mean": "n:辐射,发射,放射,照射,发光,放热,散热器|v:发射,发光,照射,放射",
+        "memory": "Yes",
+        "helping_text": " radiation这个单词中包含\"radi\"这个词根，意思是辐射。所以可以通过\"radi\"这个词根来记忆radiation的意思，即辐射。"
+    },
+    {
+        "word": "revolve",
+        "mean": "v:绕,旋转,转动,转,公转,围绕,运行,考虑,思索,运转,环绕,周转,旋绕,打转,运,循环,旋",
+        "memory": "Yes",
+        "helping_text": " revolve这个单词的意思是\"旋转\"，可以通过将\"revolve\"拆分成\"re\"和\"volve\"，其中\"re\"表示\"再次\"，\"volve\"表示\"旋转\"，所以可以记住revolve的意思是\"再次旋转\"。"
+    },
+    {
+        "word": "land",
+        "mean": "n:土地,地,陆地|v:到达",
+        "memory": "Yes",
+        "helping_text": " Land的意思是土地，可以通过将单词拆分成两部分，\"land\"中的\"land\"与\"land\"中的\"土地\"发音相似，帮助记忆。"
+    },
+    {
+        "word": "spaceship",
+        "mean": "n:宇宙飞船",
+        "memory": "Yes",
+        "helping_text": " 太空飞船（spaceship）是一个由两个词组成的复合词，其中\"space\"表示太空，\"ship\"表示船只。因此，可以通过将\"space\"和\"ship\"结合在一起来记住这个单词的意思，即在太空中飞行的船只。"
+    },
+    {
+        "word": "spacecraft",
+        "mean": "n:宇宙飞船,航天器",
+        "memory": "Yes",
+        "helping_text": " spacecraft这个单词可以拆分成两部分，\"space\"表示太空，\"craft\"表示飞行器或船只。因此，可以通过将这两部分结合起来，记住spacecraft的意思是太空飞行器。"
+    },
+    {
+        "word": "telescope",
+        "mean": "n:望远镜|v:缩短",
+        "memory": "Yes",
+        "helping_text": " telescope这个单词可以被记住，因为它的意思是望远镜，而望远镜可以帮助我们看到远处的事物，就像telescope这个单词的两个“e”字母在单词中间拉长了距离，帮助我们看到单词的意思。"
+    },
+    {
+        "word": "urban",
+        "mean": "a:城市,都市|n:都市,市内",
+        "memory": "Yes",
+        "helping_text": " urban这个单词与城市有关，可以通过联想urban的发音与urban（城市）的发音相似来记忆。urban的意思是城市的，与城市相关的。"
+    },
+    {
+        "word": "rustic",
+        "mean": "a:土里土气|n:乡巴佬,乡间,庄稼人,村夫",
+        "memory": "Yes",
+        "helping_text": " rustic这个单词的意思是“乡村的、质朴的”，可以通过将rustic拆分成rust和ic来记忆，rust表示生锈、老旧，而乡村的东西通常也是老旧、质朴的，所以rustic可以理解为乡村风格的、质朴的。"
+    },
+    {
+        "word": "community",
+        "mean": "n:社区,社会,群落,共同体,团体,公社,圈子,大家庭,村落,集体,联营,共性,共有,一致,乡镇",
+        "memory": "Yes",
+        "helping_text": " community这个单词中包含了\"commune\"这个词根，意思是共同、共享。因此，可以通过将community与commune联系起来，记住它的意思是指一个共同体、社区。"
+    },
+    {
+        "word": "metropolitan",
+        "mean": "n:大主教,首都",
+        "memory": "Yes",
+        "helping_text": " metropolitan这个单词可以通过将其拆分为两部分来记忆：meta（大都市）+ politan（城市），意思是大都市或都市的。"
+    },
+    {
+        "word": "exotic",
+        "mean": "n:舶来品,外来语,外来货|a:稀奇古怪",
+        "memory": "Yes",
+        "helping_text": " exotic这个单词听起来像“奇异的”，意思是外来的或异国的。"
+    },
+    {
+        "word": "conventional",
+        "mean": "a:惯例",
+        "memory": "Yes",
+        "helping_text": " 传统的（conventional）方法是记住这个单词的最简单方式。"
+    },
+    {
+        "word": "convention",
+        "mean": "n:会议,习俗,公约,大会,传统,协定,惯例,习惯,约定,常规,俗套,集会,常理,俗,老规矩,向例,旧框框,框框|v:约定|a:俗",
+        "memory": "Yes",
+        "helping_text": " Convention这个单词可以记忆为\"con\"（共同）+ \"vention\"（行为），意思是一种共同遵循的行为规范或惯例。"
+    },
+    {
+        "word": "patriarchal",
+        "mean": "a:父系",
+        "memory": "Yes",
+        "helping_text": " 父亲（patriarch）+ 权力（arch）= 父权制（patriarchal）- 意思是父权制的、父系统治的"
+    },
+    {
+        "word": "institutionalize",
+        "mean": "制度化",
+        "memory": "Yes",
+        "helping_text": " 将institutionalize拆分为两部分：institution（机构）+ alize（使…化）。因此，institutionalize的意思是使成为机构化，使制度化。"
+    },
+    {
+        "word": "clan",
+        "mean": "n:氏族,家族,部族,党派,系,队,集群,小集团,亲属,宗,族",
+        "memory": "Yes",
+        "helping_text": " clan这个单词和\"家族\"有联系，因为clan指的是一个由家族成员组成的社会团体。"
+    },
+    {
+        "word": "status",
+        "mean": "n:状态,地位,状况,身份,体质,现状,资格,位,身价,情形",
+        "memory": "Yes",
+        "helping_text": " 将status拆分成两部分，sta和tus。sta可以联想到start（开始），tus可以联想到trust（信任）。所以，status可以理解为一个人或事物的开始和信任程度，即其地位或状况。"
+    },
+    {
+        "word": "taboo",
+        "mean": "v:禁止,避讳,忌讳|n:禁忌,戒律",
+        "memory": "Yes",
+        "helping_text": " taboo这个单词的意思是禁忌，可以通过记忆“taboo”这个词的发音，类似于“太不”，表示某些行为或话题太不可接受，因此被视为禁忌。"
+    },
+    {
+        "word": "ethics",
+        "mean": "n:伦理学,伦理,道德",
+        "memory": "Yes",
+        "helping_text": " ethics（道德）- think of the word \"ethics\" as a reminder to always do what is right and moral."
+    },
+    {
+        "word": "genteel",
+        "mean": "a:优雅,文绉绉",
+        "memory": "Yes",
+        "helping_text": " 单词\"genteel\"听起来像\"gentle\"，意思也类似，都表示有礼貌和优雅的。"
+    },
+    {
+        "word": "marital",
+        "mean": "婚姻",
+        "memory": "Yes",
+        "helping_text": " marital这个单词与marriage（婚姻）有关，意思是关于婚姻的，婚姻的。"
+    },
+    {
+        "word": "polygamous",
+        "mean": "一夫多妻",
+        "memory": "Yes",
+        "helping_text": " polygamous这个单词中的\"poly\"意思是多，而\"gam\"意思是婚姻，所以polygamous的意思是一夫多妻或一妻多夫的。"
+    },
+    {
+        "word": "household",
+        "mean": "n:家庭|a:家用",
+        "memory": "Yes",
+        "helping_text": " household这个单词可以拆分成两部分：house（房子）和hold（持有）。因此，可以将household理解为“持有房子的人”，即指一个家庭或家庭成员。"
+    },
+    {
+        "word": "archeology",
+        "mean": "n:考古学,古物",
+        "memory": "Yes",
+        "helping_text": " archeology这个单词可以通过将其拆分为\"arche\"和\"ology\"来记忆。\"Arche\"来源于希腊语，意为\"古代\"，而\"ology\"表示\"学科\"。因此，archeology意为\"研究古代文明和文化的学科\"。"
+    },
+    {
+        "word": "invaluable",
+        "mean": "a:价值连城,金不换",
+        "memory": "Yes",
+        "helping_text": " 记住这个单词\"invaluable\"可以通过将其拆分为\"in\"（否定前缀）和\"valuable\"（有价值的）来理解，意思是无价的、非常宝贵的。"
+    },
+    {
+        "word": "unearth",
+        "mean": "v:发现,揭发,破获,揭露,挖掘,发掘",
+        "memory": "Yes",
+        "helping_text": " unearth意为“发掘”，可以通过将单词拆分为“under”（下面）和“earth”（地球）来记忆，表示从地下挖掘或发现。"
+    },
+    {
+        "word": "scoop",
+        "mean": "n:舀|v:掏,淘,撮",
+        "memory": "Yes",
+        "helping_text": " Scoop的意思是挖掘或抓取，可以通过将其与“铲子”联系起来记住，因为铲子用来挖掘或抓取东西。"
+    },
+    {
+        "word": "exhume",
+        "mean": "v:掘墓",
+        "memory": "Yes",
+        "helping_text": " exhume这个单词可以通过将其拆分为\"ex\"和\"hume\"来记忆，\"ex\"表示出，\"hume\"可以联想到humus（土壤），因此exhume的意思是挖出（尤指尸体）。"
+    },
+    {
+        "word": "excavate",
+        "mean": "v:挖,挖掘,发掘,开挖,掘开,凿,采掘,开掘,开凿,刨",
+        "memory": "Yes",
+        "helping_text": " excavate这个单词可以通过将其拆分为\"ex\"和\"cavate\"来记忆，其中\"ex\"表示出，\"cavate\"可以联想到洞穴或挖掘。因此，excavate的意思就是挖掘或发掘。"
+    },
+    {
+        "word": "excavation",
+        "mean": "n:挖掘,发掘,挖方,洞,穴,出土文物,坑道,开凿",
+        "memory": "Yes",
+        "helping_text": " excavation这个单词中包含\"excavate\"这个词根，意思是挖掘或开凿。所以可以通过将excavation与挖掘或开凿这些动作联系起来来记住它的意思。"
+    },
+    {
+        "word": "Neolithic",
+        "mean": "新石器时代",
+        "memory": "Yes",
+        "helping_text": " 新石器时代（Neolithic）- 这个词中的\"neo\"意为新，\"lithic\"意为石头，因此Neolithic指的是人类历史上使用石头工具的时代，也称为新石器时代。"
+    },
+    {
+        "word": "Mesolithic",
+        "mean": "中石器时代",
+        "memory": "Yes",
+        "helping_text": " Mesolithic这个单词可以通过将其拆分为两部分来记忆：Meso-表示中间，-lithic表示石器时代。因此，Mesolithic意思是“中间石器时代”，指的是石器时代的中期阶段。"
+    },
+    {
+        "word": "Paleolithic",
+        "mean": "旧石器时代的",
+        "memory": "Yes",
+        "helping_text": " Paleolithic这个单词可以通过将其拆分为两部分来记忆：Paleo（古代的）+ lithic（石器时代），因此Paleolithic意思是“石器时代的”或“旧石器时代的”。"
+    },
+    {
+        "word": "origin",
+        "mean": "n:起源,出身,起因,成因,原点,来源,血统,来历,由来,根源,源,渊源,起始,根本,本源,开始,母,起点,出发点,根,震源,根子,焦点,根由,缘起,本原,来路,因由,元,发端",
+        "memory": "Yes",
+        "helping_text": " \"origin\"这个单词的意思是\"起源\"，可以通过将\"origin\"拆分成\"or\"和\"gin\"，然后将\"or\"理解为\"起\"，\"gin\"理解为\"源\"，从而记住它的意思。"
+    },
+    {
+        "word": "chronological",
+        "mean": "按时间顺序排列",
+        "memory": "Yes",
+        "helping_text": " chronological意思是按时间顺序的，可以通过将单词拆分为\"chrono\"（时间）和\"logical\"（逻辑的）来记忆，表示按照时间顺序排列是合乎逻辑的。"
+    },
+    {
+        "word": "archaic",
+        "mean": "a:古,古物|n:古代",
+        "memory": "Yes",
+        "helping_text": " archaic这个单词的意思是古老的、过时的，可以通过将其拆分为\"arch\"（古老）和\"aic\"（过时）来记忆。"
+    },
+    {
+        "word": "ascend",
+        "mean": "v:上升,升,登,上坡,上去,升高,攀登,登高,高耸,腾",
+        "memory": "Yes",
+        "helping_text": " 将ascend拆分成两部分，\"as\"表示向上，\"cend\"来自于拉丁语\"scendere\"，意为爬升或上升。因此，ascend的意思就是向上爬升或上升。"
+    },
+    {
+        "word": "originate",
+        "mean": "v:引起,发源,首创,发生,开始,创始,发起,源于,发自,发明,来源,创办,创作,肇,创设,滥觞,起头|n:来源",
+        "memory": "Yes",
+        "helping_text": " 记住这个单词\"originate\"的方法是将其拆分为\"origin\"（起源）和\"ate\"（吃），表示某事物的起源或来源。"
+    },
+    {
+        "word": "primitive",
+        "mean": "n:原人,洪荒|a:洪荒",
+        "memory": "Yes",
+        "helping_text": " primitive这个单词可以通过将其拆分为\"prime\"（首要的）和\"itive\"（形容词后缀），从而记住它的意思是\"原始的\"或\"基本的\"。"
+    },
+    {
+        "word": "remnant",
+        "mean": "n:残余,零头,残存,残部,剩,剩余,遗迹,底子,余烬,残,头,尾,遗风,幸存者|a:残",
+        "memory": "Yes",
+        "helping_text": " remnant的意思是残余物，可以通过将其拆分为\"re\"（再次）和\"m\"（memory，记忆）来记忆，表示再次在记忆中留下的残余物。"
+    },
+    {
+        "word": "porcelain",
+        "mean": "n:瓷器,瓷,磁",
+        "memory": "Yes",
+        "helping_text": " 瓷器（porcelain）是一种脆弱的陶瓷制品，因此可以通过将“瓷”与“脆弱”联系起来记住这个单词。"
+    },
+    {
+        "word": "antique",
+        "mean": "n:古物|a:古色古香",
+        "memory": "Yes",
+        "helping_text": " antique这个单词的意思是古董，可以通过将antique拆分成两部分，ant（蚂蚁）和ique（独特），来记忆它的意思。因为蚂蚁通常会收集和保存独特的东西，所以antique可以理解为蚂蚁收集的独特古董。"
+    },
+    {
+        "word": "antiquity",
+        "mean": "n:古老,古迹,古物,古旧,古",
+        "memory": "Yes",
+        "helping_text": " antiquity这个单词中包含\"anti\"，可以联想到\"ancient\"，意思是古代。"
+    },
+    {
+        "word": "skull",
+        "mean": "n:颅骨,头骨,头颅,脑壳,脑颅,头盖骨,头顶,颅,头脑,智能",
+        "memory": "Yes",
+        "helping_text": " 记住单词skull的方法是将它与头骨联系起来，因为skull是头骨的意思。"
+    },
+    {
+        "word": "artifact",
+        "mean": "工件",
+        "memory": "Yes",
+        "helping_text": " artifact这个单词中的“fact”可以帮助记忆，它的意思是人类制造的物品或文化遗产。"
+    },
+    {
+        "word": "pharaoh",
+        "mean": "n:法老",
+        "memory": "Yes",
+        "helping_text": " Pharaoh（法老）- 记忆方式：Pharaoh的发音和“fair-oh”相似，法老是古埃及的统治者，他们通常被描绘为富有和公正的人。"
+    },
+    {
+        "word": "tunnel",
+        "mean": "n:隧道,地道,坑道|v:掘进",
+        "memory": "Yes",
+        "helping_text": " 记住单词\"tunnel\"的方法是将其与地下隧道联系起来，因为tunnel就是指地下或山洞中的通道。"
+    },
+    {
+        "word": "manuscript",
+        "mean": "n:手稿,原稿,稿子,稿件,底稿,文稿,稿本,遗稿,来稿,草稿,抄本,初稿,手抄本,稿,书稿",
+        "memory": "Yes",
+        "helping_text": " manuscript这个单词可以被理解为\"手稿\"，其中的\"manu\"可以联想到手的意思，而\"script\"可以联想到写作或文字的意思。所以，可以将manuscript理解为用手写的文稿。"
+    },
+    {
+        "word": "pit",
+        "mean": "n:坑,坑道,凹坑,核,掩体|v:凹陷,抵抗",
+        "memory": "Yes",
+        "helping_text": " pit这个单词可以和“坑洞”联系起来，因为pit的意思是“坑”或“深坑”。"
+    },
+    {
+        "word": "borehole",
+        "mean": "n:炮眼,钻井,钻孔|v:钻孔",
+        "memory": "Yes",
+        "helping_text": " 记住这个单词\"borehole\"的方法是将其拆分为\"bore\"（钻孔）和\"hole\"（孔洞），因此borehole的意思就是钻孔或钻井。"
+    },
+    {
+        "word": "quartz",
+        "mean": "n:石英,晶,水晶",
+        "memory": "Yes",
+        "helping_text": " Quartz是一种矿石，它的名字中包含\"quar\"，可以联想到\"quarry\"（采石场），帮助记住它是一种石头。"
+    },
+    {
+        "word": "marble",
+        "mean": "n:大理石,弹子,常识",
+        "memory": "Yes",
+        "helping_text": " 将marble拆分成两部分，\"mar\"代表玛瑙，\"ble\"代表球形，因此marble可以理解为球形的玛瑙。"
+    },
+    {
+        "word": "gem",
+        "mean": "n:宝石,珍品,珠宝,瑰宝,珠玑,珍宝,精华,佳作,宝物,珍珠",
+        "memory": "Yes",
+        "helping_text": " 将gem拆分成两部分，ge代表“宝石”，m代表“记忆”。因此，可以将gem与“宝石记忆”联系起来，帮助记住它的意思。"
+    },
+    {
+        "word": "fieldstone",
+        "mean": "大卵石",
+        "memory": "Yes",
+        "helping_text": " \"fieldstone\"这个单词可以通过将\"field\"（田野）和\"stone\"（石头）两个词结合起来来记忆，表示在田野或农田中发现的石头。"
+    },
+    {
+        "word": "emerald",
+        "mean": "n:绿宝石,翡翠,祖母绿,鲜绿色|a:翠绿",
+        "memory": "Yes",
+        "helping_text": " 翡翠（emerald）是一种绿色的宝石，可以通过将“emerald”拆分成“em”和“erald”，将“em”理解为“翡翠”的首字母，有助于记忆这个单词的意思。"
+    },
+    {
+        "word": "wiikite",
+        "mean": "维凯特",
+        "memory": "Yes",
+        "helping_text": " 将wiikite拆分成两部分，\"wiki\"和\"site\"，其中\"wiki\"指的是一种在线协作平台，\"site\"指的是网站。因此，可以将wiikite理解为一个在线协作网站。"
+    },
+    {
+        "word": "granite",
+        "mean": "n:花岗岩,花岗石",
+        "memory": "Yes",
+        "helping_text": " Granite是一种坚硬的岩石，与“硬如石头”的意思联系在一起。Granite的意思是花岗岩，可以通过将“granite”拆分为“gran”和“ite”来记忆，其中“gran”可以与“硬”联系起来，而“ite”可以与“石头”联系起来。"
+    },
+    {
+        "word": "lead",
+        "mean": "v:导致|n:矿脉,首位,引导,导言,枪弹,石墨,头部,引信|a:头",
+        "memory": "Yes",
+        "helping_text": " 将\"lead\"拆分成两部分，\"le\"和\"ad\"，\"le\"可以联想到\"leader\"（领导者），\"ad\"可以联想到\"advance\"（前进），因此\"lead\"的意思可以理解为\"领导前进\"。"
+    },
+    {
+        "word": "limestone",
+        "mean": "n:石灰石,石灰岩",
+        "memory": "Yes",
+        "helping_text": " limestone是一种石灰岩，可以通过将\"lime\"（石灰）和\"stone\"（石头）结合起来来记住它的意思。"
+    },
+    {
+        "word": "lava",
+        "mean": "n:熔岩,火山岩",
+        "memory": "Yes",
+        "helping_text": " 记住单词lava的方法是将它与火山喷发时流出的熔岩联系起来。 lava意思是火山喷发时流出的熔岩。"
+    },
+    {
+        "word": "ruby",
+        "mean": "n:红宝石,宝石,鲜红色,血,嘴",
+        "memory": "Yes",
+        "helping_text": " 将ruby这个单词与红宝石（ruby）的颜色联系起来，红宝石是一种宝石，而ruby是一种编程语言，两者都有红色的意义。"
+    },
+    {
+        "word": "bonanza",
+        "mean": "n:摇钱树,发财,富源",
+        "memory": "Yes",
+        "helping_text": " bonanza这个单词可以记忆为\"bone\"（骨头）+ \"anza\"（安扎），可以联想为在骨头上找到了宝藏，表示意外的财富或好运。"
+    },
+    {
+        "word": "mineral",
+        "mean": "n:矿物|a:矿物",
+        "memory": "Yes",
+        "helping_text": " 矿石（mineral）是地球上的自然资源，可以用来制造各种产品。要记住这个单词，可以联想到“mine”（矿山），因为矿石是从矿山中开采出来的。"
+    },
+    {
+        "word": "ore",
+        "mean": "n:矿石,矿砂,矿,矿车,矿层,贫矿",
+        "memory": "Yes",
+        "helping_text": " ore是矿石的意思，可以通过记忆“ore”这个单词的发音，联想到“矿石”这个含义。"
+    },
+    {
+        "word": "vein",
+        "mean": "n:静脉,血管,矿脉,脉,性格,叶脉,筋络,毛刺,倾向,裂缝,情绪,射流,性情,翅脉,裂痕,纹理,风格,筋,气质,心境",
+        "memory": "Yes",
+        "helping_text": " vein的意思是“静脉”，可以通过记忆“vein”中的“v”字母与“vascular（血管的）”中的“v”字母相同来帮助记忆。"
+    },
+    {
+        "word": "fossil",
+        "mean": "n:化石",
+        "memory": "Yes",
+        "helping_text": " Fossil这个单词和\"fossil fuel\"（化石燃料）的首字母相同，可以帮助记住它的意思是化石。"
+    },
+    {
+        "word": "petrify",
+        "mean": "v:石化,僵化",
+        "memory": "Yes",
+        "helping_text": " 将petrify拆分为pet和rify，pet可以理解为宠物，rify可以理解为变成，所以petrify的意思就是变成宠物，或者使惊呆。"
+    },
+    {
+        "word": "geology",
+        "mean": "n:地质学,地质",
+        "memory": "Yes",
+        "helping_text": " geology（地质学）- 记住这个单词的方法是将其分解为\"geo\"（地球）和\"logy\"（学科），因此geology就是研究地球的学科。"
+    },
+    {
+        "word": "aluminum",
+        "mean": "n:铝,钢精",
+        "memory": "Yes",
+        "helping_text": " 铝（aluminum）是一种金属，可以通过记忆“alu”这个音节来联想。"
+    },
+    {
+        "word": "core",
+        "mean": "n:核心,中心,芯,芯子,地核,心,岩心,精髓|v:铁心",
+        "memory": "Yes",
+        "helping_text": " 将单词\"core\"与\"核心\"联系起来，因为\"core\"的意思就是核心，主要部分。"
+    },
+    {
+        "word": "crater",
+        "mean": "n:火山口,弹坑,陨石坑",
+        "memory": "Yes",
+        "helping_text": " crater（火山口）- 记住这个单词的方法是想象一个火山口的形状，它像一个碗状凹陷的坑。"
+    },
+    {
+        "word": "diamond",
+        "mean": "n:钻石,金刚石,方块,钻,金刚钻,菱形,棒球场,球场,煤",
+        "memory": "Yes",
+        "helping_text": " Diamond这个单词和它的意思的联系方式是：钻石是一种珍贵的宝石，而diamond这个单词的首字母\"D\"可以代表\"宝贵\"。"
+    },
+    {
+        "word": "glacial",
+        "mean": "冰川",
+        "memory": "Yes",
+        "helping_text": " 将glacial拆分成两部分，\"glac\"意为冰川，\"ial\"是形容词后缀，所以glacial意为像冰川一样的，冰冷的。"
+    },
+    {
+        "word": "glacier",
+        "mean": "n:冰川,冰河",
+        "memory": "Yes",
+        "helping_text": " 冰川（glacier）的意思是“冰川”，可以通过将“glacier”拆分成“ice”和“ear”来记忆，即“冰”和“耳朵”，因为冰川形状有点像耳朵。"
+    },
+    {
+        "word": "iceberg",
+        "mean": "n:冰山",
+        "memory": "Yes",
+        "helping_text": " 冰山（iceberg）的一部分在水面上，大部分在水下，类似于记忆中只看到了一部分，实际上还有更多的意义或信息。"
+    },
+    {
+        "word": "plate",
+        "mean": "n:盘子,板,板块,极板,钢板,盘,底片|v:喷镀",
+        "memory": "Yes",
+        "helping_text": " plate这个单词和它的意思联系在一起，可以想象盘子（plate）上放着食物，表示一种容器或承载物品的平面表面。"
+    },
+    {
+        "word": "tremor",
+        "mean": "n:地震,震颤,战栗,振动|v:振动,震颤,震荡",
+        "memory": "Yes",
+        "helping_text": " tremor的意思是震颤，可以通过将\"tremor\"拆分成\"trem\"和\"or\"，\"trem\"可以联想到tremble（颤抖），\"or\"可以联想到order（秩序），所以可以记住tremor是指身体的不受控制的颤抖。"
+    },
+    {
+        "word": "earthquake",
+        "mean": "n:地震,震,动乱,地动",
+        "memory": "Yes",
+        "helping_text": " 地震（earthquake）是地球表面发生的震动，可以通过将“earth”（地球）和“quake”（震动）两个词合并来记忆。"
+    },
+    {
+        "word": "seism",
+        "mean": "n:地震",
+        "memory": "Yes",
+        "helping_text": " seism - 地震，记忆方式：seism中的\"se\"可以联想到\"地\"，而\"ism\"可以联想到\"震\"，所以seism可以理解为地震。"
+    },
+    {
+        "word": "seismic",
+        "mean": "地震",
+        "memory": "Yes",
+        "helping_text": " 将单词\"seismic\"拆分成两部分，\"sei\"和\"smic\"，然后将\"sei\"联想为\"地震\"，\"smic\"联想为\"声音\"，因此\"seismic\"的意思可以理解为与地震或地震引起的声音有关。"
+    },
+    {
+        "word": "seismology",
+        "mean": "n:地震学",
+        "memory": "Yes",
+        "helping_text": " 地震学（seismology）- 地震（seismic）的学科，研究地球的震动和地震活动。"
+    },
+    {
+        "word": "magnitude",
+        "mean": "n:大小,数值,巨大,重大,震级,星等,重要性,广大,伟大,量度,强度,尺寸,数量",
+        "memory": "Yes",
+        "helping_text": " magnitude这个单词中包含了\"magni-\"这个词根，意思是\"大\"或\"重要\"。因此，可以通过这个词根来记忆magnitude的意思，即表示\"大小\"或\"重要性\"。"
+    },
+    {
+        "word": "cataclysm",
+        "mean": "n:洪水,天翻地覆,渗出|v:渗出",
+        "memory": "Yes",
+        "helping_text": " 将\"cataclysm\"拆分成两部分，\"cat\"和\"clysm\"。\"Cat\"可以让你想到猫，而\"clysm\"可以让你想到灾难。因此，可以将\"cataclysm\"记忆为猫引发的灾难，帮助记住它的意思是大灾难或灾难性事件。"
+    },
+    {
+        "word": "stratum",
+        "mean": "n:地层,岩层,阶层,层,大气层",
+        "memory": "Yes",
+        "helping_text": " stratum这个单词可以通过将其拆分为\"stra\"和\"tum\"来记忆，\"stra\"可以联想到\"layer\"或\"level\"，而\"tum\"可以联想到\"sum\"或\"total\"，因此stratum的意思可以理解为\"层级\"或\"层次\"。"
+    },
+    {
+        "word": "mantle",
+        "mean": "n:地幔,斗篷,衣钵,外表,罩衣,细胞膜,槽,披风,纱罩,水槽,外套,外罩,罩,罩袍|v:扩展,覆,隐蔽,展开",
+        "memory": "Yes",
+        "helping_text": " mantle这个单词可以和\"blanket\"联系起来，因为mantle的意思是\"覆盖物\"，就像一条毯子覆盖在身上一样。"
+    },
+    {
+        "word": "lithogenous",
+        "mean": "造礁的",
+        "memory": "Yes",
+        "helping_text": " lithogenous可以拆分为两部分：litho（岩石）+ genous（产生），所以它的意思是“产生岩石的”。"
+    },
+    {
+        "word": "lithosphere",
+        "mean": "n:地壳",
+        "memory": "Yes",
+        "helping_text": " lithosphere的意思是地球的岩石层，可以通过将lithosphere拆分成两部分来记忆：litho表示岩石，sphere表示球形，因此lithosphere就是地球的岩石层。"
+    },
+    {
+        "word": "layer",
+        "mean": "n:层,膜,地层,涂层,蛋鸡,阶层|v:压条,压枝",
+        "memory": "Yes",
+        "helping_text": " 将layer拆分成两部分，\"lay\"表示放置或堆叠，\"er\"表示人或物体。因此，layer的意思是堆叠或放置在一起的东西。"
+    },
+    {
+        "word": "asthenosphere",
+        "mean": "软流层",
+        "memory": "Yes",
+        "helping_text": " asthenosphere这个单词可以通过将其分解为\"astheno\"和\"sphere\"来记忆。\"astheno\"意为\"无力的\"，\"sphere\"意为\"球体\"，因此asthenosphere指的是地球内部的一层软弱、流动的岩石层。"
+    },
+    {
+        "word": "crust",
+        "mean": "n:地壳,外壳,外表,表面,外皮,厚颜无耻,老面皮|v:结痂",
+        "memory": "Yes",
+        "helping_text": " crust的意思是“硬壳”或“外壳”，可以通过将其与面包或派的外层联系起来记住这个单词。"
+    },
+    {
+        "word": "fault",
+        "mean": "n:故障,断层,缺点,错,过错,过失,毛病,过,事故,缺陷,责任,不是,岔子,缺,错处,罪过,短处,短|v:犯规,挑剔,尤|a:短",
+        "memory": "Yes",
+        "helping_text": " 记住单词\"fault\"的方法是将其与\"错误\"联系起来，因为\"fault\"的意思就是错误或过失。"
+    },
+    {
+        "word": "magma",
+        "mean": "n:岩浆",
+        "memory": "Yes",
+        "helping_text": " 记住单词\"magma\"的方法是将其与\"火山\"联系起来，因为magma是在地壳深处的熔岩，它在火山喷发时会喷出地表。"
+    },
+    {
+        "word": "squirt",
+        "mean": "n:喷,水枪,注射器|v:注射",
+        "memory": "Yes",
+        "helping_text": " squirt这个单词听起来像“挤压”的声音，所以可以联想到squirt的意思是“喷射、喷出”。"
+    },
+    {
+        "word": "erupt",
+        "mean": "v:爆发,喷发,爆裂,迸发,涌出,暴发,勃发,大作",
+        "memory": "Yes",
+        "helping_text": " erupt这个单词的意思是爆发或喷发，可以通过将erupt拆分成e-rupt，其中e可以代表\"out\"，rupt可以联想到rupture（破裂），所以erupt的意思就是\"向外破裂\"，帮助记忆这个单词的意思。"
+    },
+    {
+        "word": "eruption",
+        "mean": "n:喷发,爆发,疹,迸发,暴发,疹子",
+        "memory": "Yes",
+        "helping_text": " eruption这个单词的意思是爆发或喷发。可以通过将“eruption”拆分成“er”和“option”，联想到“emergency option（紧急选择）”，表示突然发生的爆发或喷发。"
+    },
+    {
+        "word": "outburst",
+        "mean": "n:爆发,迸发|v:爆发",
+        "memory": "Yes",
+        "helping_text": " outburst这个单词可以理解为\"out\"表示向外，\"burst\"表示爆发，所以outburst的意思就是突然爆发或爆发出来的情绪或行为。"
+    },
+    {
+        "word": "volcanic",
+        "mean": "a:火山,猛烈",
+        "memory": "Yes",
+        "helping_text": " volcanic这个单词与\"volcano\"有关，意思是火山的。记住这个单词可以通过将\"volcanic\"中的\"volc\"与\"volcano\"联系起来，表示它们之间有关联。"
+    },
+    {
+        "word": "thermal",
+        "mean": "a:热",
+        "memory": "Yes",
+        "helping_text": " thermal这个单词与热有关，可以通过记忆“thermal”中的“therm”来联想热的意思。"
+    },
+    {
+        "word": "tundra",
+        "mean": "n:苔原",
+        "memory": "Yes",
+        "helping_text": " 记住单词\"tundra\"的方法是将其与\"冰冻荒原\"联系起来，因为tundra是指气候寒冷、植被稀少的地区。"
+    },
+    {
+        "word": "advent",
+        "mean": "n:到来,来临|v:到来",
+        "memory": "Yes",
+        "helping_text": " Advent的意思是“到来”或“出现”，可以通过将其与“Adventure（冒险）”联系起来记住，因为冒险通常伴随着新的到来或出现。"
+    },
+    {
+        "word": "toll",
+        "mean": "n:税|v:报丧,勾引",
+        "memory": "Yes",
+        "helping_text": " toll的意思是通行费，可以通过将toll拆分成两部分，to和ll，来记忆。to表示向前，ll可以理解为两个人，所以通行费就是向前走时需要支付的费用。"
+    },
+    {
+        "word": "precious",
+        "mean": "a:宝贵,珍贵,非常,极,贵重,可贵,贵|d:极|n:宝",
+        "memory": "Yes",
+        "helping_text": " precious这个单词的意思是珍贵的，可以通过将它拆分成两部分来记忆：pre（提前）+ cious（珍贵），即提前就知道它是珍贵的。"
+    },
+    {
+        "word": "prosperous",
+        "mean": "a:昌,红火,穰,熙攘,熙,华,隆,兴隆,旺,隆盛,盛|v:盛,欣欣向荣,兴旺",
+        "memory": "Yes",
+        "helping_text": " prosperous意思是繁荣的，可以通过将其拆分为\"prosper\"（繁荣）和\"ous\"（形容词后缀）来记忆。"
+    },
+    {
+        "word": "prosperity",
+        "mean": "n:繁荣,繁荣昌盛,昌盛,兴盛,繁华,嘏|a:景气",
+        "memory": "Yes",
+        "helping_text": " prosperity的意思是繁荣，可以通过将prosperity拆分为prosper和ity来记忆，prosper表示繁荣，ity表示性质或状态，因此prosperity就是繁荣的状态。"
+    },
+    {
+        "word": "rich",
+        "mean": "a:富,丰富,富有,有钱,肥沃,阔气,阔,富饶,浓郁,富足,丰盛,醇厚,肥美,殷实,充实,肥|v:腆,饶",
+        "memory": "Yes",
+        "helping_text": " rich这个单词的意思是富有。要记住这个单词，可以把它和“钱很多”的概念联系起来，因为富有的人通常拥有很多钱。"
+    },
+    {
+        "word": "rare",
+        "mean": "a:罕见,稀有,难得,少有,珍贵,稀薄,个别,稀少,罕有,珍奇,名贵,鲜,冷,不可多得,稀罕,傀,珍,瑰,罕,希奇,稀,生僻,稀奇,珍异|d:很,极",
+        "memory": "Yes",
+        "helping_text": " 罕见的事物很少见，就像这个单词中的字母r一样。"
+    },
+    {
+        "word": "asset",
+        "mean": "n:资产,财产",
+        "memory": "Yes",
+        "helping_text": " \"asset\"这个单词可以记住是\"as set\"，意思是\"作为一组\"，表示某样东西是一组中的一部分，通常指有价值的财产或资源。"
+    },
+    {
+        "word": "fortune",
+        "mean": "n:财产,命运,运气,好运,幸运,财富,时运,命,巨富|v:运",
+        "memory": "Yes",
+        "helping_text": " 记住单词\"fortune\"的方法是将其与\"luck\"（幸运）联系起来，因为\"fortune\"意为财富、命运或运气。"
+    },
+    {
+        "word": "opulence",
+        "mean": "n:丰富,丰饶,富裕",
+        "memory": "Yes",
+        "helping_text": " opulence这个单词的意思是富裕或奢华。要记住这个单词，可以把它拆分成\"opu\"和\"lence\"，\"opu\"可以联想到\"opulent\"，而\"lence\"可以联想到\"luxurious\"，这样就可以记住opulence的意思是富裕或奢华。"
+    },
+    {
+        "word": "finance",
+        "mean": "n:财政,财务,资金,金融,财政学,岁入|v:筹资",
+        "memory": "Yes",
+        "helping_text": " 记住单词\"finance\"的方法是将其与\"money\"联系起来，因为finance指的是管理和处理资金的活动。"
+    },
+    {
+        "word": "economic",
+        "mean": "a:经济",
+        "memory": "Yes",
+        "helping_text": " 经济（economic）这个单词的意思是与货币、财富、资源等有关的。要记住这个单词，可以联想到“eco”这个词根，它来源于希腊语“oikos”，意为家庭或家庭财产。因此，经济（economic）就是管理家庭财产或资源的意思。"
+    },
+    {
+        "word": "indigent",
+        "mean": "贫困的",
+        "memory": "Yes",
+        "helping_text": " Indigent可以记忆为\"没钱\"，意思是贫困的，穷困的。"
+    },
+    {
+        "word": "depression",
+        "mean": "n:萧条,情绪,不景气,沮丧,洼地,凹陷,降低,洼,沉陷,低气压区,低压,潭,忧闷,陷落|v:凹陷,沉陷,降低",
+        "memory": "Yes",
+        "helping_text": " 情绪低落的时候，人们往往会感到沮丧和消沉，这种情绪状态就像是被压抑在心里，所以记住单词\"depression\"的方法就是将其与情绪低落的感觉联系起来。"
+    },
+    {
+        "word": "penury",
+        "mean": "n:吝啬,赤贫,缺乏,贫穷",
+        "memory": "Yes",
+        "helping_text": " penury这个单词的意思是贫困或贫困的状态。记住这个单词的方法是将其拆分为\"pen\"和\"poverty\"，\"pen\"可以联想到笔，而\"poverty\"意为贫困，所以penury可以理解为\"用笔记录贫困\"，帮助记忆其意思。"
+    },
+    {
+        "word": "bidding",
+        "mean": "n:吩咐,出价,邀请,公告,投标,命令",
+        "memory": "Yes",
+        "helping_text": " 将单词\"bidding\"拆分为\"bid\"和\"ding\"，\"bid\"表示出价或竞标，\"ding\"可以联想到\"ding dong\"的声音，可以理解为在竞价时不断地敲响钟声，提醒参与者出价。"
+    },
+    {
+        "word": "drawback",
+        "mean": "n:缺点,障碍,弊病,弊端,失误,退款,不利,回火,退税,妨碍,缺陷|v:退税,退款",
+        "memory": "Yes",
+        "helping_text": " drawback这个单词可以拆分成两部分，\"draw\"表示拉、拖，\"back\"表示向后。所以可以联想到drawback的意思是某种事物或情况向后拖延、拖累，即缺点、不利之处。"
+    },
+    {
+        "word": "exponent",
+        "mean": "n:指数,幂,典型,解说员,样品",
+        "memory": "Yes",
+        "helping_text": " 指数（exponent）是一个数学术语，表示一个数的幂。记住这个单词可以通过将“exponent”拆分成“ex”和“ponent”，其中“ex”可以理解为“出”，“ponent”可以理解为“力量”，因此指数可以理解为“出力量”，即表示一个数的幂。"
+    },
+    {
+        "word": "lease",
+        "mean": "v:租,出租|n:租契",
+        "memory": "Yes",
+        "helping_text": " lease这个单词和\"租赁\"有联系，因为lease的意思就是租赁或租用。"
+    },
+    {
+        "word": "redress",
+        "mean": "v:革除|n:善后",
+        "memory": "Yes",
+        "helping_text": " 记住redress这个单词的方法是将其拆分成两部分：red和dress。red表示红色，dress表示穿着。因此，redress的意思是“重新穿上红色的衣服”，即纠正或修正错误。"
+    },
+    {
+        "word": "compensation",
+        "mean": "n:赔偿,补偿,赔偿费,报酬,薪水|v:补偿",
+        "memory": "Yes",
+        "helping_text": " compensation这个单词可以理解为\"compensate\"（补偿），所以可以记住这个单词的意思是\"补偿\"。"
+    },
+    {
+        "word": "deficit",
+        "mean": "n:赤字,亏损,不足,短缺,欠缺,透支,亏空,亏蚀|a:入超|v:透支",
+        "memory": "Yes",
+        "helping_text": " 记住deficit这个单词的方法是将其拆分为“de”和“ficit”，“de”表示“不”，而“ficit”可以联想到“fiction（虚构）”，因此deficit的意思是“不足，赤字”。"
+    },
+    {
+        "word": "levy",
+        "mean": "v:扣押,征税,征收,征集|n:课,募集,召集,征税",
+        "memory": "Yes",
+        "helping_text": " 记住levy这个单词的方法是将其与\"税收\"联系起来，因为levy的意思就是征税或征收。levy和税收都是以L开头，可以帮助记忆它们之间的联系。"
+    },
+    {
+        "word": "ration",
+        "mean": "n:配给|v:配售,限定",
+        "memory": "Yes",
+        "helping_text": " ration这个单词与\"ratio\"（比率）有相似的拼写，可以帮助记忆其意思是\"配给\"或\"定量\"。"
+    },
+    {
+        "word": "rebate",
+        "mean": "n:回扣,折头,折扣,减少|v:减少,折,削弱,打折扣",
+        "memory": "Yes",
+        "helping_text": " rebate这个单词可以记忆为\"re\"表示再次，\"bate\"可以理解为减少，所以rebate的意思就是再次减少，即退款或折扣。"
+    },
+    {
+        "word": "merchandise",
+        "mean": "n:商品|v:买卖",
+        "memory": "Yes",
+        "helping_text": " 将\"merchandise\"拆分成两部分，\"merch\"和\"and\"，\"merch\"可以联想到\"商业\"，而\"and\"可以联想到\"和\"，因此\"merchandise\"的意思就是商业产品或商品。"
+    },
+    {
+        "word": "commerce",
+        "mean": "n:商业,贸易,商务,交际,商,社交,交流,性交,应酬",
+        "memory": "Yes",
+        "helping_text": " Commerce这个单词可以通过将其拆分为\"com\"和\"merce\"来记忆，\"com\"可以理解为共同或交流，而\"merce\"可以理解为商品或交易。因此，commerce的意思就是商品交易或商业活动。"
+    },
+    {
+        "word": "enterprise",
+        "mean": "n:企业,事业,进取心,计划,事业心,兴办,胆识,业,开创",
+        "memory": "Yes",
+        "helping_text": " 企业（enterprise）- 企业是一个组织或公司，通常从事商业活动或生产商品或服务。记住这个单词的方法是将其与商业活动和公司联系起来。"
+    },
+    {
+        "word": "currency",
+        "mean": "n:货币,通货,通用,流通,传播,流传,行情,币,钱钞,宝,钿",
+        "memory": "Yes",
+        "helping_text": " currency这个单词中包含了\"current\"这个词根，表示当前的、流通的。因此，可以通过\"currency\"这个词来记住它的意思是指货币、流通货币。"
+    },
+    {
+        "word": "inventory",
+        "mean": "n:存货,清单,目录,盘存,清册|v:盘存",
+        "memory": "Yes",
+        "helping_text": " inventory这个单词可以通过将其拆分为\"in\"和\"ventory\"来记忆，其中\"in\"表示内部，\"ventory\"可以联想到\"venture\"，即冒险或投资。因此，inventory的意思是存货或库存，表示企业内部的投资或冒险。"
+    },
+    {
+        "word": "quota",
+        "mean": "n:定额,配额,限额,指标,数额,份",
+        "memory": "Yes",
+        "helping_text": " Quota的意思是配额或限额，可以通过将quota拆分成两部分qu和ota，qu可以联想到quantity（数量），ota可以联想到order（顺序），所以quota可以理解为规定的数量或顺序。"
+    },
+    {
+        "word": "tariff",
+        "mean": "n:关税,价格,税则,税率,价目表,计价,收费",
+        "memory": "Yes",
+        "helping_text": " tariff这个单词可以记忆为\"tax on imports\"，即关税。"
+    },
+    {
+        "word": "inflation",
+        "mean": "n:通货膨胀,膨胀,充气,自负,夸张,暴涨,补给,打气",
+        "memory": "Yes",
+        "helping_text": " 记住单词\"inflation\"的方法是将其与\"膨胀\"联系起来，因为inflation意思就是价格膨胀，通货膨胀。"
+    },
+    {
+        "word": "deal",
+        "mean": "v:处理|n:密约,协议,政策,数额,松木,协定,交",
+        "memory": "Yes",
+        "helping_text": " deal这个单词可以和\"deal with\"联系起来，意思是处理、应对。"
+    },
+    {
+        "word": "cause",
+        "mean": "n:问题,动机,事件|v:致使,惹,招致|p:因,由|c:故",
+        "memory": "Yes",
+        "helping_text": " 记住单词\"cause\"的方法是将其与\"原因\"联系起来，因为\"cause\"的意思就是\"原因\"。"
+    },
+    {
+        "word": "consume",
+        "mean": "v:消耗,烧毁,吃光,耗费,消费,毁灭,浪费,空耗,枯萎,耗,消灭,耗损,消磨",
+        "memory": "Yes",
+        "helping_text": " consume这个单词的意思是“消耗”或“消费”，可以通过将consume拆分成con（一起）和sume（sum的变体，表示拿走），联想到消耗或消费是拿走一部分东西，从而记住这个单词的意思。"
+    },
+    {
+        "word": "disburse",
+        "mean": "v:支付,支,支出,付出,分配,分散",
+        "memory": "Yes",
+        "helping_text": " disburse这个单词可以通过将其拆分成两部分来记忆：dis-表示“分开”或“除去”，而burse可以联想到“burst”，表示“爆发”或“释放”。因此，disburse的意思是“支付”或“分发资金”。"
+    },
+    {
+        "word": "acting",
+        "mean": "n:演出,演戏|a:代理,演出|v:代",
+        "memory": "Yes",
+        "helping_text": " 表演（acting）这个单词和“行动”（action）有相似的发音，可以通过“行动”来联想记忆，表示演员在舞台或电影中通过行动来表达角色的情感和故事情节。"
+    },
+    {
+        "word": "inertia",
+        "mean": "n:惯性,惰性,惯量,迟钝,无力",
+        "memory": "Yes",
+        "helping_text": " 记住单词\"inertia\"的方法是将其与\"惰性\"联系起来，因为inertia的意思就是物体保持其静止或运动状态直到外力作用。"
+    },
+    {
+        "word": "discount",
+        "mean": "v:减弱,贴息,扣,忽视,低估,藐视|n:贴现率,贴现,折头,回扣,扣头,贴息,缺憾",
+        "memory": "Yes",
+        "helping_text": " discount这个单词中的\"count\"可以让我们联想到减少、降低价格，因此discount的意思就是打折、折扣。"
+    },
+    {
+        "word": "audit",
+        "mean": "v:旁听,审计,查,查账,稽核,检查,清算|n:查账,决算",
+        "memory": "Yes",
+        "helping_text": " audit这个单词可以和\"听\"联系起来，因为在进行审计时需要仔细听取和检查财务信息。audit的意思是审计，即对财务记录和账目进行仔细检查和评估。"
+    },
+    {
+        "word": "shipment",
+        "mean": "n:装运,装船,装货|v:装运,装货",
+        "memory": "Yes",
+        "helping_text": " shipment这个单词可以通过将其拆分为ship（船）和ment（动作或过程）来记忆，表示货物被装船运送的过程。"
+    },
+    {
+        "word": "surplus",
+        "mean": "n:顺差,过剩,剩余,盈余|a:多余,浮,余,剩|v:余剩,过剩",
+        "memory": "Yes",
+        "helping_text": " surplus这个单词可以记忆为\"sur\"（超过）+ \"plus\"（额外的），意思是超过需要的额外数量。"
+    },
+    {
+        "word": "residue",
+        "mean": "n:残渣,余数,残余,剩余,渣,渣滓,余款,脚,木屑,废渣",
+        "memory": "Yes",
+        "helping_text": " residue这个单词可以被记住，因为它的结尾“due”和“剩余”的意思有关。residue的意思是剩余物或残留物。"
+    },
+    {
+        "word": "account",
+        "mean": "n:账目,账户,叙述,考虑|v:叙述",
+        "memory": "Yes",
+        "helping_text": " 记住单词\"account\"的方法是将其拆分为\"ac\"和\"count\"，意思是\"计算\"或\"计数\"。因此，可以将\"account\"理解为\"计算\"或\"计数\"某人或某物的情况或事实。"
+    },
+    {
+        "word": "bankruptcy",
+        "mean": "n:破产,倒闭,亏空,倒账",
+        "memory": "Yes",
+        "helping_text": " bankruptcy这个词可以拆分成\"bank\"和\"rupt\"，bank表示银行，rupt表示破裂或破产。所以bankruptcy的意思就是银行破产或破产。"
+    },
+    {
+        "word": "savings",
+        "mean": "n:积蓄,储蓄",
+        "memory": "Yes",
+        "helping_text": " Savings意为储蓄，可以通过将单词中的\"save\"理解为\"节省\"或\"储蓄\"来记住其意思。"
+    },
+    {
+        "word": "collateral",
+        "mean": "n:旁系亲属,抵押品|a:抵押,并行|v:抵押",
+        "memory": "Yes",
+        "helping_text": " collateral这个单词的意思是“担保物”，可以通过将其拆分为“collate”（整理）和“lateral”（侧面）来记忆，即担保物是在一方面整理和支持另一方面的。"
+    },
+    {
+        "word": "check",
+        "mean": "v:检查|n:同意,屋檐,校,校对,斥责,将军,阻止,妨碍,格,答应",
+        "memory": "Yes",
+        "helping_text": " 记住单词check的方法是将其与“检查”联系起来，因为check的意思就是检查或核对。"
+    },
+    {
+        "word": "coin",
+        "mean": "v:铸造,铸,铸币,制造|n:硬币,钱币,铸币",
+        "memory": "Yes",
+        "helping_text": " coin这个单词和它的意思联系在一起，可以通过记住coin是硬币的意思，硬币通常用来支付购买物品或服务，所以可以联想coin和支付、交易的关系。"
+    },
+    {
+        "word": "depreciate",
+        "mean": "v:贬值,折旧,跌价,贬低,贬抑,毛,贬,减价",
+        "memory": "Yes",
+        "helping_text": " depreciate的意思是贬值或贬低。记住这个单词的方法是将其拆分为\"de\"（降低）和\"appreciate\"（欣赏），即降低欣赏，表示价值下降或贬值。"
+    },
+    {
+        "word": "merge",
+        "mean": "v:合并,并,融合,混同|a:融和",
+        "memory": "Yes",
+        "helping_text": " 将merge拆分成两部分，\"mer\"和\"ge\"，\"mer\"可以联想为\"合并\"，而\"ge\"可以联想为\"一起\"，因此merge的意思就是将两个或多个东西合并在一起。"
+    },
+    {
+        "word": "reimburse",
+        "mean": "v:补偿,赔偿,偿付,偿还,赔还,退款",
+        "memory": "Yes",
+        "helping_text": " reimburse的意思是偿还或报销费用。记住这个单词的方法是将其拆分为\"re\"（再次）和\"imburse\"（支付），即再次支付或报销费用。"
+    },
+    {
+        "word": "garner",
+        "mean": "n:获得,加纳,收集,蓄积,谷仓|v:积累",
+        "memory": "Yes",
+        "helping_text": " garner这个单词可以记忆为\"gar\" + \"ner\"，其中\"gar\"可以联想到\"gather\"，而\"ner\"可以联想到\"near\"，所以garner的意思就是\"收集\"或\"获得\"。"
+    },
+    {
+        "word": "patronage",
+        "mean": "n:赞助,惠顾,保护,顾,光顾,支援,奖励",
+        "memory": "Yes",
+        "helping_text": " patronage这个单词可以通过将其拆分为两部分来记忆：patron和age。其中，patron指的是赞助人或资助者，而age表示状态或过程。因此，可以将patronage理解为赞助或资助的状态或过程。"
+    },
+    {
+        "word": "choose",
+        "mean": "v:选择,选,挑选,挑,决定,喜欢,想,选拔,选用,抉择,择,点,取,选取,推举,宁愿,推选,拔取,拣,举,涓,简,遴,物色,抡,推,选购,欲,拣选,看中,别择,卜,评选",
+        "memory": "Yes",
+        "helping_text": " 选择（choose）这个单词的联系方式是：选择（choose）这个单词的意思就是做出决定或挑选。"
+    },
+    {
+        "word": "choice",
+        "mean": "n:选择,审慎,挑三窝四,精华|a:精,珍视|v:选择",
+        "memory": "Yes",
+        "helping_text": " 选择（choice）这个单词的联系方式是：选择（choice）这个单词的意思是从多个选项中做出决定。"
+    },
+    {
+        "word": "barter",
+        "mean": "v:换|n:易货",
+        "memory": "Yes",
+        "helping_text": " barter这个单词的意思是“以物易物”，可以通过将barter拆分成两部分，bar和ter，bar可以联想到“酒吧”或“酒吧里的交易”，而ter可以联想到“trade”，即交易，从而记住barter的意思是“以物易物”。"
+    },
+    {
+        "word": "purchase",
+        "mean": "n:购买,买|v:采买,置,购,收购,采办",
+        "memory": "Yes",
+        "helping_text": " 购买（purchase）这个单词的记忆方式是将其拆分为\"pur\"和\"chase\"，\"pur\"可以联想到\"pure\"（纯净的），而\"chase\"可以联想到\"追逐\"，所以购买就是追逐纯净的东西，即购买纯净的商品。"
+    },
+    {
+        "word": "deposit",
+        "mean": "v:沉积|n:押租,藏,仓库,寄存",
+        "memory": "Yes",
+        "helping_text": " 存款（deposit）就像是把钱存入银行一样，把钱放入（deposit）银行账户。"
+    },
+    {
+        "word": "commission",
+        "mean": "n:委员会,佣金|v:启动,代办",
+        "memory": "Yes",
+        "helping_text": " 将\"commission\"拆分成两部分，\"com\"表示共同，\"mission\"表示任务，因此\"commission\"可以理解为共同完成的任务，即委托或授权他人完成某项任务。"
+    },
+    {
+        "word": "ransom",
+        "mean": "n:赎金|v:赎回",
+        "memory": "Yes",
+        "helping_text": " ransom这个单词可以通过将其拆分成两部分来记忆：ran（跑）和 some（一些），意思是支付一些钱来赎回被绑架的人或物品。"
+    },
+    {
+        "word": "charge",
+        "mean": "n:电荷|v:猛攻,冲杀,促,赊购,职掌,充",
+        "memory": "Yes",
+        "helping_text": " 记住charge这个单词的方法是将其与“费用”联系起来，因为charge通常指的是费用或费用的行为。"
+    },
+    {
+        "word": "bond",
+        "mean": "n:债券,键,证券|v:粘附,粘着,连结",
+        "memory": "Yes",
+        "helping_text": " 将单词\"bond\"与\"连接\"联系起来，因为bond意为连接或联系。"
+    },
+    {
+        "word": "custom",
+        "mean": "n:风俗,海关,习惯,习俗,惯例,关税,习惯法,规矩,常规,风,遗俗,流俗|a:俗|v:定制",
+        "memory": "Yes",
+        "helping_text": " 将custom拆分成两部分，\"cus\"和\"tom\"，\"cus\"可以联想到\"customer\"，表示顾客或客户，而\"tom\"可以联想到\"tomb\"，表示墓地或坟墓。因此，可以将custom理解为\"客户的习惯或传统\"，即指定的行为或做法。"
+    },
+    {
+        "word": "bonus",
+        "mean": "n:奖金,红利,花红,红,赢利",
+        "memory": "Yes",
+        "helping_text": " bonus这个单词的意思是额外的奖金或好处，可以通过记忆“bonus”这个单词的发音和“奖金”的意思来联系起来。"
+    },
+    {
+        "word": "interest",
+        "mean": "n:兴趣,利益,利息,爱好,利率,兴味,利润,利,影响,利害,有趣,股份,关注,趣味,情趣,权利,兴致,事业,重要性,乐趣,来头,味道,劲,势力,意思|v:致,聊,兴",
+        "memory": "Yes",
+        "helping_text": " interest这个单词中包含了\"rest\"，可以理解为\"引起兴趣，使人停下来关注的事物\"。"
+    },
+    {
+        "word": "means",
+        "mean": "n:手段,着,工具,资产,筹,法子,路,法,资料|v:筹,入",
+        "memory": "Yes",
+        "helping_text": " 将单词和它的意思联系起来，形成一个简洁易记的关联，比如用一句话或者图像来帮助记忆。"
+    },
+    {
+        "word": "debt",
+        "mean": "n:债务,债,债款,借款,欠款,亏欠,帐,饥荒,罪孽,恩,窟窿,亏空|v:亏欠",
+        "memory": "Yes",
+        "helping_text": " Debt的意思是债务，可以通过记忆“debt”中的“b”来联想“borrow”（借）的意思，借钱就会产生债务。"
+    },
+    {
+        "word": "fund",
+        "mean": "n:资金,基金,钱,款项|v:投资",
+        "memory": "Yes",
+        "helping_text": " fund这个单词可以记忆为\"fun\"+\"d\"，意思是资金或基金。可以联想为用资金来创造乐趣或支持某项活动。"
+    },
+    {
+        "word": "revenue",
+        "mean": "n:收入,税收,总收入,岁入,收益,所得,钱粮",
+        "memory": "Yes",
+        "helping_text": " revenue的意思是收入，可以通过记忆“revenue”中的“re”来联想到“receipt（收据）”，收入就像是收据一样记录着公司或个人的财务情况。"
+    },
+    {
+        "word": "underestimate",
+        "mean": "v:低估,看轻",
+        "memory": "Yes",
+        "helping_text": " 记住这个单词的方法是将其拆分为\"under\"（低于）和\"estimate\"（估计），意思是低估或低估估计。"
+    },
+    {
+        "word": "exchange",
+        "mean": "v:交换|n:贴水",
+        "memory": "Yes",
+        "helping_text": " exchange这个单词可以记忆为\"ex\"表示出去，\"change\"表示改变，所以exchange的意思就是出去改变，即交换或交易。"
+    },
+    {
+        "word": "assess",
+        "mean": "v:评价,估价,评估,评定,征收,估量,叙,估,核计|n:叙",
+        "memory": "Yes",
+        "helping_text": " 将单词\"assess\"拆分成两部分，\"ass\"和\"ess\"，然后将\"ess\"看作是\"evaluate\"的缩写，这样可以帮助记住\"assess\"的意思是评估或评价。"
+    },
+    {
+        "word": "consolidate",
+        "mean": "v:合并,巩固,整顿,统一,整理,加固,强化,巩,愈合,固,加强,整饬",
+        "memory": "Yes",
+        "helping_text": " 将\"consolidate\"拆分成\"con\"和\"solidate\"，\"con\"表示一起，\"solidate\"表示固定或加强。因此，\"consolidate\"的意思是将事物固定在一起或加强它们的联系。"
+    },
+    {
+        "word": "loan",
+        "mean": "n:贷款,借款,贷,债,出借|v:放款,借贷,借款,贷,借调",
+        "memory": "Yes",
+        "helping_text": " Loan这个单词的意思是“贷款”，可以通过“loan”这个词的发音和“lend”这个词的意思联系起来，因为贷款就是借钱给别人。"
+    },
+    {
+        "word": "refund",
+        "mean": "v:归还|n:归还",
+        "memory": "Yes",
+        "helping_text": " refund这个单词可以拆分成\"re\"和\"fund\"，意思是重新给钱，即退款。"
+    },
+    {
+        "word": "utility",
+        "mean": "n:实用,效用,有用,应用,公用事业,功利|v:应用",
+        "memory": "Yes",
+        "helping_text": " Utility这个单词可以理解为\"实用性\"，因为utility在经济学中通常指的是商品或服务的实用性或效用。所以可以通过将utility与实用性联系起来来记忆其意思。"
+    },
+    {
+        "word": "selection",
+        "mean": "n:选择,选拔,淘汰,分离,拨号,选择性,文选",
+        "memory": "Yes",
+        "helping_text": " 选择(selection)一个单词，就像在商店里挑选商品一样，选出你喜欢的东西。"
+    },
+    {
+        "word": "option",
+        "mean": "n:选择,取舍",
+        "memory": "Yes",
+        "helping_text": " Option这个单词的意思是“选择”或“选项”，可以通过将“option”拆分成“op”和“tion”，将“op”理解为“open”（打开）的缩写，而“tion”结尾表示动作或状态，因此可以联想到“option”是打开选择的意思，即提供选择的机会。"
+    },
+    {
+        "word": "economics",
+        "mean": "n:经济学,经济",
+        "memory": "Yes",
+        "helping_text": " 经济学（economics）可以简单记忆为“eco（生态）+ nomics（规律）”，意思是研究资源分配和利益最大化的学科。"
+    },
+    {
+        "word": "output",
+        "mean": "n:产量|v:出力",
+        "memory": "Yes",
+        "helping_text": " output这个单词可以理解为“输出”，可以通过将“out”和“put”两部分拆分开来记忆，表示将信息或数据从系统中输出出来。"
+    },
+    {
+        "word": "goods",
+        "mean": "n:货物,商品,货,物品,制品,货色,动产,坯布,财宝",
+        "memory": "Yes",
+        "helping_text": " goods的意思是商品，可以通过将goods拆分成两部分，即good和s，其中good表示好的、有价值的，而s表示复数形式，因此goods指的是有价值的商品。"
+    },
+    {
+        "word": "opportunity",
+        "mean": "n:机会,会,时机,机遇,机,遇,方便,隙|v:遇",
+        "memory": "Yes",
+        "helping_text": " 机会（opportunity）这个单词的意思是指一个有利的时机或情况，可以通过将“opportunity”拆分成“op”和“port”来记忆，其中“op”可以理解为“open”，表示打开的机会，而“port”可以理解为“door”，表示打开的门，因此“opportunity”可以理解为打开的机会或门。"
+    },
+    {
+        "word": "benefit",
+        "mean": "n:好处,利益|v:创利,补,义赛,利于",
+        "memory": "Yes",
+        "helping_text": " benefit这个单词可以记忆为\"be-nefit\"，其中\"be\"表示\"是\"，\"nefit\"可以理解为\"有益处\"，因此benefit的意思是\"有益处\"，\"好处\"。"
+    },
+    {
+        "word": "contract",
+        "mean": "v:收缩|n:聘书,契,契文,契据,契纸,文契",
+        "memory": "Yes",
+        "helping_text": " contract这个单词可以记忆为\"con\"（一起）+ \"tract\"（拉），意思是两方之间达成的协议或合同，就像是双方一起签署的一纸合同。"
+    },
+    {
+        "word": "lottery",
+        "mean": "n:奖券",
+        "memory": "Yes",
+        "helping_text": " 把\"lottery\"拆分成两部分，\"lot\"代表很多，\"tery\"可以联想到\"try\"，所以\"lottery\"可以理解为很多人尝试的抽奖活动。"
+    },
+    {
+        "word": "transaction",
+        "mean": "n:处理,交易,事务,执行,买卖,业务,办理,和解|v:执行",
+        "memory": "Yes",
+        "helping_text": " 将transaction拆分成两部分，\"trans\"表示跨越，\"action\"表示行动，因此transaction的意思是跨越行动，即指一项交易或交易过程。"
+    },
+    {
+        "word": "budget",
+        "mean": "n:预算|v:支配,预定,安排",
+        "memory": "Yes",
+        "helping_text": " budget这个单词的意思是预算，可以通过记住它的首字母b和意思的联系方式来记忆，即budget就是用来控制和管理财务的预算。"
+    },
+    {
+        "word": "noxious",
+        "mean": "a:毒",
+        "memory": "Yes",
+        "helping_text": " noxious这个单词听起来像\"毒害\"，它的意思是有害的、有毒的。"
+    },
+    {
+        "word": "pollute",
+        "mean": "v:污染,玷污,亵渎,败坏",
+        "memory": "Yes",
+        "helping_text": " pollute这个单词的意思是“污染”，可以通过将pollute拆分成两部分，即“pol”和“lute”，然后将“pol”理解为“污染”，再将“lute”理解为“地”，这样就可以记住pollute的意思是“污染地”。"
+    },
+    {
+        "word": "pollutant",
+        "mean": "污染物",
+        "memory": "Yes",
+        "helping_text": " pollutant这个单词中的\"pollu\"可以让我们联想到\"pollution\"，因此pollutant的意思就是\"污染物质\"。"
+    },
+    {
+        "word": "pollution",
+        "mean": "n:污染,公害,腐败,堕落",
+        "memory": "Yes",
+        "helping_text": " pollution这个单词中包含了\"pollute\"这个词根，意思是污染。所以可以通过\"pollute\"这个词根来记忆pollution的意思。"
+    },
+    {
+        "word": "contaminate",
+        "mean": "v:污染,沾染,染,毒害,染毒,沾污,损害",
+        "memory": "Yes",
+        "helping_text": " contaminate这个单词的意思是“污染”，可以通过将其拆分为“con”（一起）和“tamin”（污染）来记忆，表示一起被污染。"
+    },
+    {
+        "word": "waste",
+        "mean": "v:浪费|n:损耗|a:糜费,靡费,旷",
+        "memory": "Yes",
+        "helping_text": " 浪费(waste)时间就像浪费(waste)金钱一样，都是不值得的。"
+    },
+    {
+        "word": "sewage",
+        "mean": "n:污水,下水道,污物,污",
+        "memory": "Yes",
+        "helping_text": " sewage的意思是污水，可以通过将sewage拆分成两部分，sew和age，sew在英语中是缝纫的意思，而age表示状态或过程，所以可以将sewage理解为被排放出来的污水，类似于被排放出来的缝纫废料。"
+    },
+    {
+        "word": "fume",
+        "mean": "v:冒,冒烟|n:激怒,香气,水蒸气,发怒",
+        "memory": "Yes",
+        "helping_text": " fume的意思是烟雾或气体，可以通过将fume与fume（烟雾）的发音联系起来记住。"
+    },
+    {
+        "word": "balance",
+        "mean": "n:平衡|v:对照,秤,对比,踌躇",
+        "memory": "Yes",
+        "helping_text": " balance这个单词的意思是平衡，可以通过记忆“balance”这个单词的两个“a”字母，就像两边的天平一样平衡。"
+    },
+    {
+        "word": "ecosystem",
+        "mean": "生态系统",
+        "memory": "Yes",
+        "helping_text": " 生态系统（ecosystem）可以理解为一个生态环境中的所有生物和非生物因素之间相互作用和影响的系统。记住这个单词可以通过将\"eco\"（生态）和\"system\"（系统）两部分结合起来，表示生态环境中的整体系统。"
+    },
+    {
+        "word": "fauna",
+        "mean": "动物",
+        "memory": "Yes",
+        "helping_text": " fauna这个单词可以通过\"fun\"这个词来记忆，因为动物世界是非常有趣和有趣的。fauna的意思是某个地区或时期的动物群。"
+    },
+    {
+        "word": "decibel",
+        "mean": "n:分贝",
+        "memory": "Yes",
+        "helping_text": " 将decibel拆分成两部分，dec和ibel。dec可以联想到十进制，表示十倍的关系，而ibel可以联想到声音单位bel，表示声音的强度。因此，decibel可以理解为十倍的声音强度单位，用来衡量声音的大小。"
+    },
+    {
+        "word": "ozonosphere",
+        "mean": "n:臭氧层",
+        "memory": "Yes",
+        "helping_text": " ozonosphere这个单词中包含了\"ozone\"这个词根，因此可以联想到ozonosphere是指大气中富含臭氧的层，也就是臭氧层。"
+    },
+    {
+        "word": "surge",
+        "mean": "v:滚滚,冲击,汹涌,涌|n:起伏,洋溢,波动",
+        "memory": "Yes",
+        "helping_text": " surge这个单词可以和\"潮涌\"联系起来，因为潮涌是一股强大的水流，而surge表示一股强烈的情感或力量的突然涌现。"
+    },
+    {
+        "word": "hackneyed",
+        "mean": "a:滥",
+        "memory": "Yes",
+        "helping_text": " hackneyed这个单词听起来像\"hacked\"，意思是陈腐的或老生常谈的。"
+    },
+    {
+        "word": "caustic",
+        "mean": "n:苛性钠,苛性碱|a:腐蚀剂,尖刻",
+        "memory": "Yes",
+        "helping_text": " 记住caustic这个单词的方法是将其拆分为\"cause\"（原因）和\"sting\"（刺痛），因此caustic的意思是刺痛的、腐蚀性的。"
+    },
+    {
+        "word": "erosion",
+        "mean": "n:侵蚀,糜烂,磨蚀|v:剥蚀,糜烂",
+        "memory": "Yes",
+        "helping_text": " Erosion（侵蚀）- 想象“Erosion”中的“ro”像是“rock（岩石）”，岩石经过长时间的侵蚀会变得光滑。"
+    },
+    {
+        "word": "erode",
+        "mean": "v:侵蚀,腐蚀,冲刷,蚀,毁坏,衰落,啮,剥蚀",
+        "memory": "Yes",
+        "helping_text": " erode这个单词的意思是逐渐侵蚀或磨损。要记住这个单词，可以将其拆分为“e”和“rode”，将“e”想象成“eat”（吃），而“rode”则可以联想到“road”（道路）。因此，可以将erode理解为“道路被吃掉”，即逐渐被侵蚀或磨损的意思。"
+    },
+    {
+        "word": "stale",
+        "mean": "a:腐,陈腐,滥|n:笑柄,尿|v:走味",
+        "memory": "Yes",
+        "helping_text": " stale这个单词可以和\"stale bread\"（变质的面包）联系起来，帮助记住它的意思是“不新鲜的，陈旧的”。"
+    },
+    {
+        "word": "rot",
+        "mean": "v:腐烂|n:堕落",
+        "memory": "Yes",
+        "helping_text": " rot这个单词的意思是腐烂，可以通过记忆“rot”这个词的发音和腐烂的意思来联系起来。"
+    },
+    {
+        "word": "rotten",
+        "mean": "a:烂,腐败,腐朽,腐,腐臭,糟朽,烂乎乎,糜烂|v:糟,腐臭,朽",
+        "memory": "Yes",
+        "helping_text": " Rotten意思是腐烂的，可以通过将rotten拆分成rot和ten，rot可以联想到腐烂，而ten可以联想到十分糟糕的状态。"
+    },
+    {
+        "word": "decay",
+        "mean": "v:衰落,腐烂,衰减,衰变|n:衰微",
+        "memory": "Yes",
+        "helping_text": " decay这个单词的意思是腐烂或衰退。要记住这个单词，可以将其拆分为“de”和“cay”，“de”表示向下或分开，“cay”可以联想到“cage（笼子）”，所以decay可以理解为事物向下或分开，就像腐烂或衰退一样。"
+    },
+    {
+        "word": "corrode",
+        "mean": "v:腐蚀,磨蚀,侵蚀,销蚀,蚀,剥蚀,腐化",
+        "memory": "Yes",
+        "helping_text": " corrode这个单词的意思是“腐蚀”，可以通过将其拆分为“cor”（腐蚀）和“rode”（路）来记忆，即腐蚀就像是在物体上留下一条路一样。"
+    },
+    {
+        "word": "decomposition",
+        "mean": "n:分解,腐朽|v:分解",
+        "memory": "Yes",
+        "helping_text": " decomposition可以拆分为\"de\"和\"composition\"，意思是将复杂的东西分解成简单的部分。"
+    },
+    {
+        "word": "rust",
+        "mean": "n:锈,锈病,铁锈|v:锈蚀,衰退,氧化",
+        "memory": "Yes",
+        "helping_text": " Rust是铁生锈的意思，可以通过“铁生锈”来记忆这个单词。"
+    },
+    {
+        "word": "silica",
+        "mean": "n:硅石,二氧化硅",
+        "memory": "Yes",
+        "helping_text": " 硅（silica）是一种无机化合物，常见于许多岩石和矿物中。记住这个单词的方法是将“silica”与“硅谷”联系起来，因为硅谷是硅谷技术公司的聚集地，而硅是硅谷技术公司所使用的主要材料之一。"
+    },
+    {
+        "word": "crystal",
+        "mean": "n:晶体,水晶,结晶,石英,结晶体,厕所,晶粒,预言,占卜",
+        "memory": "Yes",
+        "helping_text": " 将单词\"crystal\"与\"clear\"联系起来，因为水晶是一种透明、清澈的矿物，所以可以记住它的意思是\"水晶\"。"
+    },
+    {
+        "word": "gasoline",
+        "mean": "n:汽油",
+        "memory": "Yes",
+        "helping_text": " 汽油（gasoline）是一种燃料，记住这个单词的方法是将“gas”（气体）和“oline”（油）结合起来，表示一种能够燃烧的液体燃料。"
+    },
+    {
+        "word": "methane",
+        "mean": "n:甲烷,沼气",
+        "memory": "Yes",
+        "helping_text": " methane这个单词中包含\"meth\"，而\"meth\"是甲烷的前缀，因此methane指的是一种气体，也就是甲烷。"
+    },
+    {
+        "word": "hydrocarbon",
+        "mean": "n:烃,碳氢化合物",
+        "memory": "Yes",
+        "helping_text": " hydrocarbon是由hydro（水）和carbon（碳）组成的化合物，意思是含有碳和氢元素的化合物。"
+    },
+    {
+        "word": "petroleum",
+        "mean": "n:石油",
+        "memory": "Yes",
+        "helping_text": " 将petroleum拆分为两部分，pet和roleum。pet可以理解为宠物，而roleum可以理解为石油。因此，可以将petroleum理解为“宠物的石油”，帮助记忆其意思为石油。"
+    },
+    {
+        "word": "plastic",
+        "mean": "n:塑胶,玻璃,电木,信用卡|v:整形",
+        "memory": "Yes",
+        "helping_text": " \"Plastic\"这个单词和它的意思的联系方式是：plastic（塑料）这个词的发音和它的意思很相似，都有一种柔软、可塑的感觉。"
+    },
+    {
+        "word": "intermediary",
+        "mean": "n:媒介,中间人,中人,工具,中,手段,中介,窗口",
+        "memory": "Yes",
+        "helping_text": " intermediary中的mediary可以联想到media（媒体），表示在两者之间起到连接或中介作用的人或事物。所以intermediary的意思是中间人或中介。"
+    },
+    {
+        "word": "catalysis",
+        "mean": "v:催化|n:催化",
+        "memory": "Yes",
+        "helping_text": " 将\"catalysis\"拆分成两部分，\"cat\"和\"alysis\"。\"Cat\"可以让我们联想到猫，而\"alysis\"可以让我们联想到分析。因此，可以将\"catalysis\"理解为类似于猫一样帮助分析化学反应的过程。"
+    },
+    {
+        "word": "catalyst",
+        "mean": "n:催化剂,触媒,引线",
+        "memory": "Yes",
+        "helping_text": " catalyst（催化剂）- 记住这个单词的方法是将其拆分为\"cat\"（猫）和\"lyst\"（助手），想象一只猫在帮助化学反应发生，就像催化剂促进反应一样。"
+    },
+    {
+        "word": "adhesive",
+        "mean": "a:粘|n:粘合剂",
+        "memory": "Yes",
+        "helping_text": " adhesive这个单词的意思是\"粘合剂\"，可以通过将其拆分为\"ad\"（加强）和\"hesive\"（粘附）来记忆，表示一种能够加强粘附力的物质。"
+    },
+    {
+        "word": "scorch",
+        "mean": "v:焦,枯,灼热,灼伤,燎,烧灼,焦化,挖苦",
+        "memory": "Yes",
+        "helping_text": " Scorch的意思是烧焦，可以通过将其拆分为\"sc\"和\"torch\"来记忆，\"sc\"表示烧焦的意思，而\"torch\"表示火炬，火炬可以用来烧焦物体。"
+    },
+    {
+        "word": "bleach",
+        "mean": "v:脱色,漂|n:漂白",
+        "memory": "Yes",
+        "helping_text": " bleach的意思是漂白剂，可以通过将bleach拆分成两部分，blea(ch)，其中ch可以联想到clean（清洁），所以bleach可以理解为用于清洁漂白的化学剂。"
+    },
+    {
+        "word": "tint",
+        "mean": "n:色彩,气息,色泽,着色,色调|v:染色",
+        "memory": "Yes",
+        "helping_text": " 将单词\"tint\"与\"tinted glasses\"联系起来，表示染色或着色，帮助记忆这个单词的意思。"
+    },
+    {
+        "word": "dye",
+        "mean": "v:染,染色,染上,着色|n:色调",
+        "memory": "Yes",
+        "helping_text": " dye的意思是染料，可以通过将dye拆分成两部分，\"d\"代表\"color\"（颜色），\"ye\"可以联想到\"eye\"（眼睛），即染料可以给物体添加颜色，就像眼睛可以看到颜色一样。"
+    },
+    {
+        "word": "chemistry",
+        "mean": "n:化学,化",
+        "memory": "Yes",
+        "helping_text": " 将单词\"chemistry\"拆分成两部分，\"chem\"代表化学，\"istry\"代表研究。因此，可以将\"chemistry\"理解为研究化学的学科。"
+    },
+    {
+        "word": "biochemistry",
+        "mean": "n:生化",
+        "memory": "Yes",
+        "helping_text": " 将单词\"biochemistry\"拆分成两部分，\"bio\"代表生物，\"chemistry\"代表化学。因此，可以将\"biochemistry\"理解为生物和化学的结合，即研究生物体内化学反应和分子结构的科学领域。"
+    },
+    {
+        "word": "hydronic",
+        "mean": "液体循环加热的",
+        "memory": "Yes",
+        "helping_text": " 将单词hydronic拆分为\"hyd\"和\"ronic\"，\"hyd\"表示水，\"ronic\"可能让人联想到\"electronic\"，因此可以将hydronic理解为与水有关的电子设备或系统，即指液体循环加热系统。"
+    },
+    {
+        "word": "alchemy",
+        "mean": "n:炼丹术,魔力",
+        "memory": "Yes",
+        "helping_text": " 将单词alchemy与“化学”联系起来，因为alchemy是古代一种试图将金属转化为黄金的研究，而化学是现代科学的一个分支，研究物质的性质和变化。"
+    },
+    {
+        "word": "artificial",
+        "mean": "a:人工,人为,假,矫揉造作,做作,人造,义,造作|v:做作",
+        "memory": "Yes",
+        "helping_text": " artificial这个单词中有\"art\"这个词根，art意为艺术，所以artificial的意思是人工的，与艺术无关。"
+    },
+    {
+        "word": "ion",
+        "mean": "n:离子",
+        "memory": "Yes",
+        "helping_text": " 将\"ion\"看作是一个电荷带有正或负的离子，表示一个带有电荷的分子或原子。"
+    },
+    {
+        "word": "molecule",
+        "mean": "n:分子,克分子",
+        "memory": "Yes",
+        "helping_text": " molecule（分子）- 想象一个小的分子（molecule）在化学反应中移动和结合。"
+    },
+    {
+        "word": "solubility",
+        "mean": "n:溶解度,可溶性,溶度",
+        "memory": "Yes",
+        "helping_text": " solubility这个单词可以通过将其拆分为两部分来记忆：solu-表示“溶解”，-bility表示“能力”。因此，solubility的意思就是“溶解能力”。"
+    },
+    {
+        "word": "solution",
+        "mean": "n:解决,溶液,解,溶解,解法,解答,溶剂,答案,真溶液,解释,分晓,免除,了局,消散,溶体,解除,药水,答数|v:解",
+        "memory": "Yes",
+        "helping_text": " 将单词solution拆分为两部分，solu和tion。solu可以联想到solve（解决），tion结尾常见于表示动作或结果的名词。因此，solution的意思是解决方案或答案。"
+    },
+    {
+        "word": "solvent",
+        "mean": "n:溶剂,溶媒,解释,说明",
+        "memory": "Yes",
+        "helping_text": " solvent这个单词中包含了\"solve\"这个词根，意思是溶解或解决问题。所以，可以通过\"solvent\"中的\"solve\"来记住它的意思，即溶剂或解决问题的人或事物。"
+    },
+    {
+        "word": "dissolve",
+        "mean": "v:溶解,消失,解散,溶,解开,解除,融化,崩溃,溶化,失效,化,揭开,软化,分解,融解,摧毁,打破,撤消,废除,化解,冰消瓦解,取消,冰释",
+        "memory": "Yes",
+        "helping_text": " 将\"dissolve\"拆分成\"dis\"和\"solve\"，\"dis\"表示分开或解散，\"solve\"表示解决或解答。因此，\"dissolve\"的意思是使溶解或分解。"
+    },
+    {
+        "word": "element",
+        "mean": "n:元素,元件,单元,元,因素,要素,部分,成分,素,分子,电池,分队,大纲,单体,原理,原种,零件,初步,电极",
+        "memory": "Yes",
+        "helping_text": " element这个单词中包含\"ele\"，可以联想到\"electricity\"（电）这个词，element的意思是元素、要素，可以理解为构成事物的基本要素。"
+    },
+    {
+        "word": "impurity",
+        "mean": "n:杂质,混合物,下流,不道德,污垢",
+        "memory": "Yes",
+        "helping_text": " impurity这个单词中的\"imp\"可以让我们联想到\"不纯\"，因此impurity的意思就是不纯净，杂质。"
+    },
+    {
+        "word": "blend",
+        "mean": "v:和,混合|n:混合色|a:杂",
+        "memory": "Yes",
+        "helping_text": " 将blend拆分成两部分，\"bl\"和\"end\"，\"bl\"可以联想到blue（蓝色），\"end\"可以联想到end（结束），所以blend的意思是混合或融合不同的颜色或物质。"
+    },
+    {
+        "word": "compound",
+        "mean": "v:合成,混合|n:院落,大院,村寨,复方,院|a:复合",
+        "memory": "Yes",
+        "helping_text": " compound这个单词可以被拆分成两部分，\"com\"表示一起，\"pound\"表示放置。所以，compound的意思是将多个元素放在一起形成的化合物或混合物。"
+    },
+    {
+        "word": "substance",
+        "mean": "n:物质,内容,材料,实质,资产,体,大意,实体,本质,物,物体,财产,要旨,主旨,资力,要领,质地,灵,梗概,质,本体,精神",
+        "memory": "Yes",
+        "helping_text": " substance的意思是物质，可以通过将substance拆分成sub（下面）和stance（站立）来记忆，即物质是站在下面的东西。"
+    },
+    {
+        "word": "particle",
+        "mean": "n:粒子,颗粒,微粒,质点,词缀,星,星子,虚词,条,项,微量",
+        "memory": "Yes",
+        "helping_text": " particle这个单词中的\"part\"可以帮助记忆，表示它是一个小的部分或粒子。particle的意思是微粒、颗粒或粒子。"
+    },
+    {
+        "word": "explosive",
+        "mean": "n:炸药,爆破音",
+        "memory": "Yes",
+        "helping_text": " 爆炸（explosive）这个单词的意思是爆炸性的，容易爆炸的。可以通过将“explosive”这个单词与“explode”（爆炸）联系起来记忆。"
+    },
+    {
+        "word": "blast",
+        "mean": "v:爆破|n:鼓风,牢骚,爆破,容量",
+        "memory": "Yes",
+        "helping_text": " Blast的意思是爆炸或猛烈的气流，可以通过将blast与爆炸声或强烈的气流联系起来来记忆这个单词。"
+    },
+    {
+        "word": "explode",
+        "mean": "v:爆炸,戳穿,炸,爆破,爆发,打破,开花,爆,大作,激发,轰,推翻",
+        "memory": "Yes",
+        "helping_text": " explode这个单词中的\"ex\"可以理解为\"出去\"，而\"plode\"可以理解为\"破裂\"，所以explode的意思就是爆炸或猛烈扩张。"
+    },
+    {
+        "word": "burning",
+        "mean": "n:性病,燃烧,烧香,烧制,炎症,磨光|v:擦亮,氧化,煅烧|a:火辣辣",
+        "memory": "Yes",
+        "helping_text": " 将burning拆分为burn和ing，burn表示燃烧或热烈的，ing是动词进行时的后缀，所以burning的意思是正在燃烧或热烈的。"
+    },
+    {
+        "word": "kindle",
+        "mean": "v:兴奋,点燃,发亮,燃烧,激动,点,照亮,激发,鼓舞,着火,放光,照耀|n:燃点",
+        "memory": "Yes",
+        "helping_text": " Kindle这个单词和它的意思联系在一起，可以通过将它与点燃火焰或激发兴趣的意象联系起来。Kindle的意思是点燃、激发或唤起，类似于点燃一团火焰或激发某种情感或兴趣。"
+    },
+    {
+        "word": "sear",
+        "mean": "v:枯萎,烧灼,灼伤,烧伤,凋谢|n:烙印",
+        "memory": "Yes",
+        "helping_text": " 将单词sear与“烧焦”联系起来，因为sear的意思是“烧焦”或“烧灼”。"
+    },
+    {
+        "word": "ignite",
+        "mean": "v:点燃,点火,引火,燃烧,引燃,燃,发火,引爆,起爆,燃点",
+        "memory": "Yes",
+        "helping_text": " 将ignite拆分成两部分，ig和nite。ig可以联想到igloo（冰屋），nite可以联想到night（夜晚）。因此，可以将ignite理解为“点燃”，即在夜晚点燃火把，类比为在冰屋里点燃火把取暖。"
+    },
+    {
+        "word": "action",
+        "mean": "n:措施,举动,活动,诉讼,作为,情节,战事,效应,姿势,机能,态度,手段,表演,赌博,业|v:动,战斗",
+        "memory": "Yes",
+        "helping_text": " 将单词\"action\"拆分成两部分，\"act\"表示行动，\"ion\"表示状态或过程。因此，可以将\"action\"理解为\"行动的状态或过程\"。"
+    },
+    {
+        "word": "combination",
+        "mean": "n:组合,结合,联合,混合,合并,配合,共谋,化合,总合,同谋,合作",
+        "memory": "Yes",
+        "helping_text": " 将\"combination\"拆分成\"come\"和\"nation\"，意为不同的元素或部分组合在一起形成一个整体。"
+    },
+    {
+        "word": "neutralize",
+        "mean": "v:中和,抵消,抵销",
+        "memory": "Yes",
+        "helping_text": " neutralize这个单词可以理解为\"中和\"，类似于中和酸碱溶液中的反应，将原本具有影响力的物质变得无害或无效。"
+    },
+    {
+        "word": "polymerization",
+        "mean": "n:聚合,多项式|v:聚合",
+        "memory": "Yes",
+        "helping_text": " 将polymerization拆分成两部分，poly表示“多”，mer表示“单位”，ization表示“过程”，因此polymerization指的是将多个单体单位结合在一起形成聚合物的化学过程。"
+    },
+    {
+        "word": "functional",
+        "mean": "a:实用",
+        "memory": "Yes",
+        "helping_text": " 功能性（functional）- 功能性的单词中包含“fun”，表示这个单词与功能有关，帮助记忆其意思为与功能相关的。"
+    },
+    {
+        "word": "synthetic",
+        "mean": "合成",
+        "memory": "Yes",
+        "helping_text": " 合成的（synthetic）这个单词可以通过将其拆分为“syn”和“thetic”来记忆。其中，“syn”表示共同或一起，“thetic”表示制造或产生。因此，合成的意思就是通过将不同的元素或部分组合在一起制造出来的。"
+    },
+    {
+        "word": "carbon",
+        "mean": "n:碳,副本,碳精,复写纸,炭精,碳精棒",
+        "memory": "Yes",
+        "helping_text": " carbon这个单词和\"car\"（汽车）的发音相似，汽车使用燃油产生的废气中含有碳，所以可以通过汽车和碳的联系来记住carbon的意思，即碳。"
+    },
+    {
+        "word": "copper",
+        "mean": "n:铜|a:铜",
+        "memory": "Yes",
+        "helping_text": " 铜（copper）是一种金属，可以通过记住“copper”这个单词的发音和铜的颜色和质地之间的联系来记住它的意思。"
+    },
+    {
+        "word": "Mercury",
+        "mean": "n:汞,水银,水星,精神,活泼,元气,温度表,信使",
+        "memory": "Yes",
+        "helping_text": " Mercury是水星的英文名，水星是太阳系中最接近太阳的行星，因此可以将Mercury与太阳系中最接近太阳的行星联系起来，帮助记忆其意思。"
+    },
+    {
+        "word": "nickel",
+        "mean": "n:镍,镍币",
+        "memory": "Yes",
+        "helping_text": " Nickel是一种硬币，而硬币通常用来支付费用或购买商品。因此，可以将nickel与“支付”或“购买”联系起来，以帮助记住它的意思。"
+    },
+    {
+        "word": "platinum",
+        "mean": "n:白金,铂",
+        "memory": "Yes",
+        "helping_text": " 铂金（platinum）是一种贵重的金属，与“白金”这个词相似，因此容易记住。"
+    },
+    {
+        "word": "silver",
+        "mean": "n:银,银器,银币,白银,银子,钱,银两|v:镀银",
+        "memory": "Yes",
+        "helping_text": " Silver是一种贵重的金属，它的颜色和名字都与银色有关，因此可以通过“银色”这个关键词来记忆silver的意思。"
+    },
+    {
+        "word": "sodium",
+        "mean": "n:钠,小苏打",
+        "memory": "Yes",
+        "helping_text": " Sodium是一种金属元素，常见于食盐中。记住这个单词的方法是将其与食盐联系起来，因为食盐中含有钠离子，也就是sodium。"
+    },
+    {
+        "word": "tin",
+        "mean": "n:罐头,锡,听,罐,白铁,听子|v:镀锡",
+        "memory": "Yes",
+        "helping_text": " 将单词\"tin\"与\"罐头\"联系起来，因为罐头通常是用锡制成的，这样可以帮助记住\"tin\"的意思是\"锡\"。"
+    },
+    {
+        "word": "zinc",
+        "mean": "n:锌,锌白",
+        "memory": "Yes",
+        "helping_text": " Zinc是一种金属元素，可以通过记忆“zinc”这个单词的首字母“Z”来联想它的意思，即金属元素。"
+    },
+    {
+        "word": "calcium",
+        "mean": "n:钙",
+        "memory": "Yes",
+        "helping_text": " calcium是一种矿物质，与\"cal\"（钙）这个词的发音相似，可以帮助记住它的意思。"
+    },
+    {
+        "word": "helium",
+        "mean": "n:氦",
+        "memory": "Yes",
+        "helping_text": " 氦气（helium）是一种气体，可以通过记忆“氦气”这个词来帮助记住这个单词的意思。"
+    },
+    {
+        "word": "silicon",
+        "mean": "n:硅,矽",
+        "memory": "Yes",
+        "helping_text": " 硅谷是一个以硅为主要原料生产芯片和电子产品的地区，硅谷的硅和单词silicon有相同的意思。"
+    },
+    {
+        "word": "ammonia",
+        "mean": "n:氨水",
+        "memory": "Yes",
+        "helping_text": " 氨气（ammonia）的记忆方式：氨气的第一个字母“A”可以联想到“气味”（aroma），因为氨气有一种刺鼻的气味。"
+    },
+    {
+        "word": "sulfur",
+        "mean": "n:硫磺",
+        "memory": "Yes",
+        "helping_text": " 硫磺（sulfur）是一种黄色的元素，可以通过记忆“sulfur”这个单词中的“sul”与“yellow”（黄色）的发音相似来联想。"
+    },
+    {
+        "word": "iodine",
+        "mean": "n:碘,碘酊",
+        "memory": "Yes",
+        "helping_text": " iodine是一种化学元素，它的名称中包含\"iod\"这个词根，可以和\"iodine\"这个单词的意思联系起来，帮助记忆。iodine是碘的意思，碘是一种常见的化学元素，常用于消毒和医疗用途。"
+    },
+    {
+        "word": "oxygen",
+        "mean": "n:氧,氧气",
+        "memory": "Yes",
+        "helping_text": " 氧气是我们呼吸的气体，所以记住单词\"oxygen\"的方法是将其与呼吸联系起来。"
+    },
+    {
+        "word": "pigment",
+        "mean": "n:颜料,色素,颜色",
+        "memory": "Yes",
+        "helping_text": " pigment这个单词中的\"pig\"可以让我们联想到猪，而猪的皮肤颜色是由色素决定的，所以pigment的意思是色素，颜料。"
+    },
+    {
+        "word": "nitrogen",
+        "mean": "n:氮,氮气",
+        "memory": "Yes",
+        "helping_text": " 氮气是一种气体，记住nitrogen这个单词的方法是将其分解为\"nitro\"和\"gen\"，\"nitro\"可以联想到炸药，而氮气在空气中占比较大，所以可以将nitrogen记为与炸药有关的气体。"
+    },
+    {
+        "word": "shrub",
+        "mean": "n:灌木,灌木丛|v:灌",
+        "memory": "Yes",
+        "helping_text": " shrub这个单词和“灌木”有联系，因为shrub的意思就是灌木。"
+    },
+    {
+        "word": "laurel",
+        "mean": "n:月桂,荣誉,桂冠,月桂树,胜利,殊荣,光荣,桂",
+        "memory": "Yes",
+        "helping_text": " Laurel是一种植物，也是一种象征胜利和荣誉的标志。记住这个单词的方法是将它与胜利和荣誉联系在一起，因为laurel通常被用来制作胜利者的花环。"
+    },
+    {
+        "word": "prairie",
+        "mean": "n:草原",
+        "memory": "Yes",
+        "helping_text": " 草原(prairie)这个单词的联系方式是：prairie中的\"pr\"可以让我们联想到\"草原\"的首字母\"草\"。"
+    },
+    {
+        "word": "sequoia",
+        "mean": "n:红杉",
+        "memory": "Yes",
+        "helping_text": " Sequoia是一种高大的树木，记住这个单词可以通过将其与“高大的树木”联系起来。"
+    },
+    {
+        "word": "herb",
+        "mean": "n:草药,药草,草本植物,香草,牧草,草",
+        "memory": "Yes",
+        "helping_text": " Herb这个单词和\"her\"这个音相似，可以记住herb是指草本植物，通常用于烹饪或药用。"
+    },
+    {
+        "word": "plant",
+        "mean": "v:种|n:生育,苗木,内线,草本",
+        "memory": "Yes",
+        "helping_text": " 植物（plant）是指生长在土壤中的生物，可以通过将“plant”拆分成“plan”和“t”来记忆，即“计划（plan）种植（t）植物”。"
+    },
+    {
+        "word": "fern",
+        "mean": "n:蕨类植物,羊齿,氟利昂",
+        "memory": "Yes",
+        "helping_text": " fern这个单词和\"fern\"植物的首字母相同，因此可以通过这个植物来记忆fern这个单词的意思。fern是指蕨类植物，可以通过这个植物的形象来联想记忆fern这个单词的意思。"
+    },
+    {
+        "word": "orchid",
+        "mean": "n:兰花,兰,恭维话,感谢,兰草,贺词,祝贺",
+        "memory": "Yes",
+        "helping_text": " orchid这个单词和\"orchestra\"这个单词很相似，都是以\"orch\"开头。orchestra是指管弦乐队，而orchid是指兰花。可以通过这种相似性来记忆orchid这个单词的意思。"
+    },
+    {
+        "word": "rosette",
+        "mean": "n:插座",
+        "memory": "Yes",
+        "helping_text": " 将rosette拆分成rose和ette，rose是玫瑰花的意思，ette是小的意思，所以rosette可以理解为小玫瑰花，即花朵的一种装饰。"
+    },
+    {
+        "word": "germinate",
+        "mean": "v:发芽,萌发,出苗,萌芽,滋芽,萌,发生,发育,出芽|n:萌芽",
+        "memory": "Yes",
+        "helping_text": " germinate这个单词的意思是“发芽”，可以通过将“germinate”拆分成“germ”（种子）和“inate”（开始）来记忆，即种子开始生长发芽。"
+    },
+    {
+        "word": "sprout",
+        "mean": "v:发芽|n:苗,年轻人,出芽生殖,秧",
+        "memory": "Yes",
+        "helping_text": " sprout这个单词的意思是“发芽”或“长出新芽”。要记住这个单词，可以将它与“新生命”的概念联系起来，因为当植物发芽时，代表着新生命的开始。"
+    },
+    {
+        "word": "timber",
+        "mean": "n:木材,木料,木头,树木,森林,才干,素质,原木,才能,材,音色",
+        "memory": "Yes",
+        "helping_text": " timber这个单词和\"木材\"有联系，因为timber在英语中指的是木材。"
+    },
+    {
+        "word": "bunch",
+        "mean": "n:束,朵,瘤,捆,隆起,伙伴,一把,簇,嘟噜|v:把",
+        "memory": "Yes",
+        "helping_text": " bunch的意思是一束、一群或一堆。可以通过将bunch与“一堆香蕉”联系起来记住它的意思。"
+    },
+    {
+        "word": "bark",
+        "mean": "v:叫|n:枪声|d:高声,汪汪",
+        "memory": "Yes",
+        "helping_text": " bark的意思是树皮，可以通过“树皮像狗叫”来记忆这个单词。"
+    },
+    {
+        "word": "twig",
+        "mean": "n:树枝|v:发现,看出,懂得,了解,注意",
+        "memory": "Yes",
+        "helping_text": " twig这个单词的意思是“小树枝”，可以通过将“twig”拆分成“tw”和“ig”，“tw”可以联想到“two”，表示两个，而“ig”可以联想到“stick”，表示树枝，所以“twig”可以理解为“两根树枝”。"
+    },
+    {
+        "word": "bough",
+        "mean": "n:树枝,绞刑架",
+        "memory": "Yes",
+        "helping_text": " bough的意思是树枝，可以通过将bough拆分成两部分，记忆为\"bow\"（弓）+ \"gh\"（树枝），表示树枝形状像一个弓。"
+    },
+    {
+        "word": "branch",
+        "mean": "n:树枝,分支,分行,枝条,枝,部门,转移,分店,支流,分部|v:分流",
+        "memory": "Yes",
+        "helping_text": " branch的意思是分支，可以通过将branch拆分成两部分，\"bra\"和\"nch\"，其中\"bra\"可以联想到脑袋，而\"nch\"可以联想到分支，从而记住branch的意思是分支。"
+    },
+    {
+        "word": "stem",
+        "mean": "n:茎,杆,柄,把|v:阻遏,抵抗,发生",
+        "memory": "Yes",
+        "helping_text": " 将stem拆分成两部分，\"st\"代表\"stop\"停止，\"em\"代表\"emotion\"情感。因此，stem的意思是在情感上停止或控制。"
+    },
+    {
+        "word": "stalk",
+        "mean": "n:花梗|v:高视阔步,搜索",
+        "memory": "Yes",
+        "helping_text": " Stalk的意思是跟踪，记住这个单词的方法是将其与“stalk”（茎）联系起来，想象自己在跟踪一根茎的行为。"
+    },
+    {
+        "word": "trunk",
+        "mean": "n:树干,箱子,衣箱,箱,身躯,干线,干,躯干,总线,车箱,枚,本体,槽,胴,中继,主干,篢,笼子,总管,长途电话,母线,株,主流",
+        "memory": "Yes",
+        "helping_text": " 将单词\"trunk\"与\"elephant\"联系起来，因为大象的鼻子就是它们的\"trunk\"，这样可以帮助记住\"trunk\"的意思是树干或箱子的意思。"
+    },
+    {
+        "word": "leafstalk",
+        "mean": "叶柄",
+        "memory": "Yes",
+        "helping_text": " 将单词\"leafstalk\"拆分成两部分，\"leaf\"表示叶子，\"stalk\"表示茎，因此\"leafstalk\"指的是叶子的茎，即叶柄。"
+    },
+    {
+        "word": "leaflet",
+        "mean": "n:传单,活页,广告,小叶,嫩叶|a:活页",
+        "memory": "Yes",
+        "helping_text": " 将\"leaflet\"拆分成两部分，\"leaf\"表示叶子，\"let\"表示让。所以可以将\"leaflet\"理解为一张像叶子一样的小传单，用来传达信息。"
+    },
+    {
+        "word": "bud",
+        "mean": "n:芽,花芽,萌芽,蓓蕾|v:萌发,萌芽",
+        "memory": "Yes",
+        "helping_text": " bud这个单词的意思是“芽”，可以通过将“bud”与“芽”这个概念联系起来来记住它的意思。"
+    },
+    {
+        "word": "flower",
+        "mean": "n:花,鲜花,花儿,花朵,花卉|v:成长,兴旺",
+        "memory": "Yes",
+        "helping_text": " 花朵是flower，因为花朵通常是植物的繁殖器官，而flower是英文中花朵的意思。"
+    },
+    {
+        "word": "foliage",
+        "mean": "n:树叶,叶子,叶",
+        "memory": "Yes",
+        "helping_text": " foliage这个单词的意思是“植物的叶子”，可以通过将“foliage”拆分成“foli”（叶子）和“age”（年龄）来记忆，即植物的叶子随着年龄的增长而变化。"
+    },
+    {
+        "word": "petal",
+        "mean": "n:花瓣,瓣,腕足",
+        "memory": "Yes",
+        "helping_text": " petal这个单词和\"花瓣\"有联系，因为花瓣就是花朵的一部分，而petal就是花瓣的意思。"
+    },
+    {
+        "word": "cell",
+        "mean": "n:细胞,牢房,电池,单元,管,容器,单体,元件,槽,蜂房,气囊,小组,格子,花粉囊,舱,隔板,手机,蜂窝,盒",
+        "memory": "Yes",
+        "helping_text": " cell这个单词和\"手机\"（cell phone）有相同的前缀，可以帮助记住它的意思是“细胞”或“单元”。"
+    },
+    {
+        "word": "tissue",
+        "mean": "n:组织,薄纸,面纸,织物,卫生纸",
+        "memory": "Yes",
+        "helping_text": " 单词\"tissue\"和它的意思联系方式：记住\"tissue\"这个单词，可以联想到纸巾（tissue paper），因为tissue在英文中也指纸巾或薄纸，所以可以通过这个联系来记住它的意思。"
+    },
+    {
+        "word": "husk",
+        "mean": "n:糠,外皮|v:碾场",
+        "memory": "Yes",
+        "helping_text": " husk的意思是（谷物或种子的）外壳，联系方式可以是：husk的发音和husk的意思都含有“壳”的意思。"
+    },
+    {
+        "word": "pollen",
+        "mean": "n:花粉",
+        "memory": "Yes",
+        "helping_text": " 花粉（pollen）是植物生殖细胞的一种，可以通过花粉传播来实现植物的繁殖。记住这个单词的方法是将“pollen”中的“poll”联想为“plant”，表示植物，再加上“en”表示它是植物的一种细胞。"
+    },
+    {
+        "word": "root",
+        "mean": "n:根,树根,根源,根本|v:铲除,欢呼,搜寻,除根,肃清,赞助,斩草除根,固定,声援",
+        "memory": "Yes",
+        "helping_text": " root这个单词的意思是根，可以通过记忆“root”这个单词的发音和“根”的发音相似来帮助记忆。"
+    },
+    {
+        "word": "log",
+        "mean": "n:木头,原木|v:拖,采伐",
+        "memory": "Yes",
+        "helping_text": " 将\"log\"单词与\"木头\"联系起来，因为\"log\"在英文中既可以表示\"木头\"，也可以表示\"记录\"。这样可以帮助记住这个单词的意思。"
+    },
+    {
+        "word": "flora",
+        "mean": "n:植物,草木",
+        "memory": "Yes",
+        "helping_text": " flora是指某个地区或时期的植物群落，可以通过将flora拆分为两部分，flor和a，其中flor与flower（花）发音相似，可以帮助记忆flora是指植物的总称。"
+    },
+    {
+        "word": "botany",
+        "mean": "n:植物学,植物",
+        "memory": "Yes",
+        "helping_text": " botany这个单词与“植物”有关，可以通过“bot”这个词根来记忆，bot在这里指的是植物。"
+    },
+    {
+        "word": "botanical",
+        "mean": "植物",
+        "memory": "Yes",
+        "helping_text": " botanical这个单词与botany（植物学）有关，因此可以通过将botanical拆分为botan（植物）和ical（相关的）来记忆其意思，即botanical指与植物有关的。"
+    },
+    {
+        "word": "crossbreed",
+        "mean": "n:杂种|v:杂交",
+        "memory": "Yes",
+        "helping_text": " crossbreed这个单词可以拆分成两部分，\"cross\"表示交叉，\"breed\"表示品种。因此，crossbreed的意思就是不同品种的动植物交叉繁殖而成的混合品种。"
+    },
+    {
+        "word": "necrosis",
+        "mean": "n:坏死,黑斑病,坏疽",
+        "memory": "Yes",
+        "helping_text": " 将necrosis拆分成两部分，necr-和-osis。necr-与死亡相关，-osis表示病变或异常。因此，necrosis意为组织的死亡或坏死。"
+    },
+    {
+        "word": "peel",
+        "mean": "v:剥落,剥,脱皮,削|n:果皮,皮,嫩芽",
+        "memory": "Yes",
+        "helping_text": " 将单词\"peel\"与\"剥皮\"联系起来，因为\"peel\"的意思就是剥去水果或蔬菜的外皮。"
+    },
+    {
+        "word": "photosynthesis",
+        "mean": "n:光合作用",
+        "memory": "Yes",
+        "helping_text": " 光合作用 - 光合作用是植物利用光能将二氧化碳和水转化为能量的过程，其中\"photo\"表示光，\"synthesis\"表示合成。"
+    },
+    {
+        "word": "pollinate",
+        "mean": "v:授粉,传粉",
+        "memory": "Yes",
+        "helping_text": " pollinate这个单词可以通过将其拆分成两部分来记忆：pollen（花粉）+ -ate（动作或过程）。因此，pollinate的意思就是“传粉”。"
+    },
+    {
+        "word": "pollination",
+        "mean": "n:授粉,传粉",
+        "memory": "Yes",
+        "helping_text": " pollination这个单词中包含\"pollen\"，而pollination的意思是传粉，即花粉传递到另一朵花上。所以可以通过单词中的\"pollen\"来记忆pollination的意思。"
+    },
+    {
+        "word": "seeds",
+        "mean": "n:菜籽",
+        "memory": "Yes",
+        "helping_text": " seeds的意思是种子，可以通过记忆“seeds”这个单词中的“seed”这个词根来联想。种子是植物生长的起点，所以可以将“seeds”和“seed”联系起来，帮助记忆其意思。"
+    },
+    {
+        "word": "shell",
+        "mean": "n:贝壳,壳,炮弹,外壳,蛋壳|v:剥落,炮轰",
+        "memory": "Yes",
+        "helping_text": " 将shell这个单词与海洋中的贝壳联系起来，因为贝壳外形像一个外壳，而在计算机领域中，shell是指操作系统提供的用户界面，就像是计算机的外壳一样。"
+    },
+    {
+        "word": "shoot",
+        "mean": "v:射击,开枪,射,击落,枪毙,拍摄,放,发射,枪杀,拍,放枪,上|n:发射,光线,放炮,幼株,枝条",
+        "memory": "Yes",
+        "helping_text": " 将shoot拆分成两部分，\"sh\"和\"oot\"，\"sh\"可以联想到射击的声音，而\"oot\"可以联想到脚，所以shoot的意思是射击。"
+    },
+    {
+        "word": "starch",
+        "mean": "n:淀粉,浆,严格,精力|v:上浆",
+        "memory": "Yes",
+        "helping_text": " 将单词\"starch\"与\"stiff\"联系起来，因为starch（淀粉）可以使衣物变得硬挺。"
+    },
+    {
+        "word": "vitamin",
+        "mean": "n:维生素,维他命",
+        "memory": "Yes",
+        "helping_text": " \"Vitamin\"这个单词可以记忆为\"vita\"（生命）和\"min\"（小）的结合，意思是维生素，是对生命必需的微量营养物质的称呼。"
+    },
+    {
+        "word": "luxuriant",
+        "mean": "a:繁茂,菁,莽莽,菀,蔼,懋,萋萋,森森,郁郁,蕃,菲,肥美,荣,丰茂,芾,茂,繇,郁,苞,楚楚,茂盛,萋,蔚,阴翳,蓁,蓊",
+        "memory": "Yes",
+        "helping_text": " 单词luxuriant的意思是“繁茂的、丰富的”，可以通过将luxuriant拆分成luxury和giant来记忆，luxury表示奢华、豪华，而giant表示巨大、庞大，所以luxuriant可以理解为“奢华丰富的、繁茂的”。"
+    },
+    {
+        "word": "spore",
+        "mean": "n:孢子,芽孢,原因,根源",
+        "memory": "Yes",
+        "helping_text": " spore（孢子）- 想象成“spare”（备用），孢子就像是植物的备用种子。"
+    },
+    {
+        "word": "juvenile",
+        "mean": "n:青少年,雏鸟",
+        "memory": "Yes",
+        "helping_text": " juvenile这个单词的意思是\"青少年的\"，可以通过记忆\"juvenile\"这个词的前缀\"juv-\"，类似于\"young\"的意思，来联想它的意思是与青少年有关的。"
+    },
+    {
+        "word": "adult",
+        "mean": "n:人,大|v:成年",
+        "memory": "Yes",
+        "helping_text": " 成年人(adult)是一个成熟的(adult)人。"
+    },
+    {
+        "word": "human",
+        "mean": "n:人,人类,人道",
+        "memory": "Yes",
+        "helping_text": " 将human拆分成两部分，\"hu\"代表\"人类\"，\"man\"代表\"男人\"，所以human的意思是\"人类\"。"
+    },
+    {
+        "word": "anthropology",
+        "mean": "n:人类学",
+        "memory": "Yes",
+        "helping_text": " 人类学（anthropology）可以记忆为“人类的研究”，即研究人类的文化、社会和生物学特征。"
+    },
+    {
+        "word": "tribe",
+        "mean": "n:部落,许多,部族,种族,家族,族,群",
+        "memory": "Yes",
+        "helping_text": " tribe这个单词可以通过“三个”（three）这个词来记忆，因为tribe有三个音节，意思是“部落”或“族群”。"
+    },
+    {
+        "word": "ethnic",
+        "mean": "少数民族",
+        "memory": "Yes",
+        "helping_text": " ethnic这个单词可以通过它的前两个字母\"et\"来记忆，\"et\"可以联想到\"eternal\"（永恒的），因此可以将ethnic理解为与永恒、传统、文化相关的。ethnic的意思是指属于某个特定种族或文化群体的。"
+    },
+    {
+        "word": "ethnology",
+        "mean": "n:人种学",
+        "memory": "Yes",
+        "helping_text": " ethnology这个单词可以通过将其拆分为\"ethno\"和\"logy\"来记忆，\"ethno\"表示人种或民族，\"logy\"表示学科或研究。因此，ethnology的意思就是研究人种或民族的学科，即人类学。"
+    },
+    {
+        "word": "minority",
+        "mean": "n:少数,少数民族|a:少数",
+        "memory": "Yes",
+        "helping_text": " minority这个单词中包含了\"minor\"，而\"minor\"的意思是\"较小的\"，所以minority指的是少数群体，即在人群中占比较小的一部分。"
+    },
+    {
+        "word": "descent",
+        "mean": "n:世系,血统,倾斜,斜坡,家世,下坡,后裔,下降,世袭,门第,一代,继承,子孙,降格,降下",
+        "memory": "Yes",
+        "helping_text": " Descent的意思是下降，可以通过将单词拆分为\"de\"（向下）和\"scent\"（声音），来记住它的意思是向下的声音或动作。"
+    },
+    {
+        "word": "hybrid",
+        "mean": "n:杂种,混合,杂交种,混血儿,混合物,混血种,节点|v:混合",
+        "memory": "Yes",
+        "helping_text": " 将单词\"hybrid\"拆分成两部分，\"hy\"代表混合的意思，\"brid\"代表来自不同来源的东西。因此，\"hybrid\"意思是指来自不同来源或种类的混合物。"
+    },
+    {
+        "word": "intelligence",
+        "mean": "n:智力,情报,智慧,聪明,消息,信号,才智,智能,信息,脑子,神智,谍报,智,资质,天使,心眼儿,心眼,灵,灵性,通知,资",
+        "memory": "Yes",
+        "helping_text": " 智力（intelligence）就是“智慧的能力”，记住这个单词的方法就是把“intelligence”中的“intelligence”和“智慧”联系起来。"
+    },
+    {
+        "word": "intellectual",
+        "mean": "n:知识分子,文化人,书生,知识",
+        "memory": "Yes",
+        "helping_text": " intellectual这个单词中包含了\"intellect\"，意思是智力、理解力。所以可以通过这个单词的词根来记忆它的意思，即intellectual指的是具有高智力、理解力的人。"
+    },
+    {
+        "word": "aboriginal",
+        "mean": "n:土著居民",
+        "memory": "Yes",
+        "helping_text": " 原住民 - aboriginal，两者的首字母\"a\"相同，可以帮助记忆。"
+    },
+    {
+        "word": "ancestor",
+        "mean": "n:祖先,祖宗,祖上,先,老祖宗,祖辈,祖,先祖,宗,祖本|d:先",
+        "memory": "Yes",
+        "helping_text": " ancestor这个单词中的\"cestor\"部分可以让我们联想到\"ancestors\"，即祖先。所以，ancestor的意思就是祖先。"
+    },
+    {
+        "word": "forerunner",
+        "mean": "n:先驱者,先驱,先导,前兆,先行者,祖先,前驱,嚆矢",
+        "memory": "Yes",
+        "helping_text": " forerunner这个单词可以记忆为\"fore\"表示前面，\"runner\"表示跑步者，所以forerunner可以理解为前面跑在前面的人或事物，即先驱或先导。"
+    },
+    {
+        "word": "hominid",
+        "mean": "n:人类,原人",
+        "memory": "Yes",
+        "helping_text": " Hominid这个单词可以通过“homo”这个词根来记忆，homo在拉丁语中意为“人类”，所以hominid指的是人类及其近亲的动物。"
+    },
+    {
+        "word": "cranial",
+        "mean": "颅",
+        "memory": "Yes",
+        "helping_text": " 将cranial拆分成两部分，\"cran\"和\"ial\"。\"cran\"可以联想到脑部，而\"ial\"是一个形容词后缀，表示与某事物相关的。因此，cranial意思是与头部或脑部相关的。"
+    },
+    {
+        "word": "nomadic",
+        "mean": "游牧民族的",
+        "memory": "Yes",
+        "helping_text": " nomadic这个单词的意思是\"游牧的\"，可以通过记忆\"nomadic\"中的\"nomad\"这个词来联想，nomad是指游牧民族，所以nomadic就是与游牧有关的。"
+    },
+    {
+        "word": "catalog",
+        "mean": "n:目录|v:编目",
+        "memory": "Yes",
+        "helping_text": " 将单词\"catalog\"拆分成两部分，\"cat\"和\"log\"，然后将它们与记忆的图像联系起来，比如一只猫在记录着一份目录。"
+    },
+    {
+        "word": "natural",
+        "mean": "a:天然,当然,大方,朴质|n:天",
+        "memory": "Yes",
+        "helping_text": " 自然的，自然界的。可以通过将\"natural\"拆分成两部分，\"nat\"代表\"nature\"，即自然，\"ural\"代表\"natural\"，即自然的，自然界的。"
+    },
+    {
+        "word": "scenic",
+        "mean": "a:风景如画",
+        "memory": "Yes",
+        "helping_text": " 将scenic拆分成两部分，\"scen\"和\"ic\"。\"scen\"可以联想到scene（场景），而\"ic\"是形容词后缀，所以scenic的意思就是\"景色优美的\"。"
+    },
+    {
+        "word": "scenery",
+        "mean": "n:风景,景色,布景,风光,景致,景物,风月,色,风物,背景,光,景",
+        "memory": "Yes",
+        "helping_text": " 单词\"scenery\"中的\"scene\"可以帮助记忆，\"scenery\"指的是风景或景色。"
+    },
+    {
+        "word": "spectacle",
+        "mean": "n:眼镜,景象,场面,奇观,壮观,表演,展览,状况,光景",
+        "memory": "Yes",
+        "helping_text": " spectacle这个单词可以通过将其拆分为\"spec\"（看）和\"tacle\"（目标）来记忆，意思是引人注目的场面或表演。"
+    },
+    {
+        "word": "shade",
+        "mean": "n:树荫,荫凉|v:渐变,隐藏",
+        "memory": "Yes",
+        "helping_text": " Shade的意思是阴影，可以通过将shade与shadow（阴影）的发音相似来记忆。"
+    },
+    {
+        "word": "jungle",
+        "mean": "n:丛林,密林",
+        "memory": "Yes",
+        "helping_text": " jungle这个单词和\"丛林\"的意思有联系，因为丛林是一个茂密的、繁杂的植被覆盖的地区，而jungle也表示类似的环境。"
+    },
+    {
+        "word": "meadow",
+        "mean": "n:草地,牧场,草原,草场,草甸,牧地",
+        "memory": "Yes",
+        "helping_text": " Meadow（草地）可以记忆为\"me\"（我）+ \"adow\"（阿道），意思是我在阿道上的草地，即我在草地上。"
+    },
+    {
+        "word": "lawn",
+        "mean": "n:草坪,草地,草场,细布,空地,平地",
+        "memory": "Yes",
+        "helping_text": " lawn这个单词和\"lawn（草坪）\"的意思有联系，因为它们的发音很相似，都是指草地。"
+    },
+    {
+        "word": "summit",
+        "mean": "n:顶峰,峰,顶,高峰,顶点,极点,峰值,绝顶,颠,高潮|a:颠",
+        "memory": "Yes",
+        "helping_text": " summit这个单词可以理解为“山顶”，因为summit是指山的最高点，所以可以通过这个联系方式记住它的意思。"
+    },
+    {
+        "word": "gorge",
+        "mean": "n:峡谷|v:狼吞虎咽",
+        "memory": "Yes",
+        "helping_text": " gorge这个单词和gorilla（大猩猩）的发音相似，可以联想到大猩猩通常会吃很多食物，所以gorge的意思是狼吞虎咽，大吃特吃。"
+    },
+    {
+        "word": "puddle",
+        "mean": "n:水坑,洼,水潭|v:搅拌,撒尿",
+        "memory": "Yes",
+        "helping_text": " puddle的意思是水坑，可以通过将puddle拆分成两部分pu-ddle，pu可以联想到水，ddle可以联想到地，所以puddle就是地上的水坑。"
+    },
+    {
+        "word": "creek",
+        "mean": "n:支流",
+        "memory": "Yes",
+        "helping_text": " creek的意思是小溪，可以通过将\"creek\"拆分成两部分，\"c\"代表\"小\"，\"reek\"类似于\"river\"（河流），所以\"creek\"就是指小河流。"
+    },
+    {
+        "word": "canyon",
+        "mean": "n:峡谷,峡",
+        "memory": "Yes",
+        "helping_text": " 记住单词\"canyon\"的方法是将其与\"山\"（mountain）联系起来，因为canyon是指在山脉中形成的峡谷。"
+    },
+    {
+        "word": "spring",
+        "mean": "n:春天,弹簧,春季|v:发芽,升起,耸立,跳跃,跳出,绷",
+        "memory": "Yes",
+        "helping_text": " 春天是spring，因为在春天万物复苏，生机勃勃。"
+    },
+    {
+        "word": "trickle",
+        "mean": "v:滴,淌,泖|n:滴",
+        "memory": "Yes",
+        "helping_text": " trickle的意思是“滴下”，可以通过将“trickle”与“trickling water”（滴水）联系起来记住。"
+    },
+    {
+        "word": "limpid",
+        "mean": "a:清澈,清晰,浏,湛,盈盈,清亮,澈",
+        "memory": "Yes",
+        "helping_text": " 将limpid拆分成两部分，limp和id。limp表示柔软、柔顺，而id表示身份、特性。limpid的意思是清澈透明的，可以通过limp和id来联想，清澈的水柔软而透明，容易记住。"
+    },
+    {
+        "word": "prolific",
+        "mean": "多产的",
+        "memory": "Yes",
+        "helping_text": " Prolific可以记忆为\"pro\"（专业）+ \"lific\"（生产），意思是生产或创造大量的作品或成果，与专业生产或创造有关。"
+    },
+    {
+        "word": "fertile",
+        "mean": "a:肥沃,富饶,肥,膏腴,肥美,沃",
+        "memory": "Yes",
+        "helping_text": " fertile意思是“肥沃的”，可以通过将“fertile”拆分成“fer”和“tile”，“fer”类似于“生育”，而“tile”类似于“土地”，因此可以联想到“肥沃的土地”表示“fertile”。"
+    },
+    {
+        "word": "harvest",
+        "mean": "n:收获,收成|v:获,获得",
+        "memory": "Yes",
+        "helping_text": " 收获（harvest）的意思是收割庄稼或其他农作物。记住这个单词的方法是将“harvest”中的“harv”与“harvest”中的“收”发音相似，因此可以将“harvest”与“收获”联系起来。"
+    },
+    {
+        "word": "agriculture",
+        "mean": "n:农艺,本业",
+        "memory": "Yes",
+        "helping_text": " 农业（agriculture）- 农田（field）+ 劳动（work）= 农业（agriculture）- 意思：种植和养殖农作物和家畜的生产活动。"
+    },
+    {
+        "word": "agricultural",
+        "mean": "农业",
+        "memory": "Yes",
+        "helping_text": " 农业（agricultural）- 农田（agri）+ 文化（cultural），意思是与农田和农作物有关的。"
+    },
+    {
+        "word": "aquaculture",
+        "mean": "水产养殖",
+        "memory": "Yes",
+        "helping_text": " \"Aquaculture\"这个单词可以通过将\"水\"和\"农业\"结合起来记住，因为它指的是在水中养殖和培育水生生物的农业方式。"
+    },
+    {
+        "word": "arable",
+        "mean": "n:耕地",
+        "memory": "Yes",
+        "helping_text": " arable这个单词可以通过将其拆分为\"a\"和\"able\"来记忆，意思是\"可耕种的\"，即适合耕种的土地。"
+    },
+    {
+        "word": "indigenous",
+        "mean": "a:土,土生土长|v:土生土长",
+        "memory": "Yes",
+        "helping_text": " 本土的（in）+ 生（gen）+ ous（ous）= 本土的，即指本土的人或物种。"
+    },
+    {
+        "word": "fertilizer",
+        "mean": "n:肥料,肥",
+        "memory": "Yes",
+        "helping_text": " 肥料 - 记住这个单词的方法是将\"fe\"（肥）和\"tilizer\"（化肥）结合起来，表示用于促进植物生长的化肥。"
+    },
+    {
+        "word": "husbandry",
+        "mean": "n:管理,农业,耕种,节俭,节约,务农,耕作",
+        "memory": "Yes",
+        "helping_text": " husbandry这个单词可以记忆为\"husband\"（丈夫）+ \"ry\"，表示管理或照料的意思，因此husbandry的意思是农业管理或畜牧业。"
+    },
+    {
+        "word": "cultivate",
+        "mean": "v:培育,耕种,培养,种,养成,耕作,开垦,种植,养,培植,垦,莳,树,陶,栽培,中耕,护养,耪,修,追求,培,磨炼,养殖,谋求,教化,垦殖,培训,发展,耕,植",
+        "memory": "Yes",
+        "helping_text": " 种植（cultivate）这个单词的意思是培养或发展。记住这个单词的方法是将“cultivate”中的“cult”与“cultivate”中的“cult”联系起来，想象自己在培养一种特定的文化或信仰，从而帮助记忆这个单词的意思。"
+    },
+    {
+        "word": "cultivation",
+        "mean": "n:栽培,耕种,耕作,开垦,修养,养殖,农垦,教养,培养,造林|v:耕耘,耕作",
+        "memory": "Yes",
+        "helping_text": " 种植（cultivation）这个单词的联系方式是：将“cultivation”拆分成“cult”和“ivation”，其中“cult”可以联想到“农作物”或“种植”，而“ivation”可以联想到“行动”或“过程”，因此“cultivation”可以理解为“种植过程”或“耕作”。"
+    },
+    {
+        "word": "manure",
+        "mean": "n:肥料,粪肥,坢,肥,牛粪",
+        "memory": "Yes",
+        "helping_text": " manure这个单词可以通过将其拆分成两部分来记忆：man（男人）+ ure（肥料），表示男人的肥料，即指动物粪便用于肥料的意思。"
+    },
+    {
+        "word": "horticulture",
+        "mean": "n:园艺",
+        "memory": "Yes",
+        "helping_text": " horticulture（园艺）这个单词可以通过将其拆分为horti（园艺）和culture（文化）来记忆，意思是种植和培育植物的文化。"
+    },
+    {
+        "word": "hydroponics",
+        "mean": "水培法",
+        "memory": "Yes",
+        "helping_text": " hydroponics - 水培\n\n联系方式：hydroponics这个单词中的\"hydro\"意为水，而\"ponics\"则来源于希腊语\"ponos\"，意为劳动。因此，hydroponics指的是一种在水中种植植物的方法。"
+    },
+    {
+        "word": "insecticide",
+        "mean": "n:杀虫剂",
+        "memory": "Yes",
+        "helping_text": " 记住这个单词\"insecticide\"的方法是将其拆分为\"insect\"（昆虫）和\"cide\"（杀死），因此insecticide的意思是杀虫剂。"
+    },
+    {
+        "word": "irrigate",
+        "mean": "v:灌溉,浇,浇灌,灌,沃,注,滋润,冲洗,溉",
+        "memory": "Yes",
+        "helping_text": " irrigate的意思是灌溉，可以通过将单词拆分为ir（眼睛）和rigate（根），联想到眼睛需要水分来保持健康，类似于植物需要灌溉来生长。"
+    },
+    {
+        "word": "pesticide",
+        "mean": "n:农药,杀虫剂",
+        "memory": "Yes",
+        "helping_text": " pesticide - pest + cide\n\n联系方式：杀虫剂，用来杀死害虫的化学物质"
+    },
+    {
+        "word": "ridge",
+        "mean": "n:山脊,山梁,脊,山岭,屋脊,分水岭,岗,书脊,鼻梁,顶部,埂子,地塄,栋梁,波峰,上部,梁,垄,脊梁,山脉,沟,棱,岭,垄坎,脊背,岗子,山嘴,田埂|v:培土",
+        "memory": "Yes",
+        "helping_text": " Ridge这个单词可以记忆为\"山脊\"，因为ridge的发音和\"ridge\"这个词的意思都与山脊有关。"
+    },
+    {
+        "word": "silt",
+        "mean": "n:淤泥,泥沙|v:淤积",
+        "memory": "Yes",
+        "helping_text": " silt的意思是淤泥，可以通过将silt拆分成两部分，si和lt，si可以联想到\"沉积\"，lt可以联想到\"泥土\"，所以silt就是指沉积在水底的泥土。"
+    },
+    {
+        "word": "tractor",
+        "mean": "n:拖拉机,铁牛",
+        "memory": "Yes",
+        "helping_text": " 拆分单词：tract-or，tract可以理解为“拉”，而tractor是指拖拉机，因此可以记住tractor是一种用来拉动或拖动的机械设备。"
+    },
+    {
+        "word": "squash",
+        "mean": "n:南瓜|v:压制,镇压,压服",
+        "memory": "Yes",
+        "helping_text": " squash这个单词可以记忆为“压扁”，因为在打壁球或南瓜运动时，球会被压扁。"
+    },
+    {
+        "word": "cotton",
+        "mean": "n:棉花,棉,棉布,棉线,花,脱脂棉|v:欢迎,交好",
+        "memory": "Yes",
+        "helping_text": " 棉花（cotton）是一种天然纤维，可以用来制作衣物和其他纺织品。要记住这个单词，可以将它与“棉花”这个常见的物品联系起来，这样就能更容易地记住它的意思。"
+    },
+    {
+        "word": "garlic",
+        "mean": "n:大蒜,蒜,蒜头",
+        "memory": "Yes",
+        "helping_text": " garlic的意思是大蒜，可以通过“gar”这个音节来记忆，因为大蒜的味道很“蒜”。"
+    },
+    {
+        "word": "eggplant",
+        "mean": "n:茄子,茄",
+        "memory": "Yes",
+        "helping_text": " Eggplant是茄子的意思，可以通过将\"egg\"（鸡蛋）和\"plant\"（植物）结合起来来记住这个单词。"
+    },
+    {
+        "word": "fodder",
+        "mean": "n:饲料,弹药,刍秣,料,粗饲料,草料",
+        "memory": "Yes",
+        "helping_text": " fodder的意思是饲料，可以通过将\"fodder\"拆分成\"fod\"和\"der\"，将\"fod\"联想为\"food\"，即食物，再将\"der\"联想为\"deer\"，即鹿，可以记住fodder的意思是饲料。"
+    },
+    {
+        "word": "hay",
+        "mean": "n:干草,枯草,饲草,草料,海,成果,酬报,床",
+        "memory": "Yes",
+        "helping_text": " hay这个单词和\"干草\"有联系，因为hay是指用来喂养动物的干草。"
+    },
+    {
+        "word": "haystack",
+        "mean": "n:草垛",
+        "memory": "Yes",
+        "helping_text": " haystack这个单词可以被拆分成两部分：hay（干草）和stack（堆），所以可以将其联想为“一堆干草”，帮助记住它的意思是“干草堆”。"
+    },
+    {
+        "word": "vegetable",
+        "mean": "n:蔬菜,菜,植物,素",
+        "memory": "Yes",
+        "helping_text": " 蔬菜（vegetable）是指植物的一部分，而“vegetable”这个单词中的“vege”可以让我们联想到“vegetation（植被）”，从而记住它的意思。"
+    },
+    {
+        "word": "weed",
+        "mean": "n:杂草,野草,草|v:清理,菑,拔草,除去",
+        "memory": "Yes",
+        "helping_text": " \"Weed\"这个单词和\"杂草\"的意思有联系，因为杂草通常被称为weed。"
+    },
+    {
+        "word": "sorghum",
+        "mean": "n:高粱,蜀黍,秫",
+        "memory": "Yes",
+        "helping_text": " 将单词\"sorghum\"拆分成两部分，\"sor\"和\"gum\"。\"Sor\"可以联想到\"sorrow\"（悲伤），而\"gum\"可以联想到口香糖。因此，可以将\"sorghum\"联想为一种植物，它可能带来悲伤的味道，就像口香糖一样。"
+    },
+    {
+        "word": "livestock",
+        "mean": "n:牲畜,家畜,畜",
+        "memory": "Yes",
+        "helping_text": " livestock这个单词可以拆分成两部分：live（活的）和 stock（存货），所以livestock指的是存活的家畜，如牛、羊、猪等。"
+    },
+    {
+        "word": "poultry",
+        "mean": "n:家禽,家畜,禽",
+        "memory": "Yes",
+        "helping_text": " poultry这个单词可以通过记忆\"pou\"的发音来联想到\"鸡\"，因为\"pou\"的发音类似于\"鸡\"的叫声。所以poultry的意思就是家禽，特指鸡、鸭、鹅等家禽类动物。"
+    },
+    {
+        "word": "buffalo",
+        "mean": "n:水牛,野牛|v:威吓,迷惑",
+        "memory": "Yes",
+        "helping_text": " buffalo这个单词可以记忆为\"buff\"（浑身肌肉发达）和\"alo\"（阿洛哈），意思是水牛。"
+    },
+    {
+        "word": "cattle",
+        "mean": "n:牛,牲口,家畜,黄牛",
+        "memory": "Yes",
+        "helping_text": " cattle的意思是牛，可以通过将\"cattle\"拆分成\"cat\"和\"tle\"，将\"tle\"读作\"till\"，然后想象一只猫在耕田，帮助记忆这个单词的意思。"
+    },
+    {
+        "word": "SOW",
+        "mean": "v:播种,种,播,撒,撤,散播,传播",
+        "memory": "Yes",
+        "helping_text": " SOW这个单词可以记忆为\"seeds of words\"，意思是播种或播撒，类似于播种种子一样播撒单词或想法。"
+    },
+    {
+        "word": "conservatory",
+        "mean": "n:防腐剂,暖房,库房,温室",
+        "memory": "Yes",
+        "helping_text": " conservatory的意思是音乐学院或温室，可以通过将\"conservatory\"拆分成\"conserve\"（保存）和\"tory\"（故事），来记住这个单词的意思，即在音乐学院里保存和传承音乐故事。"
+    },
+    {
+        "word": "barn",
+        "mean": "n:谷仓,牲口棚,库房,仓,粮仓,厩,牛房,车库",
+        "memory": "Yes",
+        "helping_text": " barn的意思是谷仓，可以通过将barn拆分成两部分，bar和n，bar可以联想到酒吧，n可以联想到新，所以可以记住barn是一个新的酒吧，也就是一个新的地方存放东西。"
+    },
+    {
+        "word": "cowshed",
+        "mean": "n:牛棚,牛舍,牛房",
+        "memory": "Yes",
+        "helping_text": " cowshed这个单词可以通过将cow（牛）和shed（棚）结合起来记忆，表示牛棚的意思。"
+    },
+    {
+        "word": "granary",
+        "mean": "n:粮仓,谷仓,仓廪,廪,廒",
+        "memory": "Yes",
+        "helping_text": " granary这个单词可以通过将其拆分为\"gran\"和\"ary\"来记忆，\"gran\"可以联想到\"grain\"（谷物），而\"ary\"可以联想到\"storage\"（储存），因此granary的意思就是\"谷物仓库\"。"
+    },
+    {
+        "word": "greenhouse",
+        "mean": "n:温室,暖房,洞子,花房",
+        "memory": "Yes",
+        "helping_text": " 绿色的房子（green house）里种植植物，与温室（greenhouse）里种植植物的意思相关。"
+    },
+    {
+        "word": "seedbed",
+        "mean": "n:温床,苗床,种子田",
+        "memory": "Yes",
+        "helping_text": " seedbed这个单词可以理解为“种子床”，帮助我们记住它的意思是在种子床里播种种子，让它们生长和发展。"
+    },
+    {
+        "word": "sheepfold",
+        "mean": "n:羊圈",
+        "memory": "Yes",
+        "helping_text": " sheepfold这个单词可以通过将\"sheep\"（羊）和\"fold\"（圈）结合起来记忆，表示羊圈或羊栏的意思。"
+    },
+    {
+        "word": "orchard",
+        "mean": "n:果园,果木园,棒球场",
+        "memory": "Yes",
+        "helping_text": " orchard这个单词和\"orchestra\"这个单词很相似，都是以\"orch\"开头，所以可以通过这个相似性来记忆。orchard的意思是果园，可以联想到orchestra是一个音乐团，两者都是以\"orch\"开头，所以可以记住orchard是果园的意思。"
+    },
+    {
+        "word": "pasture",
+        "mean": "n:牧场,牧草|v:放牧",
+        "memory": "Yes",
+        "helping_text": " pasture这个单词可以通过将其拆分为两部分来记忆：past + ure。past在这里表示“过去”，而ure结尾通常表示“地方”或“状态”。因此，pasture的意思是“过去的地方”，指的是牲畜放牧的草地。"
+    },
+    {
+        "word": "pigpen",
+        "mean": "n:猪圈,猪舍",
+        "memory": "Yes",
+        "helping_text": " pigpen这个单词可以被拆分为两部分：pig（猪）和pen（围栏），所以可以将它与猪圈联系起来，帮助记忆其意思为“猪圈”。"
+    },
+    {
+        "word": "pigsty",
+        "mean": "n:猪圈,框架",
+        "memory": "Yes",
+        "helping_text": " pigsty这个单词可以拆分成两部分，pig和sty。pig是指猪，sty是指猪圈或脏乱的地方。所以可以通过将pigsty拆分成两部分来记忆，pigsty的意思就是猪圈或脏乱的地方。"
+    },
+    {
+        "word": "plantation",
+        "mean": "n:种植园,殖民,殖民地,建设,移民,创设",
+        "memory": "Yes",
+        "helping_text": " 植物园（plant）+ 农场（ation）= 种植园，即大规模种植农作物的农场。"
+    },
+    {
+        "word": "ranch",
+        "mean": "牧场",
+        "memory": "Yes",
+        "helping_text": " ranch这个单词可以和\"农场\"联系起来，因为ranch通常指的是一个大型的农场，特别是在美国西部。"
+    },
+    {
+        "word": "trough",
+        "mean": "n:槽,水槽,波谷,凹槽,谷",
+        "memory": "Yes",
+        "helping_text": " trough的意思是槽，可以通过将其拆分为“through”和“rough”来记忆，表示东西可以通过槽的粗糙表面。"
+    },
+    {
+        "word": "plow",
+        "mean": "v:开,开路,作|n:耕作",
+        "memory": "Yes",
+        "helping_text": " plow这个单词和\"p\"字母开头，可以联想到\"plant\"（种植）的意思，因为plow通常用来耕地，种植作物。"
     }
 ]
