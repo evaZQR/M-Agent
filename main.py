@@ -3,11 +3,13 @@ from dotenv import load_dotenv
 load_dotenv()
 from llama_index.core.llms import ChatMessage
 from multiff import start_server
+from flipflop.utils import *
 import argparse
 parser = argparse.ArgumentParser(description='处理方法选择。')
 parser.add_argument('--method', type=str, choices=['local', 'azure', 'openai'], required=True, help='选择处理方法,参照README。')
 parser.add_argument('--memory', type=str, default = "False", help='是否使用记忆')
 parser.add_argument('--store', type=str, default = "False", help='是否使用保存记忆')
+parser.add_argument('--function', type=str, default = "Talker", choices=["Talker","Email"],help='the function you want to use')
 args = parser.parse_args()
 args.memory = (args.memory).strip().upper() == "TRUE"
 args.store = (args.store).strip().upper() == "TRUE"
@@ -46,7 +48,12 @@ def pre_load():
     index = VectorStoreIndex.from_documents(documents,)
     index.storage_context.persist(persist_dir="./data/memory/index")
 def main():
-    start_server(args)
+    if args.function == "Email":
+        start_server(args)
+    elif args.function == "Talker":
+        from observation_chat import start_chat
+        start_chat(args.llm, args.embed_model, args.memory, args.store)
+        store_mem(args.embed_model, args.llm)
     #print('正在加载记忆，请稍等...')
     #pre_load()
     #print('记忆加载完成')

@@ -3626,7 +3626,7 @@
     {
         "word": "cotton",
         "mean": "n:棉花,棉,棉布,棉线,花,脱脂棉|v:欢迎,交好",
-        "memory": "Yes",
+        "memory": "No",
         "helping_text": " 棉花（cotton）是一种天然纤维，可以用来制作衣物和其他纺织品。要记住这个单词，可以将它与“棉花”这个常见的物品联系起来，这样就能更容易地记住它的意思。"
     },
     {
@@ -3796,5 +3796,2333 @@
         "mean": "v:开,开路,作|n:耕作",
         "memory": "Yes",
         "helping_text": " plow这个单词和\"p\"字母开头，可以联想到\"plant\"（种植）的意思，因为plow通常用来耕地，种植作物。"
+    },
+    {
+        "word": "opaque",
+        "mean": "n:晦暗",
+        "memory": "Yes",
+        "helping_text": " opaque这个单词的意思是不透明的，不透明的东西是看不透的，所以可以记住opaque这个单词是指不透明的。"
+    },
+    {
+        "word": "translucent",
+        "mean": "a:若明若暗",
+        "memory": "Yes",
+        "helping_text": " 透明的（translucent）- 透过（trans-）光线（lucent）能够看到的，即半透明的。"
+    },
+    {
+        "word": "optical",
+        "mean": "光学",
+        "memory": "Yes",
+        "helping_text": " \"optical\"这个单词与\"eye\"（眼睛）有关，因为\"optical\"意为\"视觉的\"或\"光学的\"，与眼睛和视觉有关。"
+    },
+    {
+        "word": "optics",
+        "mean": "n:光学",
+        "memory": "Yes",
+        "helping_text": " optics这个单词与\"视觉\"有关，可以通过\"optics sounds like eyes\"来记忆，表示光学、视觉方面的知识。"
+    },
+    {
+        "word": "ray",
+        "mean": "n:光线,射线,光,雷|v:放射,投射,闪现",
+        "memory": "Yes",
+        "helping_text": " ray这个单词与太阳的光线有关，可以记住它的意思是指光线或射线。"
+    },
+    {
+        "word": "spectrum",
+        "mean": "n:光谱,谱,频谱,范围,波谱,分光,系列,幅度",
+        "memory": "Yes",
+        "helping_text": " spectrum这个单词可以记住它的意思是\"范围\"，因为spectrum的英文单词中包含了\"spec\"，而\"spec\"在英文中表示\"范围\"。"
+    },
+    {
+        "word": "wavelength",
+        "mean": "n:波长",
+        "memory": "Yes",
+        "helping_text": " 波长（wavelength）可以记忆为“波的长度”，即波的一个完整周期所占据的空间距离。"
+    },
+    {
+        "word": "magnifier",
+        "mean": "n:放大镜,放大器",
+        "memory": "Yes",
+        "helping_text": " magnifier这个单词中的\"magni\"可以让我们联想到\"magnify\"，意思是放大或增大。因此，magnifier的意思就是放大镜，用来增大物体的细节或尺寸。"
+    },
+    {
+        "word": "lens",
+        "mean": "n:透镜,镜头,晶状体,晶体,镜片,镜,隐形眼镜",
+        "memory": "Yes",
+        "helping_text": " 将单词\"lens\"与\"镜头\"联系起来，因为镜头是用来聚焦和放大光线的，而lens也是用来聚焦和放大光线的。"
+    },
+    {
+        "word": "vortex",
+        "mean": "n:涡流,涡,旋风,旋涡,漩涡,漩,洑",
+        "memory": "Yes",
+        "helping_text": " 将vortex拆分为两部分，vort表示旋转，ex表示出。因此，vortex的意思是旋转的漩涡或涡流。"
+    },
+    {
+        "word": "buffer",
+        "mean": "n:缓冲,缓冲区,缓冲器|v:缓和",
+        "memory": "Yes",
+        "helping_text": " buffer这个单词可以理解为“缓冲器”，它的意思是用来缓冲或者减轻冲击或者冲突的东西。记住这个单词可以通过将其与“缓冲”这个概念联系起来，即buffer就像是一个缓冲器，用来减轻冲击或者冲突。"
+    },
+    {
+        "word": "fission",
+        "mean": "v:裂变,分裂|n:裂开",
+        "memory": "Yes",
+        "helping_text": " 分裂（fission）这个单词的意思是指原子核分裂成两个或更多的部分。可以通过将\"fission\"拆分成\"fis\"和\"sion\"，\"fis\"可以联想到\"分\"的意思，而\"sion\"可以联想到\"裂\"的意思，从而记住这个单词的意思。"
+    },
+    {
+        "word": "electricity",
+        "mean": "n:电,电流,电学,紧张,强烈,静电,电荷,热心",
+        "memory": "Yes",
+        "helping_text": " 电力 - 电力是一种能量形式，用来描述电子流动的现象。"
+    },
+    {
+        "word": "electromagnet",
+        "mean": "n:电磁铁",
+        "memory": "Yes",
+        "helping_text": " 电磁铁 - 电力和磁力的结合"
+    },
+    {
+        "word": "electromagnetism",
+        "mean": "n:电磁学,电磁",
+        "memory": "Yes",
+        "helping_text": " 电磁铁（electromagnet）是一种利用电流产生磁场的装置，而电磁铁的原理正是基于电磁学（electromagnetism）。"
+    },
+    {
+        "word": "electronic",
+        "mean": "电子",
+        "memory": "Yes",
+        "helping_text": " 电子（electronic）- 电子产品通常使用电力或电子技术来运行。"
+    },
+    {
+        "word": "electronics",
+        "mean": "n:电子,电子学",
+        "memory": "Yes",
+        "helping_text": " electronics（电子学）- 电子产品（如手机、电脑等）是现代电子学的产物，通过记住这些电子产品，可以联想到electronics这个单词的意思。"
+    },
+    {
+        "word": "amplifier",
+        "mean": "n:扩音器,放大镜",
+        "memory": "Yes",
+        "helping_text": " amplifier - amplify (放大器 - 放大)。放大器是用来增强声音或信号的设备，所以可以通过放大这个词来记住它的意思。"
+    },
+    {
+        "word": "battery",
+        "mean": "n:电池,电池组,炮台,殴打,一连串,组,炮位",
+        "memory": "Yes",
+        "helping_text": " Battery这个单词和\"电池\"有联系，因为电池是用来储存电能的装置，而battery也是用来储存能量的。"
+    },
+    {
+        "word": "chip",
+        "mean": "v:凿,捐助|n:筹,码子,薄片",
+        "memory": "Yes",
+        "helping_text": " chip这个单词可以和“薯片”联系起来，因为薯片是由薯片切成薄片的，所以chip的意思可以理解为“碎片”或“切片”。"
+    },
+    {
+        "word": "conductor",
+        "mean": "n:导体,指挥,导线,售票员,列车员,避雷针,导管",
+        "memory": "Yes",
+        "helping_text": " conductor - 一个记忆方式是将这个词分解成\"con\"和\"ductor\"，其中\"con\"可以理解为\"连接\"，\"ductor\"可以理解为\"导体\"，因此conductor指的是连接导体，即导电体。"
+    },
+    {
+        "word": "insulator",
+        "mean": "n:绝缘体,绝缘子,瓷瓶,电介质",
+        "memory": "Yes",
+        "helping_text": " insulator这个单词中包含了\"insulate\"这个词根，意思是隔离或者隔绝。因此，可以将insulator理解为一种隔离或者隔绝电流或热量的材料。"
+    },
+    {
+        "word": "magnet",
+        "mean": "n:磁铁,磁石,磁体,吸铁石",
+        "memory": "Yes",
+        "helping_text": " 磁铁（magnet）吸引（attract）物体。"
+    },
+    {
+        "word": "magnetism",
+        "mean": "n:磁,磁力,磁性,磁学,吸引力",
+        "memory": "Yes",
+        "helping_text": " 磁铁（magnet）+ 吸引力（attraction）= magnetism（磁性）"
+    },
+    {
+        "word": "semiconductor",
+        "mean": "n:半导体",
+        "memory": "Yes",
+        "helping_text": " 半导体 - 半导体材料在电子学中起着重要作用，帮助控制电流流动。记住这个单词的方法是将\"semi\"（半）和\"conductor\"（导体）结合起来，表示半导体是一种介于导体和绝缘体之间的材料。"
+    },
+    {
+        "word": "transistor",
+        "mean": "n:晶体管,三极管",
+        "memory": "Yes",
+        "helping_text": " transistor这个单词可以记忆为\"trans\"（传输）+ \"istor\"（器件），意思是一种用来传输电流和控制电路的器件。"
+    },
+    {
+        "word": "ultraviolet",
+        "mean": "紫外线",
+        "memory": "Yes",
+        "helping_text": " \"紫外线\" - \"紫外线\"这个词中的\"紫\"和\"紫外线\"中的\"紫\"都是紫色的意思，所以可以通过颜色来记住这个单词的意思。"
+    },
+    {
+        "word": "microwave",
+        "mean": "n:微波",
+        "memory": "Yes",
+        "helping_text": " microwave这个单词可以拆分成两部分：micro（微小的）+ wave（波），所以microwave的意思是微波，是一种用来加热食物的电器设备。"
+    },
+    {
+        "word": "mechanics",
+        "mean": "n:力学,技巧,结构,手艺",
+        "memory": "Yes",
+        "helping_text": " Mechanics这个单词与\"机械\"有关，可以通过记忆这个单词的结尾\"ics\"来联想到机械的领域，帮助记住它的意思是\"机械学\"或\"力学\"。"
+    },
+    {
+        "word": "gravitation",
+        "mean": "n:引力,万有引力,重力,地心引力,吸引力,下沉,倾向",
+        "memory": "Yes",
+        "helping_text": " gravitation这个单词可以通过将其拆分为\"gravity\"（重力）和\"action\"（作用）来记忆，意思是物体之间由于重力而产生的相互吸引的作用。"
+    },
+    {
+        "word": "oscillation",
+        "mean": "n:振荡,振动,摆动,震荡,变动,振幅|v:震荡,摆动,震动,振荡",
+        "memory": "Yes",
+        "helping_text": " oscillation这个单词的意思是“振荡”，可以通过将其拆分为“oscill”（振动）和“ation”（动作）来记忆。oscillation就是物体或者波动在两个极端之间来回摆动或者变化的动作。"
+    },
+    {
+        "word": "statics",
+        "mean": "n:静力学,静态,静电",
+        "memory": "Yes",
+        "helping_text": " 将statics拆分为两部分，\"stat\"代表统计，\"ics\"代表学科，因此statics指的是统计学科，帮助我们分析和解释数据。"
+    },
+    {
+        "word": "relativity",
+        "mean": "n:相对论,相对性,相关",
+        "memory": "Yes",
+        "helping_text": " 相对性（relativity）这个词的联系方式是：相对性理论是爱因斯坦的理论，所以记住这个单词时可以联想到爱因斯坦和他的相对性理论。"
+    },
+    {
+        "word": "velocity",
+        "mean": "n:速度,速,速率,迅速",
+        "memory": "Yes",
+        "helping_text": " 速度（velocity）就是“速度”的意思，可以通过将velocity拆分成两部分，velo（速度）和city（城市），来记忆这个单词的意思。速度就像城市里的车辆在移动一样，所以velocity表示物体在单位时间内移动的距离。"
+    },
+    {
+        "word": "dynamics",
+        "mean": "n:力学,动力,原动力,动态,力度,动力学",
+        "memory": "Yes",
+        "helping_text": " 动态（dynamics）这个单词的意思是“力量或变化的过程”，可以通过将“dynamic”（动态）这个词与“力量”或“变化”联系起来来记住它的意思。"
+    },
+    {
+        "word": "force",
+        "mean": "n:力,力量,部队|v:驱迫|d:强行|a:威武",
+        "memory": "Yes",
+        "helping_text": " force这个单词的意思是力量或强迫。要记住这个单词，可以将其与“强迫”这个词联系起来，因为force也可以表示强迫别人做某事。"
+    },
+    {
+        "word": "current",
+        "mean": "n:电流|a:现,流,通行|v:通用,通行,融",
+        "memory": "Yes",
+        "helping_text": " current这个单词的意思是“当前的”或“流动的”，可以通过记忆“current”这个词的首字母“c”和“current”这个词的意思中的“current”都含有“流动”的意思来帮助记忆。"
+    },
+    {
+        "word": "accelerate",
+        "mean": "v:加速,加快,促进,催促",
+        "memory": "Yes",
+        "helping_text": " 加速（accelerate）这个单词的意思是“使加快速度”，可以通过将“accelerate”拆分成“ace”和“rate”来记忆，其中“ace”表示顶尖、优秀，而“rate”表示速度，因此“accelerate”可以理解为使速度变得更快，达到顶尖水平。"
+    },
+    {
+        "word": "acceleration",
+        "mean": "n:早熟,变速|v:加速",
+        "memory": "Yes",
+        "helping_text": " 加速度（acceleration）是指物体在单位时间内速度的变化量。可以通过将单词“acceleration”拆分成“acceler”和“ation”来记忆，其中“acceler”类似于“accelerate（加速）”，帮助记住加速度是速度的变化量。"
+    },
+    {
+        "word": "transparent",
+        "mean": "a:透明,透,澄,澄莹,澄清,透亮,明澈|v:澄清,透亮",
+        "memory": "Yes",
+        "helping_text": " 透明的，像透明的玻璃一样，容易看穿的。"
+    },
+    {
+        "word": "liquid",
+        "mean": "n:液体|a:流质",
+        "memory": "Yes",
+        "helping_text": " 液体（liquid）就像水一样流动，所以记住liquid就是指液体。"
+    },
+    {
+        "word": "dilute",
+        "mean": "v:稀释,冲淡|a:稀释",
+        "memory": "Yes",
+        "helping_text": " 将\"dilute\"拆分成\"di\"和\"lute\"，\"di\"可以联想到\"divide\"，表示分开，而\"lute\"可以联想到\"liquid\"，表示液体。因此，\"dilute\"的意思就是将液体稀释、稀薄。"
+    },
+    {
+        "word": "dehydrate",
+        "mean": "v:脱水",
+        "memory": "Yes",
+        "helping_text": " 将dehydrate拆分为de-和hydrate，de-表示去除或除去，hydrate表示水分。因此，dehydrate的意思是去除水分，即使物体变得干燥。"
+    },
+    {
+        "word": "declivity",
+        "mean": "n:坡度,倾斜,斜坡",
+        "memory": "Yes",
+        "helping_text": " declivity这个单词可以通过将其拆分为\"decline\"（下降）和\"activity\"（活动）来记忆，意思是指斜坡或下坡。"
+    },
+    {
+        "word": "foam",
+        "mean": "n:泡沫,泡沫塑料|v:汹涌,起泡",
+        "memory": "Yes",
+        "helping_text": " 将foam拆分成两部分，\"fo\"代表\"泡沫\"，\"am\"代表\"形成\"，因此foam的意思就是\"泡沫形成\"。"
+    },
+    {
+        "word": "ventilation",
+        "mean": "n:通风|v:通风",
+        "memory": "Yes",
+        "helping_text": " ventilation这个单词与\"vent\"有关，\"vent\"是通风口的意思，所以ventilation指的是空气流通或通风。"
+    },
+    {
+        "word": "evaporate",
+        "mean": "v:蒸发,消失,汽化,破灭,跑,散失,挥发,跑墒,蒸,死亡,消灭,浓缩,发射",
+        "memory": "Yes",
+        "helping_text": " evaporate这个单词的意思是“蒸发”，可以通过将单词拆分为“evap”（蒸发）和“orate”（发声）来记忆，即液体蒸发时会发出声音。"
+    },
+    {
+        "word": "evaporation",
+        "mean": "n:蒸发,消散,浓缩|v:蒸发",
+        "memory": "Yes",
+        "helping_text": " evaporation这个单词中包含了\"vapor\"，而evaporation的意思是液体变成气体。所以可以通过单词中的\"vapor\"来记忆evaporation的意思。"
+    },
+    {
+        "word": "thermodynamics",
+        "mean": "n:热力学",
+        "memory": "Yes",
+        "helping_text": " 记住这个单词\"thermodynamics\"的方法是将其拆分为\"thermo\"和\"dynamics\"，\"thermo\"表示热量，\"dynamics\"表示运动或变化。因此，thermodynamics指的是热量运动或热力学，是研究热量和能量转化的物理学分支。"
+    },
+    {
+        "word": "friction",
+        "mean": "n:摩擦,摩擦力,冲突,阻力,不和,倾轧|v:摩擦",
+        "memory": "Yes",
+        "helping_text": " 摩擦（friction）- 想象两个物体相互摩擦产生的阻力，记住这个单词的意思。"
+    },
+    {
+        "word": "attrition",
+        "mean": "n:磨损,摩擦,消耗,磨灭",
+        "memory": "Yes",
+        "helping_text": " attrition这个单词的意思是“逐渐减少或消耗”，可以通过将其拆分为“at”和“trition”来记忆，其中“trition”类似于“erode”（侵蚀），所以attrition可以理解为逐渐减少或消耗的过程。"
+    },
+    {
+        "word": "chafe",
+        "mean": "v:擦伤,焦躁,摩擦,恼怒,发怒,着急,冲洗|n:发火,擦伤,急躁",
+        "memory": "Yes",
+        "helping_text": " Chafe这个单词可以记忆为\"ch\"开头的单词，意思是擦痛或擦破皮肤。"
+    },
+    {
+        "word": "resonance",
+        "mean": "n:共振,共鸣,同步,调谐,谐振,反响|v:共鸣",
+        "memory": "Yes",
+        "helping_text": " 将resonance拆分为re-son-ance，son类似于sound，所以resonance可以理解为共鸣或共振的意思，即在某种情况下声音或振动相互作用产生的效果。"
+    },
+    {
+        "word": "echo",
+        "mean": "v:呼应|n:摹仿,重复",
+        "memory": "Yes",
+        "helping_text": " 将单词\"echo\"与\"回声\"联系起来，因为echo是指声音在空间中反射后返回的现象，类似于回声。"
+    },
+    {
+        "word": "ultrasonics",
+        "mean": "超声学",
+        "memory": "Yes",
+        "helping_text": " 超声波（ultrasonics）- 超声波可以用来进行医学成像，如超声波检查。ultrasonics中的\"ultra\"表示超越，提示我们这是一种高频的声波技术。"
+    },
+    {
+        "word": "sonar",
+        "mean": "n:声纳",
+        "memory": "Yes",
+        "helping_text": " sonar这个单词可以通过将其拆分为\"son\"和\"ar\"来记忆，\"son\"在拉丁语中表示声音，而\"ar\"可以理解为\"发出\"的意思，因此sonar的意思就是通过声音来探测周围环境的技术，类似于海豚和蝙蝠使用声波来定位目标。"
+    },
+    {
+        "word": "acoustic",
+        "mean": "n:音质",
+        "memory": "Yes",
+        "helping_text": " acoustic这个单词中有\"acou\"，可以联想到\"听\"的意思，所以acoustic意思是与声音或听觉有关的。"
+    },
+    {
+        "word": "band",
+        "mean": "n:乐队,带,频带|v:镶边,穿连裆裤",
+        "memory": "Yes",
+        "helping_text": " band这个单词可以和“乐队”联系起来，因为乐队通常由一群人组成，他们一起演奏音乐，所以band可以帮助记住“乐队”的意思。"
+    },
+    {
+        "word": "electron",
+        "mean": "n:电子",
+        "memory": "Yes",
+        "helping_text": " 电子（electron）是一个负电荷的基本粒子，可以通过记忆“电子”这个词来联想它是与电有关的微小粒子。"
+    },
+    {
+        "word": "neutron",
+        "mean": "n:中子",
+        "memory": "Yes",
+        "helping_text": " 中子（neutron）是原子核中的一种粒子，记住这个单词可以通过将“neutron”拆分成“neu”（类似于“new”）和“tron”（类似于“electron”），表示中子是一种新的电子。"
+    },
+    {
+        "word": "nucleus",
+        "mean": "n:核,原子核,细胞核,核心,中心,蜂房,中坚,环",
+        "memory": "Yes",
+        "helping_text": " 核心（nucleus）是一个单词，它的意思是中心或核心。记住这个单词的方法是将其与核心概念联系起来，因为核心是事物的中心或核心部分。"
+    },
+    {
+        "word": "proton",
+        "mean": "n:质子",
+        "memory": "Yes",
+        "helping_text": " Proton是原子核中的一个基本粒子，带有正电荷。记住这个单词可以通过将其拆分为\"pro\"（正）和\"ton\"（音调），表示它带有正电荷。"
+    },
+    {
+        "word": "atom",
+        "mean": "n:原子,微粒,微量",
+        "memory": "Yes",
+        "helping_text": " Atom是化学中的基本单位，所以可以记住atom这个单词就像记住化学中的基本单位一样。"
+    },
+    {
+        "word": "nuclear",
+        "mean": "a:核扩散",
+        "memory": "Yes",
+        "helping_text": " 核能是一种能源，而核能与nuclear这个单词的联系是它们的发音相似。"
+    },
+    {
+        "word": "physics",
+        "mean": "n:物理学,物理",
+        "memory": "Yes",
+        "helping_text": " 物理学是研究物质、能量、运动和力量之间相互关系的科学，可以通过将physics拆分为两部分来记忆：phy-表示自然，sics-表示科学，因此physics可以理解为研究自然现象的科学。"
+    },
+    {
+        "word": "fusion",
+        "mean": "n:聚变,融合,合并,熔化,熔解,联合|v:熔化",
+        "memory": "Yes",
+        "helping_text": " 将fusion拆分为两部分，\"fu\"和\"sion\"。\"fu\"可以联想到\"fuel\"（燃料），而\"sion\"可以联想到\"collision\"（碰撞）。因此，fusion的意思可以理解为两种物质或力量的燃料碰撞或融合在一起。"
+    },
+    {
+        "word": "thermometer",
+        "mean": "n:温度计,寒暑表,温度表,体温表",
+        "memory": "Yes",
+        "helping_text": " 温度计 - 记住这个单词的方法是将\"thermo\"（热）和\"meter\"（计量器）结合起来，表示用来测量温度的仪器。"
+    },
+    {
+        "word": "temperature",
+        "mean": "n:温度,气温,体温,热,温,发烧,高烧,热度,冷热,燃点",
+        "memory": "Yes",
+        "helping_text": " 温度（temperature）- 记住这个单词的方法是将“temp”（温度的缩写）和“erature”（结尾）结合起来，表示温度的意思。"
+    },
+    {
+        "word": "thaw",
+        "mean": "v:融化|n:缓和",
+        "memory": "Yes",
+        "helping_text": " thaw这个单词可以记忆为\"th\"开头的\"融化\"，意思是解冻或融化。"
+    },
+    {
+        "word": "centigrade",
+        "mean": "n:摄氏",
+        "memory": "Yes",
+        "helping_text": " Centigrade这个单词可以记忆为\"centi\"（百分之一）+ \"grade\"（等级），意思是一种温度计量单位，表示摄氏温度。"
+    },
+    {
+        "word": "clot",
+        "mean": "v:凝固,拥塞,凝结|n:聚集",
+        "memory": "Yes",
+        "helping_text": " clot这个单词可以和\"blood clot\"联系起来，因为它的意思是凝块，特指血块。"
+    },
+    {
+        "word": "sublimate",
+        "mean": "v:升华,提高,提纯|a:高尚|n:升汞",
+        "memory": "Yes",
+        "helping_text": " 将sublimate拆分为sub（下面）和limate（limite，限制），意思是将负面情绪或欲望转化为更高尚的形式。"
+    },
+    {
+        "word": "distillation",
+        "mean": "n:蒸馏,升华|v:升华,蒸馏",
+        "memory": "Yes",
+        "helping_text": " 将distillation拆分为两部分，\"distil\"和\"lation\"。\"Distil\"意为提炼或蒸馏，而\"lation\"可以理解为过程或行为。因此，distillation指的是一种通过蒸馏或提炼的过程来分离混合物中的成分。"
+    },
+    {
+        "word": "chaos",
+        "mean": "n:混乱,乱,混沌,浑沌,一团糟|a:紊乱,乱,混乱",
+        "memory": "Yes",
+        "helping_text": " 混乱的事物可以被记为chaos，因为chaos的拼写和混乱的感觉相似。"
+    },
+    {
+        "word": "clutter",
+        "mean": "n:喧闹,喧嚷|v:搅乱",
+        "memory": "Yes",
+        "helping_text": " clutter的意思是杂乱，记住这个单词的方法是把\"clutter\"和\"cluttered\"联系起来，因为当物品杂乱堆放时，我们会说房间很\"cluttered\"。"
+    },
+    {
+        "word": "equilibrium",
+        "mean": "n:平衡,均衡,均势,稳定,不偏不倚,平静,均衡论,相称",
+        "memory": "Yes",
+        "helping_text": " 平衡（equilibrium）这个单词中的“libri”可以联想到“library”，而图书馆里的书籍通常会被摆放得平衡，因此equilibrium的意思就是保持平衡。"
+    },
+    {
+        "word": "density",
+        "mean": "n:密度,浓度,密集,比重,浓厚,深浅,疏密度,稠度,稠密,疏密,愚钝,密|a:密",
+        "memory": "Yes",
+        "helping_text": " 密度（density）就是物体的质量与体积的比值，可以记住这个单词是因为它的发音和“dense”（密集）这个词很相似，密度就是描述物体有多密集的性质。"
+    },
+    {
+        "word": "release",
+        "mean": "n:释放|v:发布",
+        "memory": "Yes",
+        "helping_text": " 将\"release\"拆分成两部分，\"re\"表示重新，\"lease\"表示租借。因此，可以将\"release\"理解为重新租借，即释放或解放某物。"
+    },
+    {
+        "word": "decelerate",
+        "mean": "v:减速,减退",
+        "memory": "Yes",
+        "helping_text": " decelerate意思是减速，可以通过将单词分解为\"de-\"表示向下，\"celer-\"来自于拉丁语celer（快速），所以decelerate就是减慢速度的意思。"
+    },
+    {
+        "word": "precipitate",
+        "mean": "v:加速|n:沉淀物",
+        "memory": "Yes",
+        "helping_text": " precipitate这个单词可以记忆为\"pre\"（之前）+ \"cipitate\"（下降），意思是突然发生或加速发展，就像雨水突然下降一样。"
+    },
+    {
+        "word": "expedite",
+        "mean": "v:加速,加快,发送,促进,派遣,催",
+        "memory": "Yes",
+        "helping_text": " expedite这个单词可以记忆为\"express delivery\"，意思是加快、促进或加速。"
+    },
+    {
+        "word": "quiver",
+        "mean": "v:颤动,抖动,发抖,颤抖|n:抖动,震动",
+        "memory": "Yes",
+        "helping_text": " Quiver的意思是颤抖或发抖，可以通过将quiver与箭袋联系起来，箭袋里的箭会因为紧张或兴奋而颤抖。"
+    },
+    {
+        "word": "jar",
+        "mean": "n:罐子,瓶,瓶子|v:振动",
+        "memory": "Yes",
+        "helping_text": " 将\"jar\"这个单词与\"玻璃罐\"联系起来，因为jar是指玻璃罐，可以用来存放食物或其他物品。"
+    },
+    {
+        "word": "vibration",
+        "mean": "n:振动,振荡,震动,摆动,颤动,震颤,激动,摇摆,犹豫|v:振荡,颤动,摇摆,振动,摆动",
+        "memory": "Yes",
+        "helping_text": " 振动（vibration）这个单词的意思是物体来回摆动或震动。要记住这个单词，可以把它和“振动”的发音联系起来，想象一个物体在来回摆动或震动的过程中发出的声音就是“vibration”。"
+    },
+    {
+        "word": "discharge",
+        "mean": "v:履行|n:免职,免除,排泄物,退伍,卸货",
+        "memory": "Yes",
+        "helping_text": " 记住discharge这个单词的方法是将其拆分为dis+charge，dis表示否定，charge表示责任或任务。因此，discharge的意思是解除责任或任务，释放或排放。"
+    },
+    {
+        "word": "shrink",
+        "mean": "v:缩水,收缩,缩,畏缩,缩小,害怕,萎缩,退缩,抽,抽缩,缩短,搐缩,退避|n:收缩,畏缩,缩水,退缩",
+        "memory": "Yes",
+        "helping_text": " shrink的意思是收缩，可以通过将shrink拆分成sh+rink，将sh理解为缩小的意思，然后和rink联想到rink（rink的发音和shrink相似），即可记住shrink的意思是收缩。"
+    },
+    {
+        "word": "diffuse",
+        "mean": "v:扩散,传播,发,散布,散发,散开,渗出,漫射,发散,弥散,播散|a:散开,冗赘",
+        "memory": "Yes",
+        "helping_text": " 将diffuse拆分成两部分，di和fuse。di表示分开，fuse表示融合。因此，diffuse的意思是分散或扩散。"
+    },
+    {
+        "word": "emit",
+        "mean": "v:发射,发出,出,发,散发,放射,放出,发表,冒,遗精,颁布,发行,流泻,吐露,放",
+        "memory": "Yes",
+        "helping_text": " emit这个单词可以通过将其拆分成e-mit来记忆，其中e代表\"出\"，mit代表\"发送\"或\"放出\"，因此emit的意思是\"发出\"或\"散发\"。"
+    },
+    {
+        "word": "transpire",
+        "mean": "v:发生,泄露,排出,透露,蒸发,发汗,发散",
+        "memory": "Yes",
+        "helping_text": " 记住transpire这个单词的方法是将其拆分为\"trans\"和\"pire\"，其中\"trans\"表示\"穿过\"，\"pire\"可以联想到\"perspire\"，即\"出汗\"。因此，transpire的意思是\"发生\"或\"透露\"，可以理解为信息或事件穿过并透露出来。"
+    },
+    {
+        "word": "constitute",
+        "mean": "v:构成,组成,引起,任命,占,设立,制定,指定,等于,组合",
+        "memory": "Yes",
+        "helping_text": " constitute这个单词可以拆分成两部分，\"con\"和\"stitute\"。\"con\"表示一起，\"stitute\"表示建立或组成。因此，constitute的意思是组成或构成。"
+    },
+    {
+        "word": "kes up the job.",
+        "mean": "把工作做完了。",
+        "memory": "Yes",
+        "helping_text": " 记住这个单词\"kes up the job\"的方法是将其拆分为\"ke\"和\"job\"，然后将\"ke\"与\"take\"联系起来，表示接受或承担，而\"job\"表示工作或任务，因此\"kes up the job\"的意思是承担工作或任务。"
+    },
+    {
+        "word": "eject",
+        "mean": "v:弹射,驱逐,逐出,喷射,排出,发射,排,喷发|n:投射",
+        "memory": "Yes",
+        "helping_text": " eject这个单词可以和\"eject\"按钮联系起来，意思是弹出或驱逐。"
+    },
+    {
+        "word": "radiate",
+        "mean": "v:辐射,放射,发射,照射,发光,发散,散热,闪耀",
+        "memory": "Yes",
+        "helping_text": " radiate这个单词的意思是“辐射”或“散发”，可以通过将其拆分为“radio”（无线电）和“ate”（动词后缀），来记住它的意思，即通过无线电波或其他方式散发出去。"
+    },
+    {
+        "word": "compatible",
+        "mean": "a:兼容,相容|v:兼容,相容",
+        "memory": "Yes",
+        "helping_text": " compatible这个单词可以拆分成两部分，\"com\"表示共同，\"patible\"可以联想到\"pat\"，即适合的意思。所以compatible的意思就是两者共同适合或能够和谐地相处。"
+    },
+    {
+        "word": "boundary",
+        "mean": "n:边界,分界线,边,界面,范围,界限,边线,表面,界,线,疆界,范,际,境,疆,边际,境界,野,垠,分野,接界|a:野",
+        "memory": "Yes",
+        "helping_text": " boundary这个单词可以理解为bound（限制）+ ary（表示性质或关系），所以boundary的意思就是界限或边界。"
+    },
+    {
+        "word": "boundless",
+        "mean": "a:无限,无边,无垠,无边无际,无穷,无穷无尽,漫漫,漫无边际,无量,无疆,无涯,无际,寥廓|v:无限,无量,无穷无尽|n:汪洋",
+        "memory": "Yes",
+        "helping_text": " boundless这个单词可以理解为\"无限的\"，可以通过将boundless拆分成bound（边界）和less（没有）来记忆，即没有边界，无限的意思。"
+    },
+    {
+        "word": "endless",
+        "mean": "a:没完没了,无尽无休,无穷无尽,无尽,无穷,漫长|v:无尽无休,不已,无穷无尽,永无止境",
+        "memory": "Yes",
+        "helping_text": " 无尽的（endless）- 想象一个没有尽头的线（endless line），表示没有限制或终点。"
+    },
+    {
+        "word": "cohesive",
+        "mean": "有凝聚力的",
+        "memory": "Yes",
+        "helping_text": " Cohesive意思是“有粘性的，有凝聚力的”，可以通过将其拆分为“co-”（一起）和“-hesive”（粘性）来记忆，表示一起粘在一起的意思。"
+    },
+    {
+        "word": "horizontal",
+        "mean": "n:水平线|a:纵",
+        "memory": "Yes",
+        "helping_text": " 水平线是水平的，而单词\"horizontal\"中的\"horizon\"也有水平线的意思，所以可以通过这个联系方式记住这个单词的意思。"
+    },
+    {
+        "word": "bulk",
+        "mean": "n:大部分,体积,大多数,大量,身躯,巨大,块状,大小,大半,主体|v:堆积,膨胀,增大,扩展,增加|a:散装",
+        "memory": "Yes",
+        "helping_text": " bulk这个单词可以和“大量”联系起来，因为bulk的意思就是“大量”或“体积”。"
+    },
+    {
+        "word": "brim",
+        "mean": "v:满,漫溢,漾,溢,注满,盈,洋溢|n:水边,岸边",
+        "memory": "Yes",
+        "helping_text": " brim的意思是边缘或边沿，可以通过将brim拆分成b和rim，rim是边缘的意思，帮助记忆。"
+    },
+    {
+        "word": "edge",
+        "mean": "n:边缘,边,边界,尖锐,刀刃,沿|v:促",
+        "memory": "Yes",
+        "helping_text": " Edge这个单词的意思是边缘或者优势，可以通过将其与“edge of a cliff”（悬崖边缘）联系起来记住。"
+    },
+    {
+        "word": "rim",
+        "mean": "n:边框,缘,边沿,海面,眼镜框,边|v:镶",
+        "memory": "Yes",
+        "helping_text": " rim这个单词可以和\"边缘\"联系起来，因为rim的意思就是边缘或边界。"
+    },
+    {
+        "word": "brink",
+        "mean": "n:边缘,堤岸,滨,线,界,缘,边,涯,边沿",
+        "memory": "Yes",
+        "helping_text": " brink的意思是边缘或边界，可以通过将brink与\"bring\"（带来）联系起来，表示在边缘时需要小心带来的意思。"
+    },
+    {
+        "word": "constituent",
+        "mean": "n:成分",
+        "memory": "Yes",
+        "helping_text": " constituent这个单词可以拆分成两部分，\"con\"和\"stituent\"。\"con\"在拉丁语中表示\"一起\"，而\"stituent\"则来自于\"stituere\"，意为\"建立\"或\"组成\"。因此，constituent的意思是\"组成一起的\"，可以帮助记住这个单词表示的是构成某物的部分或成员。"
+    },
+    {
+        "word": "dimension",
+        "mean": "n:尺寸,大小,维,面积,尺度,容积,体积,度",
+        "memory": "Yes",
+        "helping_text": " dimension这个单词可以理解为\"di\"（两个）和\"mension\"（measure），意思是指某个事物的特定方面或属性，可以通过测量来描述。所以可以记住dimension这个单词是指事物的不同方面或属性。"
+    },
+    {
+        "word": "elasticity",
+        "mean": "n:弹性,伸缩性,灵活性,松紧,弹力",
+        "memory": "Yes",
+        "helping_text": " 弹性（elasticity）这个单词的意思是指物体能够被拉伸或压缩后恢复原状的性质，类似于橡皮筋的弹性。记住这个单词的方法是将其与橡皮筋的弹性联系起来。"
+    },
+    {
+        "word": "cohesion",
+        "mean": "n:团结,内聚力,结合,连着,凝聚|v:结合",
+        "memory": "Yes",
+        "helping_text": " 将cohesion拆分为co和hesion，co表示一起，hesion表示粘合，因此cohesion的意思是物体或人群之间的粘合力或凝聚力。"
+    },
+    {
+        "word": "pressure",
+        "mean": "n:压力,压,压强,气压,压迫,按,电压,繁忙,紧急,挤,强制,为难,困苦|v:密封,压,迫使|a:紧急",
+        "memory": "Yes",
+        "helping_text": " pressure这个单词可以通过将其拆分为两部分来记忆：press（按压）和sure（确定）。因此，pressure的意思可以理解为对某人或某物施加压力或强迫其做某事。"
+    },
+    {
+        "word": "gravity",
+        "mean": "n:重力,引力,严重性,严肃,庄重,重要性,重量,认真,危险性",
+        "memory": "Yes",
+        "helping_text": " gravity这个单词的意思是“重力”，可以通过记忆“gravity”这个词的结构，其中包含“grav”这个词根，与“重力”有关，来帮助记忆。"
+    },
+    {
+        "word": "impetus",
+        "mean": "n:促进,动力,推动,声势,刺激,动量,势头",
+        "memory": "Yes",
+        "helping_text": " impetus这个单词的意思是动力或推动力。要记住这个单词，可以把它拆分成im（进入）+ pet（追求）+ us（我们），表示我们被推动或追求着前进。"
+    },
+    {
+        "word": "didactic",
+        "mean": "说教",
+        "memory": "Yes",
+        "helping_text": " didactic这个单词可以记忆为\"didactic教学\"，意思是教育性的、说教的。"
+    },
+    {
+        "word": "sermon",
+        "mean": "n:讲道,布道,说教,训诫,鬼蜮,训导|v:说教",
+        "memory": "Yes",
+        "helping_text": " sermon这个单词和\"ser\"这个音节很相似，而sermon通常是指宗教领袖或牧师所做的宗教讲道，因此可以通过\"ser\"这个音节来记忆sermon的意思。"
+    },
+    {
+        "word": "initiate",
+        "mean": "v:开始,启动,发动,开创,引发,创始,发起,倡言,提议,肇始,启蒙,启,首倡,倡导,倡议,启发,起头,兴办,引进,首创,倡首,发端",
+        "memory": "Yes",
+        "helping_text": " initiate这个单词可以通过将其拆分为两部分来记忆：ini和tiate。ini可以联想到initial（最初的），而tiate可以联想到action（行动），因此initiate的意思是开始或发起某种行动或过程。"
+    },
+    {
+        "word": "instill",
+        "mean": "灌输",
+        "memory": "Yes",
+        "helping_text": " 将instill拆分成in和still，in表示内部，still表示静止或稳定。因此，instill的意思是逐渐灌输或注入某种品质或观念，使其内心保持稳定。"
+    },
+    {
+        "word": "instruct",
+        "mean": "v:指示,通知,教,指令,指导,吩咐,命令,教诲,教授,谕,教导,授,饬,傅,嘱咐,传授,导|n:教授",
+        "memory": "Yes",
+        "helping_text": " 记住单词\"instruct\"的方法是将其拆分为\"in\"和\"struct\"，\"in\"表示进入或向内，\"struct\"表示建立或构建。因此，\"instruct\"的意思是向内传授知识或指导，即教导或指示。"
+    },
+    {
+        "word": "enlighten",
+        "mean": "v:开导,开窍,启发,启蒙,照明,照耀,迪,教导,启",
+        "memory": "Yes",
+        "helping_text": " Enlighten这个单词可以理解为\"en-lighten\"，意思是\"照亮\"或\"启发\"，就像灯光照亮黑暗一样，帮助我们理解或认识更多的事物。"
+    },
+    {
+        "word": "edify",
+        "mean": "v:启发,建筑,教导,教诲,训导,开导,熏陶",
+        "memory": "Yes",
+        "helping_text": " edify这个单词可以记忆为\"education\"，意思是\"教育、启迪\"。因为edify和education的发音相似，所以可以通过这种方式记住它的意思。"
+    },
+    {
+        "word": "direct",
+        "mean": "v:倾注,支配,执导,教正,节制,主持,主办,指令,饬令,督|d:一直,笔直|a:直系",
+        "memory": "Yes",
+        "helping_text": " 直接记住这个单词的联系方式是将它与\"直接\"这个词联系起来，因为direct的意思就是直接的、直接的。"
+    },
+    {
+        "word": "conduct",
+        "mean": "n:行为|v:实施,为人",
+        "memory": "Yes",
+        "helping_text": " conduct这个单词可以记忆为\"con\"（一起）和\"duct\"（引导），意思是引导、管理或进行。"
+    },
+    {
+        "word": "curriculum",
+        "mean": "n:课程",
+        "memory": "Yes",
+        "helping_text": " curriculum这个单词可以记忆为\"curry\"（咖喱），因为curriculum就像是一道精心准备的菜谱，是学校或机构规划的教学内容和课程安排。"
+    },
+    {
+        "word": "discipline",
+        "mean": "n:纪律,学科,训练,锻炼|v:训导,磨砺,操练",
+        "memory": "Yes",
+        "helping_text": " 记住单词\"discipline\"的方法是将其与\"disciple\"联系起来，因为两者都有相同的词根\"discipulus\"，意为\"学生\"或\"追随者\"。因此，\"discipline\"的意思是\"纪律\"或\"训练\"，就像一个学生或追随者需要遵守规则和纪律一样。"
+    },
+    {
+        "word": "adapt",
+        "mean": "v:适应,修改,改",
+        "memory": "Yes",
+        "helping_text": " 适应（adapt）是指根据环境或情况的变化来调整自己的行为或思维方式。记住这个单词可以通过将其与“adjust”（调整）联系起来，因为适应就是一种调整自己以适应新环境或情况的行为。"
+    },
+    {
+        "word": "adaptable",
+        "mean": "适应性强的",
+        "memory": "Yes",
+        "helping_text": " 适应能力强，可以适应不同的情况和环境。"
+    },
+    {
+        "word": "adaptation",
+        "mean": "n:改编,改写本,顺应,同化",
+        "memory": "Yes",
+        "helping_text": " 适应（adapt）+ 动作（-ation）= adaptation，即适应的行为或过程。"
+    },
+    {
+        "word": "excerpt",
+        "mean": "v:摘抄|n:节录,选录,抽印",
+        "memory": "Yes",
+        "helping_text": " 将excerpt拆分成两部分，ex-表示出，-cerpt表示抓取。因此，excerpt的意思是从整体中抓取出来的一部分，即摘录或节选。"
+    },
+    {
+        "word": "abstract",
+        "mean": "v:提炼|n:撮要|a:抽象,理论",
+        "memory": "Yes",
+        "helping_text": " 将单词\"abstract\"拆分成两部分，\"abs\"代表\"away from\"，\"tract\"代表\"draw\"，因此\"abstract\"的意思是\"draw away from\"，即提取或概括出来的概念或思想。"
+    },
+    {
+        "word": "abstraction",
+        "mean": "n:抽象,出神,发呆,提取",
+        "memory": "Yes",
+        "helping_text": " 将abstraction拆分成ab-stract-ion，其中ab可以理解为away，stract可以理解为拉开，ion可以理解为动作或状态。因此，abstraction可以理解为将事物拉开或分离出来，从而形成一个抽象的概念或概念。"
+    },
+    {
+        "word": "abridge",
+        "mean": "v:节本,摘要,削,节略,夺,缩写,省略|n:节",
+        "memory": "Yes",
+        "helping_text": " abridge可以理解为\"a bridge\"，意思是缩短或删减，就像在一座桥上减少了一些部分一样。"
+    },
+    {
+        "word": "implicit",
+        "mean": "a:含蓄,涵蓄,暗示|v:暗示",
+        "memory": "Yes",
+        "helping_text": " Implicit这个单词的意思是暗示的或含蓄的。记住这个单词可以通过将其拆分为\"im\"（不）和\"plicit\"（明确），暗示着不明确或含蓄的含义。"
+    },
+    {
+        "word": "concise",
+        "mean": "a:简明,简洁,精炼,简练,精练,凝练,简约",
+        "memory": "Yes",
+        "helping_text": " concise这个单词本身就是简洁的意思，所以可以通过记住这个单词的含义来帮助记忆它的意思。concise就是简洁的，不冗长的。"
+    },
+    {
+        "word": "succinct",
+        "mean": "a:简练,简洁,精粹,紧身,紧身儿,要言不烦,精炼,精练,不蔓不枝",
+        "memory": "Yes",
+        "helping_text": " 将succinct拆分成两部分，\"suc\"和\"cinct\"，\"suc\"可以联想到\"success\"，表示成功，而\"cinct\"可以联想到\"cinch\"，表示紧缩或束缚。因此，succinct的意思是简洁明了，紧凑的，成功地表达了想要表达的意思。"
+    },
+    {
+        "word": "fluent",
+        "mean": "a:流利|n:变量,变数,水流",
+        "memory": "Yes",
+        "helping_text": " 流利的(fluent)这个单词和\"fluid\"这个单词很相似，都有液体流动的意思。所以可以把\"fluent\"和\"fluid\"联系起来，记住\"fluent\"表示说话或表达流畅的意思。"
+    },
+    {
+        "word": "cogent",
+        "mean": "有说服力的",
+        "memory": "Yes",
+        "helping_text": " 记住单词\"cogent\"的方法是将其与\"convincing\"（有说服力的）联系起来，因为\"cogent\"的意思就是\"有说服力的\"。"
+    },
+    {
+        "word": "persuasive",
+        "mean": "n:动机,诱因|a:动听",
+        "memory": "Yes",
+        "helping_text": " 说服别人是一种“说服”的行为，而persuasive这个单词的意思就是“有说服力的”。"
+    },
+    {
+        "word": "character",
+        "mean": "n:字符,性格,人,人物,字,字母,人格,数字,品格,符号,特征,性质,性状,特性,角色,人品,品质,文字,名声,地位,品,脚,性,资格,奇人,字儿,记号,人头,声望,质地,角,怪人,脾性,质,骨头,鉴定,身分,秉性,性行|v:画,刻",
+        "memory": "Yes",
+        "helping_text": " character这个单词中包含了\"char\"这个词根，char在拉丁语中意为\"mark\"或\"distinctive quality\"，因此character的意思是一个人或事物的特征或特性。"
+    },
+    {
+        "word": "glossary",
+        "mean": "n:词汇表,字汇,词汇",
+        "memory": "Yes",
+        "helping_text": " 将\"glossary\"拆分成两部分，\"gloss\"和\"ary\"。\"Gloss\"是指解释或注释，而\"ary\"是一个后缀，表示\"关于\"或\"相关的\"。因此，\"glossary\"可以理解为一个关于解释或注释的列表或词汇表。"
+    },
+    {
+        "word": "dialect",
+        "mean": "n:方言,土话,白,地方话,语调,谈吐",
+        "memory": "Yes",
+        "helping_text": " 方言（dialect）可以记忆为“地域的语言”，即特定地区或群体使用的语言变体。"
+    },
+    {
+        "word": "clause",
+        "mean": "n:条款,从句,分句,条文,项目,条,子句,款项,项",
+        "memory": "Yes",
+        "helping_text": " 将\"clause\"拆分成两部分，\"cl\"代表\"close\"，意为\"关闭\"，而\"ause\"可以联想到\"cause\"，意为\"原因\"。因此，可以将\"clause\"理解为\"关闭原因\"，即在一段文字中表示一个完整的意思或观点的部分。"
+    },
+    {
+        "word": "linguistics",
+        "mean": "n:语言学",
+        "memory": "Yes",
+        "helping_text": " linguistics（语言学）- 通过将\"linguistics\"拆分成\"lingu\"和\"istics\"，可以记住\"lingu\"与\"language\"（语言）有关，\"istics\"表示学科或学习，因此linguistics即为语言学。"
+    },
+    {
+        "word": "phonetics",
+        "mean": "n:语音学",
+        "memory": "Yes",
+        "helping_text": " phonetics这个单词可以通过将其拆分为\"phone\"和\"tics\"来记忆，其中\"phone\"表示声音或语音，\"tics\"表示学科或技术。因此，phonetics意思是研究语音和发音的学科或技术。"
+    },
+    {
+        "word": "tense",
+        "mean": "a:紧张|n:时",
+        "memory": "Yes",
+        "helping_text": " tense这个单词的意思是“紧张的”，可以通过将“tense”拆分成“ten”和“se”来记忆，其中“ten”可以联想到“tension（紧张）”，帮助记住它的意思。"
+    },
+    {
+        "word": "version",
+        "mean": "n:说法,版本,形式,译文,文本,译本,本,型,模型|v:执行",
+        "memory": "Yes",
+        "helping_text": " 版本（version）这个单词可以通过将其拆分为“ver”和“sion”来记忆。其中，“ver”可以联想到“verify”（验证），而“sion”可以联想到“vision”（视觉），因此版本（version）可以理解为经过验证后的视觉表现或形式。"
+    },
+    {
+        "word": "genre",
+        "mean": "n:类别,样式,类型,体裁,风俗画,流派",
+        "memory": "Yes",
+        "helping_text": " genre这个单词的记忆方式是：记住“genre”这个单词的发音和拼写，它的意思是特定类型或风格的作品或艺术形式。"
+    },
+    {
+        "word": "tag",
+        "mean": "n:终端,标志,标签|v:尾随,捉住,追随",
+        "memory": "Yes",
+        "helping_text": " 将tag拆分为两部分，\"ta\"代表\"take\"，意为\"拿取\"，\"g\"代表\"game\"，意为\"游戏\"。因此，可以将tag理解为在游戏中标记或标签物品或人物的行为。"
+    },
+    {
+        "word": "slogan",
+        "mean": "n:口号,短语,标语,呐喊",
+        "memory": "Yes",
+        "helping_text": " 将单词slogan与“口号”联系起来，因为slogan就是指一个简洁、易记的口号或标语，用来表达某种观点或宣传产品。"
+    },
+    {
+        "word": "lyric",
+        "mean": "n:抒情诗,歌词",
+        "memory": "Yes",
+        "helping_text": " lyric这个单词和\"歌词\"有联系，因为歌词通常是歌曲的歌词，而lyric也可以指代诗歌或歌曲的歌词。"
+    },
+    {
+        "word": "verse",
+        "mean": "n:诗,诗句,诗歌,韵文,诗篇,章",
+        "memory": "Yes",
+        "helping_text": " 将单词\"verse\"拆分成\"ver\"和\"se\"，\"ver\"可以联想到\"version\"，表示一种特定的表达方式或形式，而\"se\"可以联想到\"section\"，表示一部分或片段。因此，可以将\"verse\"理解为一种特定的诗歌或歌词的部分。"
+    },
+    {
+        "word": "fiction",
+        "mean": "n:小说,虚构,捏造|v:虚构",
+        "memory": "Yes",
+        "helping_text": " fiction这个单词中的\"fict\"可以让我们联想到\"fiction\"是虚构的意思，即不真实的故事或小说。"
+    },
+    {
+        "word": "byword",
+        "mean": "n:绰号,口头禅,笑柄,谚语,俗话",
+        "memory": "Yes",
+        "helping_text": " 将\"byword\"拆分成两部分，\"by\"表示通过或由，\"word\"表示单词，因此\"byword\"可以理解为通过单词来记住它的意思。"
+    },
+    {
+        "word": "fable",
+        "mean": "n:寓言,无稽之谈,传说,情节|v:杜撰,虚构",
+        "memory": "Yes",
+        "helping_text": " Fable这个单词和\"fabulous\"这个单词很相似，都有“寓言”的意思。所以可以记住fable是一种寓言故事。"
+    },
+    {
+        "word": "term",
+        "mean": "n:术语,学期,词,条件,名词,条款,任期,用语,关系,词语,项|v:叫做",
+        "memory": "Yes",
+        "helping_text": " 将单词term与“术语”联系起来，因为term在英文中也可以表示“术语”或“术语表达”。"
+    },
+    {
+        "word": "maxim",
+        "mean": "n:格言,准则,箴言,座右铭,主义,谚语,原理",
+        "memory": "Yes",
+        "helping_text": " 将maxim拆分成两部分：max（最大）和im（我），可以理解为“我要做到最大”的座右铭或格言。maxim的意思是格言、箴言、准则。"
+    },
+    {
+        "word": "satire",
+        "mean": "n:讽刺|v:讽刺",
+        "memory": "Yes",
+        "helping_text": " Satire这个单词可以记忆为\"sat\"，意思是讽刺或讥讽。"
+    },
+    {
+        "word": "farce",
+        "mean": "n:闹剧,笑剧,滑稽,滑稽戏,趣谈,丑剧,趣剧,闹戏",
+        "memory": "Yes",
+        "helping_text": " farce这个单词可以记忆为\"far\"（远）+ \"ce\"（看），意思是一出闹剧或滑稽的戏剧，可以联想为远看的戏剧，即一出荒谬可笑的戏剧。"
+    },
+    {
+        "word": "adage",
+        "mean": "n:古话,格言,老话,俗话,谚",
+        "memory": "Yes",
+        "helping_text": " adage的意思是格言或谚语，可以通过将adage拆分成a+dage，将dage联想为“大哥”，表示格言通常是由长辈或有智慧的人传授的，帮助记忆adage的意思。"
+    },
+    {
+        "word": "synopsis",
+        "mean": "n:摘要,梗概,提要,撮要,提纲,大意,说明书,简介,一览,对照表",
+        "memory": "Yes",
+        "helping_text": " synopsis可以记作\"syn\"（同）+ \"opsis\"（看），意思是总结或概要。因此，可以将synopsis理解为对某个事物或内容的简洁总结或概要。"
+    },
+    {
+        "word": "compile",
+        "mean": "v:编,编纂,编写,编制,汇编,搜集,纂,汇集,辑录,编选,辑,编著,著述,编订,编辑,编造,编撰|n:辑",
+        "memory": "Yes",
+        "helping_text": " compile这个单词可以记忆为\"com\"（一起）和\"pile\"（堆），意思是将信息或数据收集在一起形成一个堆，即整理、编辑或汇编。"
+    },
+    {
+        "word": "entitle",
+        "mean": "v:叫做",
+        "memory": "Yes",
+        "helping_text": " entitle这个单词可以拆分成\"en\"和\"title\"，意思是给予某人或某物权利或资格，类似于给予某人一个\"标题\"或\"头衔\"。"
+    },
+    {
+        "word": "emend",
+        "mean": "v:校正,校勘,校订,订正,改正",
+        "memory": "Yes",
+        "helping_text": " 记住单词\"emend\"的方法是将其拆分为\"e\"和\"mend\"，其中\"mend\"的意思是修正或改进。因此，\"emend\"的意思是改正或修正错误。"
+    },
+    {
+        "word": "paraphrase",
+        "mean": "n:释义,意译|v:释义,意译",
+        "memory": "Yes",
+        "helping_text": " 将\"paraphrase\"拆分成两部分，\"para\"表示\"类似\"，\"phrase\"表示\"短语\"，所以paraphrase的意思就是用类似的短语来表达原文的意思。"
+    },
+    {
+        "word": "envoy",
+        "mean": "n:特使,使节,使者,专使,代表,公使,外交官|v:使",
+        "memory": "Yes",
+        "helping_text": " envoy这个单词可以通过将其拆分为\"en\"和\"voy\"来记忆，\"en\"表示\"使者\"，\"voy\"可以联想到\"voyage\"，即旅行或者旅程。因此，envoy的意思是\"使者\"或者\"代表\"，通常指派去执行特定任务或传递消息的人。"
+    },
+    {
+        "word": "aristocrat",
+        "mean": "n:贵族",
+        "memory": "Yes",
+        "helping_text": " aristocrat - aristocrat sounds like \"aristocratic\", which means belonging to the upper class or nobility."
+    },
+    {
+        "word": "gentry",
+        "mean": "n:绅士,贵族,伙伴,士绅,绅",
+        "memory": "Yes",
+        "helping_text": " \"gentle\"（温和）和\"entry\"（进入）的结合，表示上流社会的人群。"
+    },
+    {
+        "word": "autocrat",
+        "mean": "n:独夫,独裁者",
+        "memory": "Yes",
+        "helping_text": " 将autocrat拆分成auto(自动)和crat(统治者)，可以联想到autocrat是一个自动统治者，意思是专制统治者或独裁者。"
+    },
+    {
+        "word": "delegate",
+        "mean": "v:委派,委托,委任|n:委员,特派员",
+        "memory": "Yes",
+        "helping_text": " 将delegate拆分成两部分，de和legate。de可以理解为“向下”，legate可以理解为“选举代表”。因此，delegate的意思是“向下选举代表”，即将任务、权力或责任委托给他人。"
+    },
+    {
+        "word": "democrat",
+        "mean": "民主党人",
+        "memory": "Yes",
+        "helping_text": " 民主党人（democrat）是支持民主制度的人，所以可以通过单词中的“democra”来联想。"
+    },
+    {
+        "word": "independent",
+        "mean": "a:独立,单独",
+        "memory": "Yes",
+        "helping_text": " 独立的，独立的，独立的。"
+    },
+    {
+        "word": "candidate",
+        "mean": "n:候选人,考生|a:候选",
+        "memory": "Yes",
+        "helping_text": " candidate这个单词可以记忆为\"can\"（能够）+\"did\"（做过）+\"date\"（日期），表示一个能够被选中的人或事物，即候选人。"
+    },
+    {
+        "word": "priest",
+        "mean": "n:牧师,神父,教士,祭司,大师,神甫,术士,僧人",
+        "memory": "Yes",
+        "helping_text": " 牧师（priest）的联系方式是“祈祷（pray）”，因为牧师通常负责主持宗教仪式和祈祷活动。"
+    },
+    {
+        "word": "inhabitant",
+        "mean": "n:居民,住户",
+        "memory": "Yes",
+        "helping_text": " inhabitant的意思是“居民”，可以通过将“inhabitant”拆分成“in”和“habit”来记忆，其中“in”表示“在内部”，“habit”表示“习惯”，因此inhabitant就是指在某个地方内部习惯居住的人。"
+    },
+    {
+        "word": "occupation",
+        "mean": "n:职业,占领,工作,消遣,居住,行业,事情,业|v:占用",
+        "memory": "Yes",
+        "helping_text": " occupation这个单词和\"occupy\"这个词有相同的词根，\"occupy\"的意思是占据或占领，所以occupation的意思就是一个人的职业或工作。"
+    },
+    {
+        "word": "precursor",
+        "mean": "n:前兆,预兆,前驱,前身,前辈,先导,先兆,前任,先锋,先驱,嚆矢,母体",
+        "memory": "Yes",
+        "helping_text": " precursor这个单词可以拆分成两部分，pre-表示“之前”或“在前面”，cursor表示“跟踪”或“走”，所以precursor的意思是“在前面跟踪的人或事物”，可以理解为“先驱”或“前导”。"
+    },
+    {
+        "word": "avant-garde",
+        "mean": "n:先锋,先驱",
+        "memory": "Yes",
+        "helping_text": " avant-garde这个单词可以记忆为“先锋”，它的意思是指在艺术、文化或思想方面走在前沿、领先的人或事物。"
+    },
+    {
+        "word": "alumni",
+        "mean": "校友",
+        "memory": "Yes",
+        "helping_text": " 校友（alumni）- 想象你在大学时的同学和朋友，他们都是你的校友。"
+    },
+    {
+        "word": "skeptic",
+        "mean": "怀疑论者",
+        "memory": "Yes",
+        "helping_text": " 怀疑者（skeptic）- 怀疑（skeptical）- 怀疑者通常对事物持怀疑态度"
+    },
+    {
+        "word": "malcontent",
+        "mean": "a:不满|n:不满",
+        "memory": "Yes",
+        "helping_text": " 将malcontent拆分成两部分，mal表示“坏的”或“不好的”，content表示“满足的”或“满意的”。因此，malcontent的意思是“不满的”或“不满足的”。"
+    },
+    {
+        "word": "foe",
+        "mean": "n:敌人,敌,仇敌,冤家,穷寇,敌军,对手,仇家,仇人,敌手,寇仇,冤头,仇,强敌,敌兵",
+        "memory": "Yes",
+        "helping_text": " 将foe拆分成两部分，\"f\"代表\"enemy\"（敌人），\"oe\"可以联想为\"opponent\"（对手），因此foe的意思就是\"enemy\"（敌人）。"
+    },
+    {
+        "word": "opponent",
+        "mean": "n:对手,敌手,对头,冤家",
+        "memory": "Yes",
+        "helping_text": " 对手（opponent）的意思是“对立的一方”，可以通过将“opponent”拆分成“op”和“ponent”，其中“op”可以理解为“对立”，而“ponent”可以理解为“方”，从而记住这个单词的意思。"
+    },
+    {
+        "word": "rival",
+        "mean": "v:比美,匹敌,竞争,抗衡,媲美,对抗,伦比|n:对手,敌手,竞争者",
+        "memory": "No",
+        "helping_text": " rival的意思是竞争对手，可以通过将其拆分为\"ri\"和\"val\"，记忆为\"ri\"代表\"对手\"，\"val\"代表\"价值\"，即对手有价值，是值得竞争的。"
+    },
+    {
+        "word": "celebrity",
+        "mean": "n:名人,闻人,名流,名声,著名,扬名,风云人物",
+        "memory": "Yes",
+        "helping_text": " celebrity这个单词中包含了\"celebrate\"这个词根，意思是名人或名流，可以通过名人受到庆祝和赞扬来记住这个单词。"
+    },
+    {
+        "word": "figurehead",
+        "mean": "n:傀儡,架空",
+        "memory": "Yes",
+        "helping_text": " Figurehead这个单词可以拆分成两部分，\"figure\"表示人物或形象，\"head\"表示头部或领导者。因此，可以将figurehead理解为一个象征性的领导者或代表，通常没有实际权力或影响力。"
+    },
+    {
+        "word": "veteran",
+        "mean": "n:老兵,退伍军人,老将,老手,老资格,元老,复员军人,转业军人",
+        "memory": "Yes",
+        "helping_text": " Veteran这个单词和\"veteran\"这个词的意思都有\"经验丰富的\"的含义，所以可以通过记住这个单词的意思来帮助记忆它的意思。"
+    },
+    {
+        "word": "traitor",
+        "mean": "n:叛徒,卖国贼,汉奸,奸,奸贼,内奸,逆|a:奸",
+        "memory": "Yes",
+        "helping_text": " traitor这个单词的意思是叛徒，可以通过将其拆分为\"trait\"（特征）和\"or\"（或者）来记忆，即叛徒是背叛了原本的特征或身份的人。"
+    },
+    {
+        "word": "advocate",
+        "mean": "v:拥护|n:主",
+        "memory": "Yes",
+        "helping_text": " advocate这个单词可以记忆为\"ad\"（广告）+ \"vocate\"（声音），意思是支持者或倡导者，可以理解为通过广告或发声来支持某种观点或立场。"
+    },
+    {
+        "word": "feminist",
+        "mean": "女权主义",
+        "memory": "Yes",
+        "helping_text": " 女权主义者，记住这个单词的方法是将“feminine”（女性的）和“activist”（活动家）结合起来，表示支持女性权利和平等。"
+    },
+    {
+        "word": "humanitarian",
+        "mean": "n:慈善家",
+        "memory": "Yes",
+        "helping_text": " 人道主义者（humanitarian）是关心人类福祉和帮助他人的人。记住这个单词的方法是将“human”（人类）和“itarian”（关心）结合起来，表示关心人类福祉的人。"
+    },
+    {
+        "word": "throng",
+        "mean": "v:挤满,蜂拥,拥,拥塞|n:大量,众多|a:拥挤",
+        "memory": "Yes",
+        "helping_text": " throng的意思是人群，可以通过将throng拆分成th和rong，然后将th想象成“the”（英语中的“the”），而rong想象成“wrong”（英语中的“wrong”），即“the wrong”，表示人群聚集在一起，帮助记忆throng的意思。"
+    },
+    {
+        "word": "civilian",
+        "mean": "n:老百姓,平民,文官,民,市民",
+        "memory": "Yes",
+        "helping_text": " civilian这个单词中包含了\"civil\"这个词根，意思是\"民用的\"或\"平民的\"，所以civilian就是指平民或非军事人员。"
+    },
+    {
+        "word": "monarch",
+        "mean": "n:君主,君王,帝王,君,王,统治者,辟,国君",
+        "memory": "Yes",
+        "helping_text": " monarch这个单词可以通过将其拆分为两部分来记忆：mon（意为一个）+ arch（意为领导者），因此monarch的意思是一个领导者，通常指国家的君主或统治者。"
+    },
+    {
+        "word": "conservative",
+        "mean": "n:保守派,守旧派,防腐剂,稳健派|a:古雅,古板",
+        "memory": "Yes",
+        "helping_text": " 保守派（conservative）的意思是保持传统、保守的人。可以通过记忆“conserve”这个词来帮助记忆，因为保守派通常倾向于保守传统价值观和做法。"
+    },
+    {
+        "word": "disciple",
+        "mean": "n:门徒,信徒,弟子,追随者,门人,学生,门下,徒弟,使徒,教友,门生",
+        "memory": "Yes",
+        "helping_text": " disciple这个单词可以记忆为\"dis\"（不）+ \"ciple\"（cycle），意思是不断地跟随某人或某种信仰，形成一个循环的过程。"
+    },
+    {
+        "word": "champion",
+        "mean": "v:拥护,主持,主张|n:优胜者",
+        "memory": "Yes",
+        "helping_text": " Champion这个单词可以记忆为\"champ\"（冠军）+ \"ion\"（表示状态或行为），意思是冠军或优胜者。"
+    },
+    {
+        "word": "assassin",
+        "mean": "n:刺客,凶手",
+        "memory": "Yes",
+        "helping_text": " Assassin这个单词的联系方式是：assassin中包含了单词\"ass\"，而ass在英语中是指\"驴\"，所以可以将assassin理解为\"暗杀者\"，因为暗杀者通常会在暗处像驴一样悄悄地接近目标。"
+    },
+    {
+        "word": "bandit",
+        "mean": "n:土匪,匪徒,强盗,胡匪,恶棍,匪盗,盗贼,虎狼,寇,暴徒,匪",
+        "memory": "Yes",
+        "helping_text": " bandit这个单词可以和\"band\"（乐队）联系起来，因为bandit和band都有相似的发音。bandit的意思是土匪或强盗，可以想象一个乐队成员突然变成了土匪，偷走了别人的东西。"
+    },
+    {
+        "word": "burglar",
+        "mean": "n:窃贼,偷",
+        "memory": "Yes",
+        "helping_text": " burglar - burg(拉) + lar(拉) = 一个偷窃的人"
+    },
+    {
+        "word": "barbarian",
+        "mean": "野蛮人",
+        "memory": "Yes",
+        "helping_text": " barbarian这个单词中包含了\"bar\"这个音节，可以联想到bar酒吧里的人可能会表现得粗鲁和野蛮，从而记住barbarian的意思是指粗鲁和野蛮的人。"
+    },
+    {
+        "word": "exile",
+        "mean": "n:流亡,流放,放逐|v:流亡",
+        "memory": "Yes",
+        "helping_text": " 将exile拆分成两部分，ex-表示出去，ile类似于isle，表示岛屿。因此，exile的意思是被流放到岛屿或远离家乡。"
+    },
+    {
+        "word": "rebel",
+        "mean": "v:反抗,造反|n:叛逆",
+        "memory": "Yes",
+        "helping_text": " 记住单词\"rebel\"的方法是将其与\"反叛\"联系起来，因为rebel的意思就是反抗权威或规则的人。"
+    },
+    {
+        "word": "addict",
+        "mean": "v:耽于",
+        "memory": "Yes",
+        "helping_text": " addict这个单词的意思是“上瘾者”，可以通过记忆“add”（添加）和“ict”（病）的结合来联想，即添加了某种东西会让人上瘾。"
+    },
+    {
+        "word": "egoist",
+        "mean": "自私",
+        "memory": "Yes",
+        "helping_text": " Egoist的意思是自私自利的人，可以通过将单词拆分为ego（自我）+ ist（主义者）来记忆。 egoist就是自我主义者，即自私自利的人。"
+    },
+    {
+        "word": "eyewitness",
+        "mean": "n:目击者,见证人",
+        "memory": "Yes",
+        "helping_text": " \"eyewitness\"这个单词可以通过将其拆分为\"eye\"（眼睛）和\"witness\"（目击者）来记忆，意思是亲眼目睹事件的人。"
+    },
+    {
+        "word": "spectator",
+        "mean": "n:观众,旁观者",
+        "memory": "Yes",
+        "helping_text": " spectator这个单词中包含了\"spec\"这个词根，意思是看或观察。所以spectator的意思就是观众或旁观者。"
+    },
+    {
+        "word": "spouse",
+        "mean": "n:配偶,爱人,偶,夫,妻,特|v:嫁,配|d:特",
+        "memory": "Yes",
+        "helping_text": " spouse的意思是配偶，可以通过记忆“spouse”这个单词的结构，其中“s”和“p”可以代表“someone”和“partner”，帮助记住它的意思。"
+    },
+    {
+        "word": "couple",
+        "mean": "v:连接,结合,交尾,结婚,交配,搂抱,配合,拥抱|n:两口子,偶合,交媾",
+        "memory": "Yes",
+        "helping_text": " couple这个单词可以记忆为“两个人在一起”，表示两个人之间的关系或者一对夫妇。"
+    },
+    {
+        "word": "beneficiary",
+        "mean": "受益人",
+        "memory": "Yes",
+        "helping_text": " beneficiary这个单词可以拆分成两部分，\"benefit\"表示利益，\"iary\"表示人或者事物。所以beneficiary的意思就是受益人，即从某种利益或者资产中受益的人。"
+    },
+    {
+        "word": "inferior",
+        "mean": "a:低劣|n:次品,潮",
+        "memory": "Yes",
+        "helping_text": " inferior这个单词中的前缀\"in-\"可以理解为\"不好\"或\"不足\"，而\"ferior\"可以联想到\"fever\"，即发烧，因此inferior的意思可以理解为\"不如其他的\"或\"较差的\"。"
+    },
+    {
+        "word": "zealot",
+        "mean": "狂热者",
+        "memory": "Yes",
+        "helping_text": " Zealot这个单词可以记忆为\"zeal\"（热情）+ \"lot\"（很多），表示一个对某种信仰或事业非常热情和执着的人。"
+    },
+    {
+        "word": "benefactor",
+        "mean": "n:恩人,施主,恩公",
+        "memory": "Yes",
+        "helping_text": " benefactor这个单词可以拆分成两部分，\"benefit\"表示好处或利益，\"actor\"表示行动者或扮演者。因此，benefactor的意思是一个给予好处或帮助的人，类似于慈善家或赞助人。"
+    },
+    {
+        "word": "mortal",
+        "mean": "n:凡人,人类|v:致命|a:致命",
+        "memory": "Yes",
+        "helping_text": " Mortal这个单词的意思是“致命的”或“凡人的”，可以通过将“mortal”拆分成“more”和“tall”来记忆，意为“更高的”或“更大的”，暗示了凡人的有限和致命的特性。"
+    },
+    {
+        "word": "company",
+        "mean": "n:公司,朋友,连,作伴,连队,交往,群,聚会,交际,商号,伴侣,队,消防队,伙,商务,商社,来客,一行,伍,行会,中队|a:伍",
+        "memory": "Yes",
+        "helping_text": " company的意思是公司，可以通过将company拆分成两部分来记忆：com（共同）+ pany（伙伴），表示一群人共同组成的伙伴关系，即公司。"
+    },
+    {
+        "word": "audience",
+        "mean": "n:观众,听众,读者,接见,倾听,听取",
+        "memory": "Yes",
+        "helping_text": " 将audience拆分成两部分，\"aud\"代表听觉，\"ience\"代表人群。因此，audience的意思是一群人在一起聆听。"
+    },
+    {
+        "word": "recipient",
+        "mean": "n:得主,容器",
+        "memory": "Yes",
+        "helping_text": " Recipient这个单词可以通过记忆“receive”这个词根来联想，表示接收者或受益者。"
+    },
+    {
+        "word": "resident",
+        "mean": "n:居民|a:常驻",
+        "memory": "Yes",
+        "helping_text": " resident这个单词可以通过将其拆分成两部分来记忆：resi- 表示“居住”，-dent 表示“人”。因此，resident的意思是“居民，常驻者”。"
+    },
+    {
+        "word": "bachelor",
+        "mean": "n:单身汉,光棍,独身汉,学士,独身,光棍儿",
+        "memory": "Yes",
+        "helping_text": " 单词\"bachelor\"的意思是\"单身汉\"或\"学士学位\"。要记住这个单词，可以将其拆分成两部分，\"bach\"和\"elor\"。\"bach\"可以联想到\"bachelor\"的意思，而\"elor\"可以联想到\"学士学位\"的意思。"
+    },
+    {
+        "word": "idol",
+        "mean": "n:偶像,泥胎,幻像,偶,幽灵,谬见,谬论,幻象",
+        "memory": "Yes",
+        "helping_text": " 将单词\"idol\"拆分成两部分，\"id\"代表身份，\"ol\"代表崇拜，因此\"idol\"的意思是崇拜的对象，通常指偶像或神像。"
+    },
+    {
+        "word": "novice",
+        "mean": "n:初学者,生手,新手",
+        "memory": "Yes",
+        "helping_text": " novice这个单词的意思是新手或初学者。要记住这个单词，可以把它拆分成两部分，\"no\"和\"vice\"，\"no\"表示没有，\"vice\"可以理解为vice president，也就是副总统，所以novice就是没有经验或者是初学者。"
+    },
+    {
+        "word": "believer",
+        "mean": "n:信徒,徒,教徒,信士",
+        "memory": "Yes",
+        "helping_text": " Believer的意思是\"信徒\"，可以通过将\"lie\"（谎言）和\"be\"（是）结合起来记住这个单词，即信徒是相信真实的事实而不是谎言的人。"
+    },
+    {
+        "word": "cult",
+        "mean": "n:崇拜,信徒,祭礼,信仰,迷信,异教,礼拜,邪教",
+        "memory": "Yes",
+        "helping_text": " cult这个单词可以通过记忆“cult”的发音和“cultivate”（培养）这个单词的相似之处来记忆，cult的意思是“崇拜”或“狂热信仰”，可以联想到培养信仰或狂热的意思。"
+    },
+    {
+        "word": "fanatic",
+        "mean": "狂热分子",
+        "memory": "Yes",
+        "helping_text": " 狂热的粉丝（fanatic）- 通过fan（粉丝）这个词来记忆，表示对某事物或人极度狂热的人。"
+    },
+    {
+        "word": "adherent",
+        "mean": "n:追随者,党羽,门徒,门下",
+        "memory": "Yes",
+        "helping_text": " adherent的意思是“拥护者”或“支持者”，可以通过将单词分解为“ad”（表示向）和“here”（表示粘着）来记忆，即adherent是指那些“粘着在一起”或“支持”的人。"
+    },
+    {
+        "word": "faithful",
+        "mean": "a:忠实,忠诚,可靠,坚贞|v:守节|n:信徒",
+        "memory": "Yes",
+        "helping_text": " faithful这个单词的意思是“忠诚的、忠实的”，可以通过将faithful拆分成两部分来记忆：faith代表信仰、信念，ful代表充满的意思，所以faithful就是“充满信念的、忠诚的”。"
+    },
+    {
+        "word": "idiocy",
+        "mean": "n:白痴",
+        "memory": "Yes",
+        "helping_text": " idiocy这个单词听起来像\"idiots see\"，可以帮助记住它的意思是愚蠢或愚笨。"
+    },
+    {
+        "word": "moron",
+        "mean": "n:蠢人,白痴",
+        "memory": "Yes",
+        "helping_text": " 单词\"moron\"听起来像\"more on\"，可以理解为\"更多的愚蠢\"，帮助记住它的意思是指一个愚蠢或愚笨的人。"
+    },
+    {
+        "word": "illiterate",
+        "mean": "n:文盲|a:不识一丁",
+        "memory": "Yes",
+        "helping_text": " illiterate这个单词中的\"ill\"可以让我们联想到\"不好\"或\"不足\"，而\"iterate\"则是指\"重复\"或\"反复\"。因此，illiterate的意思就是\"不识字\"或\"文盲\"。"
+    },
+    {
+        "word": "proxy",
+        "mean": "n:代表,代用品,委托书,代理人,代理",
+        "memory": "Yes",
+        "helping_text": " 代理(proxy)这个单词的意思是指代替、代表或代理人。要记住这个单词，可以将其与“代理人”这个概念联系起来，代理人是代替他人进行某项工作或活动的人，因此proxy就是代替他人进行某项工作或活动的意思。"
+    },
+    {
+        "word": "deputy",
+        "mean": "n:副手,代表,代理人,代理,副,管理员,帮办,代办",
+        "memory": "Yes",
+        "helping_text": " deputy的意思是副手或代理人，可以通过将deputy拆分为de-puty，其中de-可以理解为代替或替代，而puty可以联想到put，即放置或放置在某个位置，因此可以将deputy理解为代替或放置在某个位置的人，即代理人或副手。"
+    },
+    {
+        "word": "proprietor",
+        "mean": "n:老板,主人,业主,地主,领主",
+        "memory": "Yes",
+        "helping_text": " proprietor这个单词可以通过将其拆分成两部分来记忆：prop和rietor。prop可以理解为“拥有”或“所有”，而rietor可以理解为“人”。因此，proprietor的意思就是“拥有者”或“所有者”，指的是某人拥有或经营某种财产或业务。"
+    },
+    {
+        "word": "consumer",
+        "mean": "n:消费者,用户",
+        "memory": "Yes",
+        "helping_text": " 消费者（consumer）是指购买商品或服务的人或组织。记住这个单词的方法是将其拆分为\"con\"（一起）和\"sumer\"（sum的变体，表示总和），即消费者是一起购买商品或服务的人或组织。"
+    },
+    {
+        "word": "employer",
+        "mean": "n:雇主",
+        "memory": "Yes",
+        "helping_text": " employer这个单词中包含了\"employ\"这个词根，表示雇佣。所以，可以通过\"employ\"这个词根来记忆employer的意思，即雇主。"
+    },
+    {
+        "word": "employee",
+        "mean": "n:雇员,雇工,工作证",
+        "memory": "Yes",
+        "helping_text": " employee这个单词可以拆分成两部分，\"employ\"表示雇佣，\"ee\"表示被动的接受者。所以employee的意思就是被雇佣的人，即雇员。"
+    },
+    {
+        "word": "debtor",
+        "mean": "n:债务人,负债人,债户,借方",
+        "memory": "Yes",
+        "helping_text": " Debtor的意思是欠债人，可以通过记忆“debtor”中的“debt”这个词来联想。debtor和debt都有“债务”的意思。"
+    },
+    {
+        "word": "arbitrator",
+        "mean": "仲裁员",
+        "memory": "Yes",
+        "helping_text": " 记住这个单词\"arbitrator\"的方法是将其拆分为\"arbitra\"和\"tor\"，\"arbitra\"类似于\"arbitrate\"，意思是仲裁，而\"tor\"是表示人或物的后缀，所以\"arbitrator\"的意思是仲裁者，即一个负责仲裁争议的人。"
+    },
+    {
+        "word": "superintendent",
+        "mean": "n:负责人,校长,主管,所长",
+        "memory": "Yes",
+        "helping_text": " superintendent这个单词可以拆分成两部分：super（超级）+ intendent（管理者），所以可以记住它的意思是“管理者”或“主管”。"
+    },
+    {
+        "word": "apprentice",
+        "mean": "n:艺徒,徒,见习生,初学者,生手,高徒",
+        "memory": "Yes",
+        "helping_text": " 学徒（apprentice）这个词可以通过将其拆分为\"app\"和\"rentice\"来记忆。\"app\"可以理解为\"application\"，表示学习和应用知识的过程；\"rentice\"可以理解为\"rent\"，表示租用或借用。因此，学徒就是通过租用或借用知识和技能来学习和成长的意思。"
+    },
+    {
+        "word": "tenant",
+        "mean": "n:房客,佃户,承租人,租户|v:租借",
+        "memory": "Yes",
+        "helping_text": " tenant这个单词可以通过\"ten\"这个词根来记忆，\"ten\"在英语中表示\"十\"，所以tenant可以理解为\"十分之一\"，即租户或房客。"
+    },
+    {
+        "word": "miser",
+        "mean": "n:守财奴,吝啬鬼,小气鬼,铁公鸡,财迷",
+        "memory": "Yes",
+        "helping_text": " miser的意思是吝啬鬼，可以通过将miser拆分成两部分，mi和ser，mi可以联想到\"me\"，ser可以联想到\"save\"，所以miser就是一个自私地节约金钱的人。"
+    },
+    {
+        "word": "donor",
+        "mean": "n:施主",
+        "memory": "Yes",
+        "helping_text": " donor的意思是捐赠者，可以通过将donor拆分成两部分，do（做）+nor（给），即做出给予的行为，来记忆其意思。"
+    },
+    {
+        "word": "personnel",
+        "mean": "n:人员,人事,职员,员工,班底,勤杂人员",
+        "memory": "Yes",
+        "helping_text": " personnel这个单词中包含了\"person\"，意思是人员或员工。"
+    },
+    {
+        "word": "imagist",
+        "mean": "他想象",
+        "memory": "Yes",
+        "helping_text": " 将imagist拆分为两部分：image（图像）和ist（主义者），imagist是指主张通过图像来表达思想或情感的人。"
+    },
+    {
+        "word": "inventor",
+        "mean": "n:发明家,发明者",
+        "memory": "Yes",
+        "helping_text": " inventor - 想象一个发明家(inventor)在创造新的东西(invent)。"
+    },
+    {
+        "word": "mechanic",
+        "mean": "n:技工,机工,技师,工匠",
+        "memory": "Yes",
+        "helping_text": " Mechanic这个单词和\"机械\"有联系，因为mechanic指的是修理和维护机械设备的人。"
+    },
+    {
+        "word": "biographer",
+        "mean": "传记作家",
+        "memory": "Yes",
+        "helping_text": " biographer这个单词可以拆分成两部分，bio和grapher。bio表示生命，grapher表示写作或描述。因此，biographer的意思就是一个写生平传记的人。"
+    },
+    {
+        "word": "censor",
+        "mean": "n:审查,检查员|v:审查,检查,删改",
+        "memory": "Yes",
+        "helping_text": " censor这个单词和\"censure\"这个单词很相似，都表示批评或指责。记住censor的意思是审查或审查内容，就像审查内容一样，censor也是对内容进行限制或删除。"
+    },
+    {
+        "word": "physician",
+        "mean": "n:医生,医师,大夫,医",
+        "memory": "Yes",
+        "helping_text": " physician这个单词可以通过将其分解为\"physic\"和\"ian\"来记忆，\"physic\"表示医学，\"ian\"表示人，所以physician就是指医生，即从事医学工作的人。"
+    },
+    {
+        "word": "hermit",
+        "mean": "n:隐士,隐逸,蜂鸟,逸民,隐君子",
+        "memory": "Yes",
+        "helping_text": " hermit这个单词和“遁世者”有联系，因为hermit指的是一个独居的隐士或修道士，通常远离社会生活。"
+    },
+    {
+        "word": "recluse",
+        "mean": "n:隐士,隐君子,逸民",
+        "memory": "Yes",
+        "helping_text": " recluse可以联想为\"re-clude\"，其中\"clude\"来自拉丁语\"cludere\"，意思是关闭或隔离。因此，recluse的意思是隐居者或隐士，与关闭或隔离的概念相关。"
+    },
+    {
+        "word": "ecologist",
+        "mean": "生态学家",
+        "memory": "Yes",
+        "helping_text": " ecologist这个单词可以通过将其拆分为\"eco\"和\"logist\"来记忆。\"Eco\"表示环境，而\"logist\"表示专家或学者。因此，ecologist指的是研究环境和生态系统的专家或学者。"
+    },
+    {
+        "word": "critic",
+        "mean": "评论家",
+        "memory": "Yes",
+        "helping_text": " critic这个单词和\"criticize\"这个动词有相同的词根，所以可以记住critic的意思是\"批评者\"或\"评论家\"。"
+    },
+    {
+        "word": "philanthropist",
+        "mean": "n:慈善家,善人",
+        "memory": "Yes",
+        "helping_text": " philanthropist（慈善家）- 通过将\"phil\"（爱）和\"anthropist\"（人类）结合在一起，可以记住慈善家是那些爱心和关心人类福祉的人。"
+    },
+    {
+        "word": "attorney",
+        "mean": "n:律师,代理人,代言人",
+        "memory": "Yes",
+        "helping_text": " Attorney的意思是律师，可以通过记忆“attorney”这个单词的结尾“-ney”来联想到“lawyer”这个词，因为它们的发音相似。"
+    },
+    {
+        "word": "congressman",
+        "mean": "n:众议员",
+        "memory": "Yes",
+        "helping_text": " congressman = congress + man，意思是国会议员，可以理解为国会的成员是男性。"
+    },
+    {
+        "word": "connoisseur",
+        "mean": "n:鉴赏家,行家,权威,内行",
+        "memory": "Yes",
+        "helping_text": " Connoisseur（行家）- 通过记忆“con”（一起）和“noir”（黑色），可以联想到行家对于黑色的品味和专业知识。"
+    },
+    {
+        "word": "entrepreneur",
+        "mean": "n:企业家,承包人",
+        "memory": "Yes",
+        "helping_text": " entrepreneur这个单词可以记忆为\"enter\"（进入）+ \"pre\"（前）+ \"neur\"（神经），表示一个愿意冒险进入前沿领域并具有创新精神的人，即企业家。"
+    },
+    {
+        "word": "principal",
+        "mean": "n:长,老本,首长,元,主角|a:主角",
+        "memory": "Yes",
+        "helping_text": " principal这个单词可以通过记忆“principal是学校的校长”来联想，表示主要的、首要的。"
+    },
+    {
+        "word": "staff",
+        "mean": "n:人员,职员,员工,拐杖,手杖,参谋部,五线谱,人马,僚属,标尺,同事,干部,标竿,竿,教职工,谱表,棒,棍棒,杖,杆,路签,指挥棒,支柱",
+        "memory": "Yes",
+        "helping_text": " staff这个单词可以记忆为“工作人员”，因为staff的发音和“staff”这个词的意思都与工作人员有关。"
+    },
+    {
+        "word": "commander",
+        "mean": "n:指挥官,司令官,指挥员,司令,司令员,统帅,船长,指挥,麾下,将领,主将",
+        "memory": "Yes",
+        "helping_text": " commander这个单词中包含了\"command\"这个词根，意思是指挥官或指挥者。所以可以通过单词中的\"command\"来记忆commander的意思，即指挥者或指挥官。"
+    },
+    {
+        "word": "commentator",
+        "mean": "n:评论员,政论家",
+        "memory": "Yes",
+        "helping_text": " commentator这个单词中包含了\"comment\"，意思是评论员或解说员，可以通过记住单词中的\"comment\"来联想到这个单词的意思。"
+    },
+    {
+        "word": "attendant",
+        "mean": "n:服务员,随从,听差,从,随员,跟班,侍者,厅子,值班员",
+        "memory": "Yes",
+        "helping_text": " attendant这个单词可以拆分成\"at\"和\"tend\"，意思是\"在场\"或\"照料\"。所以可以记住这个单词是指在场或照料某人或某物的人。"
+    },
+    {
+        "word": "trapper",
+        "mean": "设陷阱捕兽者",
+        "memory": "Yes",
+        "helping_text": " trapper这个单词可以通过将其拆分为trap（陷阱）和-er（人）来记忆，意思是捕兽者或陷阱设置者。"
+    },
+    {
+        "word": "orator",
+        "mean": "n:辩护人,原告",
+        "memory": "Yes",
+        "helping_text": " orator这个单词可以通过将其拆分为\"or\"和\"ator\"来记忆，\"or\"可以联想到口头表达，而\"ator\"可以联想到动作的执行者，因此orator的意思就是演讲者或演说家。"
+    },
+    {
+        "word": "idiot",
+        "mean": "n:白痴,笨蛋,蠢货,草包,憨子,傻子,痴子,蠢材,蠢物,蠢驴,呆子",
+        "memory": "Yes",
+        "helping_text": " 将单词\"idiot\"拆分成两部分，\"id\"代表\"我\"，\"iot\"可以联想到\"傻瓜\"，因此可以记住\"idiot\"的意思是\"傻瓜\"。"
+    },
+    {
+        "word": "counsel",
+        "mean": "n:辩护人,忠告|v:告诫,商榷",
+        "memory": "Yes",
+        "helping_text": " counsel的意思是“建议”或“辅导”，可以通过记忆“counsel”中的“coun”来联想到“counsel”是给出建议或辅导的行为。"
+    },
+    {
+        "word": "crew",
+        "mean": "n:船员,水手,机组,乘务员,群,组,班,队,包乘组,船夫",
+        "memory": "Yes",
+        "helping_text": " Crew的意思是船员或工作人员，可以通过记忆“crew”这个单词的发音和“船员”这个词的首字母“C”来联系起来。"
+    },
+    {
+        "word": "aviator",
+        "mean": "n:飞行员",
+        "memory": "Yes",
+        "helping_text": " 飞行员（aviator）- 飞行员穿着飞行员夹克和太阳镜，驾驶飞机在天空中飞行。"
+    },
+    {
+        "word": "playwright",
+        "mean": "n:剧作家,编剧",
+        "memory": "Yes",
+        "helping_text": " playwright这个单词可以拆分成两部分，play和wright。play是指戏剧，wright是指制造或创造的人。因此，playwright指的是戏剧的创作者或剧作家。"
+    },
+    {
+        "word": "operator",
+        "mean": "n:操作员,话务员,接线员,算子,操作符,运算符,报务员,资方,司机,驾驶员,操纵员,骗子,经纪人,量词",
+        "memory": "Yes",
+        "helping_text": " 操作员(operator) - 想象一个操作员在控制台上进行各种操作，从而记住这个单词的意思。"
+    },
+    {
+        "word": "clergy",
+        "mean": "n:牧师,神职人员,教士,僧侣",
+        "memory": "Yes",
+        "helping_text": " clergy这个单词可以记忆为\"cler\"（牧师）+ \"gy\"（群体），意思是指牧师群体。"
+    },
+    {
+        "word": "auditor",
+        "mean": "n:审计员,旁听生",
+        "memory": "Yes",
+        "helping_text": " auditor这个单词可以通过将其拆分为\"aud\"和\"itor\"来记忆。\"aud\"来自于拉丁语audire，意为\"听\"，而\"itor\"表示\"人\"。因此，auditor的意思是\"听众\"或\"审计员\"，即一个专门听取信息或审查账目的人。"
+    },
+    {
+        "word": "athlete",
+        "mean": "n:运动员",
+        "memory": "Yes",
+        "helping_text": " athlete这个单词中包含了\"let\"这个音节，可以联想到\"let's\"，表示\"让我们\"，所以athlete就是指那些让我们感到\"让我们\"惊叹的运动员。"
+    },
+    {
+        "word": "satirist",
+        "mean": "讽刺作家",
+        "memory": "Yes",
+        "helping_text": " satirist这个单词可以通过将其拆分成两部分来记忆：satire（讽刺）+ ist（表示从事某种活动的人），因此satirist指的是从事讽刺创作的人。"
+    },
+    {
+        "word": "sculptor",
+        "mean": "n:雕刻家,雕塑家",
+        "memory": "Yes",
+        "helping_text": " 雕塑家（sculptor）可以理解为“sculpt”（雕刻）的人，即专门从事雕刻艺术的人。"
+    },
+    {
+        "word": "mathematician",
+        "mean": "n:数学家",
+        "memory": "Yes",
+        "helping_text": " 数学家 - 数学家是一个数学专家，mathematician中包含mathematics这个词。"
+    },
+    {
+        "word": "astronaut",
+        "mean": "n:宇航员,太空人",
+        "memory": "Yes",
+        "helping_text": " astronaut这个单词中包含了\"astro\"，意思是太空，所以astronaut就是太空人的意思。"
+    },
+    {
+        "word": "astronomer",
+        "mean": "天文学家",
+        "memory": "Yes",
+        "helping_text": " astronomer这个单词中包含了\"star\"这个词，而astronomer的意思是\"天文学家\"，因此可以通过\"star\"这个词来记忆astronomer的意思。"
+    },
+    {
+        "word": "spaceman",
+        "mean": "n:宇航员,太空人",
+        "memory": "Yes",
+        "helping_text": " 将单词\"spaceman\"分解为\"space\"（太空）和\"man\"（人），可以帮助记住这个单词的意思是太空人或宇航员。"
+    },
+    {
+        "word": "botanist",
+        "mean": "植物学家",
+        "memory": "Yes",
+        "helping_text": " botanist这个单词可以通过将其拆分成两部分来记忆：botany（植物学）+ ist（从事某种活动的人），因此botanist指的是从事植物学研究的人。"
+    },
+    {
+        "word": "choreographer",
+        "mean": "编排",
+        "memory": "Yes",
+        "helping_text": " choreographer可以拆分为两部分：choreo（舞蹈）+ grapher（写作），所以choreographer的意思是编舞者，即负责设计和编排舞蹈的人。"
+    },
+    {
+        "word": "scout",
+        "mean": "n:侦察员,侦察兵,童子军,侦察|v:斥候,讥笑,踏勘,探,侦察,搜索,守候,巡哨,嘲弄",
+        "memory": "Yes",
+        "helping_text": " scout这个单词可以和\"探索\"联系起来，因为scout的意思是侦察员或侦察队员，他们通常会探索未知的地方或情况。"
+    },
+    {
+        "word": "geographer",
+        "mean": "地理学家",
+        "memory": "Yes",
+        "helping_text": " 地理学家（geographer）可以记忆为“地理+学家”，即研究地理学的专家。"
+    },
+    {
+        "word": "geologist",
+        "mean": "地质学家",
+        "memory": "Yes",
+        "helping_text": " 地质学家（geologist）可以记住这个单词，因为geologist中的\"geo\"意为地球，\"logist\"意为专家，所以geologist就是地球的专家，即研究地球的科学家。"
+    },
+    {
+        "word": "educator",
+        "mean": "n:教育家",
+        "memory": "Yes",
+        "helping_text": " 教育者（educator）是一个教育工作者，负责教导和培养学生的知识和技能。记住这个单词的方法是将其拆分为\"edu\"（教育）和\"cat\"（猫），想象一个教育者就像一只教导学生的猫一样。"
+    },
+    {
+        "word": "faculty",
+        "mean": "n:能力,才能,教职员,官能,机能,系,手腕,公会,技能,特权,学院,权能,院",
+        "memory": "Yes",
+        "helping_text": " faculty这个单词可以记忆为\"fac\"是面孔的意思，\"ulty\"是多的意思，所以faculty就是指一个人的面孔和特征，引申为能力或者技能。"
+    },
+    {
+        "word": "treasurer",
+        "mean": "n:司库,出纳员,收款员",
+        "memory": "Yes",
+        "helping_text": " treasurer这个单词中包含了\"treasure\"，treasurer的意思是财务主管或财务官，可以将其记忆为\"treasure\"表示财富，treasurer管理财富。"
+    },
+    {
+        "word": "archeologist",
+        "mean": "考古学家",
+        "memory": "Yes",
+        "helping_text": " 考古学家（archeologist）可以记忆为“arche”（考古）+“ologist”（学家），意思是专门研究古代文明和文物的学者。"
+    },
+    {
+        "word": "paleoanthropologist",
+        "mean": "古人类学家",
+        "memory": "Yes",
+        "helping_text": " 单词\"paleoanthropologist\"中的\"paleo\"意为古代，\"anthropologist\"意为人类学家，因此\"paleoanthropologist\"指的是研究古代人类的人类学家。"
+    },
+    {
+        "word": "pilot",
+        "mean": "n:飞行员,驾驶员|v:引水",
+        "memory": "Yes",
+        "helping_text": " 飞行员（pilot）的意思是“掌舵者”，可以通过将“pilot”与“pilot the plane”（驾驶飞机）联系起来记住其意思。"
+    },
+    {
+        "word": "meteorologist",
+        "mean": "气象学家",
+        "memory": "Yes",
+        "helping_text": " Meteorologist这个单词可以通过将其拆分为两部分来记忆：meteor（气象）+ologist（专家），因此meteorologist指的是气象学家或气象专家。"
+    },
+    {
+        "word": "anthropologist",
+        "mean": "人类学家",
+        "memory": "Yes",
+        "helping_text": " anthropologist - 人类学家\n\n联系方式：anthropologist中的\"anthropo-\"来自希腊语\"anthropos\"，意为\"人类\"，所以anthropologist就是研究人类的学者。"
+    },
+    {
+        "word": "artist",
+        "mean": "n:艺术家,画家,美术家,艺人,能手",
+        "memory": "Yes",
+        "helping_text": " 艺术家（artist）是一个创造艺术作品的人，可以通过“art”这个词来记忆。"
+    },
+    {
+        "word": "euphonious",
+        "mean": "悦耳的",
+        "memory": "Yes",
+        "helping_text": " euphonious听起来像\"音乐\"，意思是\"悦耳的，和谐的\"。"
+    },
+    {
+        "word": "harsh",
+        "mean": "a:刺耳,严酷,苛刻,刻薄,鬼,刻,粗重|v:粗糙",
+        "memory": "Yes",
+        "helping_text": " Harsh这个单词的意思是严厉的或刺耳的，可以通过将其与“哈希”（hash）这个词联系起来，哈希通常用于描述一种粗糙的声音或行为，帮助记忆harsh的含义。"
+    },
+    {
+        "word": "jazz",
+        "mean": "n:爵士乐|v:游荡",
+        "memory": "Yes",
+        "helping_text": " 将单词\"jazz\"与音乐风格联系起来，因为jazz是一种流行的音乐类型。"
+    },
+    {
+        "word": "movement",
+        "mean": "n:运动,动作,活动,乐章,动,举动,动静,举止,运转,排泄物|v:动",
+        "memory": "Yes",
+        "helping_text": " movement这个单词与\"move\"这个动词有关联，意思是运动或者活动。"
+    },
+    {
+        "word": "note",
+        "mean": "n:笔记,音符,记,便条,记录,条子,字条,注意,纸币,口气|v:启,注目,笔录,批点",
+        "memory": "Yes",
+        "helping_text": " 记住单词note的方法是将其与音符联系起来，因为音符在音乐中用来记录音调和节奏，而note这个单词在英语中的意思是“音符”或“笔记”。"
+    },
+    {
+        "word": "score",
+        "mean": "v:得分|n:计算,缘故,记号",
+        "memory": "Yes",
+        "helping_text": " 记住单词\"score\"的方法是将它与\"分数\"联系起来，因为\"score\"的意思就是分数。"
+    },
+    {
+        "word": "instrument",
+        "mean": "n:仪器,乐器,工具,仪表,手段,器械,文件,械,证件,证券,仪",
+        "memory": "Yes",
+        "helping_text": " instrument这个单词中包含了\"ment\"这个后缀，可以联想到这个单词是指一种工具或设备，用来完成特定的任务或活动。"
+    },
+    {
+        "word": "episode",
+        "mean": "n:插曲,发作,幕,片段,插话|v:穿插",
+        "memory": "Yes",
+        "helping_text": " 将单词\"episode\"拆分成两部分，\"epi\"代表\"在...之上\"，\"sode\"代表\"走\"，所以\"episode\"可以理解为\"在某个事件或情节之上走\"，即指某个特定事件或情节。"
+    },
+    {
+        "word": "orchestra",
+        "mean": "n:管弦乐队,乐队,管弦乐,乐池",
+        "memory": "Yes",
+        "helping_text": " orchestra这个单词和它的意思联系在一起，可以通过记忆它的发音和拼写，以及它是指一个由多种乐器组成的音乐团体，通常由指挥家指挥。"
+    },
+    {
+        "word": "chorus",
+        "mean": "n:合唱,合唱团,大合唱,合唱队|v:合唱",
+        "memory": "Yes",
+        "helping_text": " 将chorus拆分成两部分，cho和rus。cho可以联想到\"choose\"，表示选择，而rus可以联想到\"rhythm\"，表示节奏。因此，chorus可以理解为选择性的节奏，即合唱部分。"
+    },
+    {
+        "word": "concert",
+        "mean": "n:音乐会,协奏曲|v:协作",
+        "memory": "Yes",
+        "helping_text": " 将单词\"concert\"拆分成两部分，\"con\"代表一起，\"cert\"代表确定。因此，\"concert\"的意思是一起确定或协调的活动，通常指音乐会。"
+    },
+    {
+        "word": "record",
+        "mean": "n:记录|v:登",
+        "memory": "Yes",
+        "helping_text": " 将\"record\"拆分成两部分，\"re\"表示再次，\"cord\"表示心脏，因此可以将\"record\"理解为再次留在心中，即记录、记住。"
+    },
+    {
+        "word": "percussion",
+        "mean": "n:叩诊,敲打,碰撞,打击,打击乐器,撞击|v:撞击,击发",
+        "memory": "Yes",
+        "helping_text": " percussion这个单词中包含了\"perc\"这个音节，而percussion的意思是打击乐器，所以可以通过\"perc\"这个音节来记忆percussion的意思。"
+    },
+    {
+        "word": "string",
+        "mean": "n:绳子,弦,线|v:拉长,扩张",
+        "memory": "Yes",
+        "helping_text": " 将单词\"string\"与\"线\"联系起来，因为string在编程中通常表示一串字符，就像线一样连接着字符。"
+    },
+    {
+        "word": "wind",
+        "mean": "v:绕|n:绞车,管乐器|a:卷绕",
+        "memory": "Yes",
+        "helping_text": " 风（wind）吹过，记住这个单词的方式是想象风吹过时的声音和感觉，从而联想到单词的意思。"
+    },
+    {
+        "word": "doctrine",
+        "mean": "n:学说,原则,教义,说,论,主义,教训,道,教条|v:说",
+        "memory": "Yes",
+        "helping_text": " 将\"doctrine\"拆分成两部分，\"do\"和\"ctrine\"，\"do\"可以理解为\"做\"，\"ctrine\"可以理解为\"信条\"或\"教义\"，因此\"doctrine\"的意思可以理解为\"做出的信条或教义\"。"
+    },
+    {
+        "word": "immigrant",
+        "mean": "n:移民,侨民",
+        "memory": "Yes",
+        "helping_text": " 移民（immigrant）这个单词的联系方式是：记住immigrant的首字母i，可以联想为“in”（在），“migrant”中的“migrant”表示“移动”，所以immigrant就是指在外国移动的人，即移民。"
+    },
+    {
+        "word": "municipal",
+        "mean": "市政",
+        "memory": "Yes",
+        "helping_text": " municipal - \"muni\" sounds like \"money\" and municipalities are responsible for managing money and resources for local government services."
+    },
+    {
+        "word": "strike",
+        "mean": "v:打翻,打垮,抵,勾,打劫,打落,伐,殴,闪击,一蹴而就,刺穿,击打,勾除,突袭,筛,结算,抹,鼓,取道,删除,摽,破灭,激怒,披荆斩棘,搁浅,空袭,碰,触发,到达,抓|n:罢课,钟声,打击,恐吓,铸模,殴打,讹诈,烈度,发现,报时,勒索,强度",
+        "memory": "Yes",
+        "helping_text": " strike这个单词的意思是打击或罢工。要记住这个单词，可以将它与“打击”或“罢工”这两个含义联系起来，因为strike可以用来表示这两种情况。"
+    },
+    {
+        "word": "scandal",
+        "mean": "n:丑闻,丑事,耻辱,流言蜚语,诽谤,反感,物议,丑话",
+        "memory": "Yes",
+        "helping_text": " 单词\"scandal\"的意思是丑闻或丑事。要记住这个单词，可以将其与\"scan\"（扫描）联系起来，因为丑闻通常会被媒体扫描和报道。"
+    },
+    {
+        "word": "vote",
+        "mean": "v:投票|n:表决权,投票权,议决",
+        "memory": "Yes",
+        "helping_text": " 投票(vote)这个单词的意思是在选举或表决中做出选择。要记住这个单词，可以把它与“voice”（声音）联系起来，因为投票是通过发表自己的声音来表达选择的。"
+    },
+    {
+        "word": "welfare",
+        "mean": "n:福利|a:福利",
+        "memory": "Yes",
+        "helping_text": " welfare的意思是福利，可以通过将单词拆分成“well（好）”和“fare（生活）”来记忆，表示好的生活条件或福利。"
+    },
+    {
+        "word": "bureaucracy",
+        "mean": "n:官僚,官僚主义",
+        "memory": "Yes",
+        "helping_text": " bureaucracy（官僚主义）- 记住这个单词的方法是将其拆分为\"bureau\"（办公室）和\"cracy\"（统治），表示由办公室和官员组成的统治体系。"
+    },
+    {
+        "word": "parliament",
+        "mean": "n:议会,国会,议院",
+        "memory": "Yes",
+        "helping_text": " parliament - 记住这个单词的方法是将其拆分为\"parl\"（听起来像\"pal\"，朋友）和\"ament\"（听起来像\"amen\"，表示同意或支持），因此parliament意思是代表人民的朋友或支持者，即议会。"
+    },
+    {
+        "word": "designation",
+        "mean": "n:名称,指定,称呼,任命,定名,铭牌,称号,记号,选派,指出|v:指定,定名",
+        "memory": "Yes",
+        "helping_text": " designation可以被记住为\"design + nation\"，意思是指定或指明某个国家或地区。"
+    },
+    {
+        "word": "hustle",
+        "mean": "v:欺骗,奔忙,挤出,逼使|n:努力,推",
+        "memory": "Yes",
+        "helping_text": " 单词\"hustle\"的意思是“忙碌、奋斗、努力工作”。要记住这个单词，可以将它与“忙碌的人总是在奋斗和努力工作”联系起来。"
+    },
+    {
+        "word": "impel",
+        "mean": "v:激励,促使,驱使,迫使,推动,感召,强迫,推进,策励,激扬",
+        "memory": "Yes",
+        "helping_text": " impel这个单词可以记忆为\"im\"（进入）+ \"pel\"（推动），意思是推动、驱使。"
+    },
+    {
+        "word": "oust",
+        "mean": "v:取代,斥,代替,剥夺,轧,撵,驱逐,逐出",
+        "memory": "Yes",
+        "helping_text": " oust的意思是驱逐或取代。记住这个单词可以通过将其与\"oust\"的发音联系起来，\"oust\"听起来像\"out\"，所以可以联想到将某人或某物从内部驱逐或取代出去。"
+    },
+    {
+        "word": "banish",
+        "mean": "v:驱逐,消除,流放,排除,发配,充军,放逐,赶走,流,逐,驱遣",
+        "memory": "Yes",
+        "helping_text": " banish这个单词可以记忆为\"ban\"（禁止）+ \"ish\"（动作后缀），意思是\"驱逐，放逐\"。"
+    },
+    {
+        "word": "deport",
+        "mean": "v:驱逐,放逐,举动,输送,运输",
+        "memory": "Yes",
+        "helping_text": " deport这个单词可以通过将其拆分成\"de\"和\"port\"来记忆，\"de\"表示\"向下\"或\"移动\"的意思，而\"port\"可以联想到\"portable\"，即\"可携带的\"。因此，deport的意思可以理解为\"移动\"或\"驱逐\"。"
+    },
+    {
+        "word": "enable",
+        "mean": "v:使,允许,启动,使得",
+        "memory": "Yes",
+        "helping_text": " 记住enable这个单词的方法是将其拆分为“en”和“able”，其中“en”表示使得，而“able”表示能够。因此，enable的意思是使得能够，即使得某事物成为可能或实现。"
+    },
+    {
+        "word": "reign",
+        "mean": "v:统治,在位,当政|n:势力",
+        "memory": "Yes",
+        "helping_text": " reign的意思是统治，记住这个单词可以联想到国王或者皇后统治一个国家的时期。"
+    },
+    {
+        "word": "dominate",
+        "mean": "v:支配,控制,统治,高耸,把持,左右,俯视,驾驭,操纵,占优势,主宰,把,控,高出,霸,超出,独揽,把揽,称霸,优于,独霸",
+        "memory": "Yes",
+        "helping_text": " 记住dominate这个单词的方法是将其拆分为\"domi\"和\"nate\"，其中\"domi\"可以联想到\"dominant\"，表示主导的意思，而\"nate\"可以联想到\"nature\"，表示自然的意思。因此，dominate的意思就是在某种情况下主导或控制。"
+    },
+    {
+        "word": "abdicate",
+        "mean": "v:放弃,让,退,让位,逊,弃,辞,废",
+        "memory": "Yes",
+        "helping_text": " abdicate这个单词可以记忆为\"abandon dictate\"，意思是放弃或辞职。"
+    },
+    {
+        "word": "administer",
+        "mean": "v:实施,有助于,职,艾,支配,辅助,辖,处理,代办,供给,下药,知,统制,厘,听,治,承办,管,施行",
+        "memory": "Yes",
+        "helping_text": " 管理者（administer）就像是一个行政人员，负责管理和执行任务。"
+    },
+    {
+        "word": "administration",
+        "mean": "n:管理,经营,市政,政,掌管,施政,施行,局|v:管理",
+        "memory": "Yes",
+        "helping_text": " 管理（administration）就像是一个“行政人员”（administrators）在组织或机构中负责管理和运作的人员。"
+    },
+    {
+        "word": "institute",
+        "mean": "n:研究所,学院|v:创立,建立,创制,设",
+        "memory": "Yes",
+        "helping_text": " institute的意思是学院或研究机构，可以通过将其拆分为\"in\"和\"stitute\"来记忆，\"in\"表示内部或内部的，\"stitute\"可以理解为建立或设立，因此institute可以理解为内部设立的机构或学院。"
+    },
+    {
+        "word": "amendment",
+        "mean": "n:修正,修改,改正,改进|v:修正,校正",
+        "memory": "Yes",
+        "helping_text": " amendment的意思是修正，修改。记住这个单词的联系方式是：amendment中的\"amend\"可以理解为\"改变\"，所以amendment就是对原来的东西进行改变或修正。"
+    },
+    {
+        "word": "colonize",
+        "mean": "v:殖民,移植,打入",
+        "memory": "Yes",
+        "helping_text": " colonize这个单词中包含\"colon\"，而\"colon\"在拉丁语中意为\"农田\"，因此可以将colonize理解为\"在新地区建立农田或殖民地\"。"
+    },
+    {
+        "word": "monarchy",
+        "mean": "n:君主制,帝制,君主国",
+        "memory": "Yes",
+        "helping_text": " monarchy这个单词中的\"mon\"可以让我们联想到\"one\"，表示一个人或者一个统治者。monarchy意思是君主制，即由一个君主或国王统治的政体。"
+    },
+    {
+        "word": "republican",
+        "mean": "n:共和党",
+        "memory": "Yes",
+        "helping_text": " Republican这个单词可以记忆为\"re-public-can\"，意思是\"再次公民\"，表示共和国政体中的公民参与政治决策。"
+    },
+    {
+        "word": "anarchism",
+        "mean": "n:无政府主义,无政府",
+        "memory": "Yes",
+        "helping_text": " anarchism（无政府主义）- 记住这个单词的联系方式是将\"anarchism\"中的\"an\"理解为\"无\"，再加上\"archism\"，即无政府主义是一种主张没有中央政府或权威的政治理念。"
+    },
+    {
+        "word": "ballot",
+        "mean": "n:投票|v:抽签",
+        "memory": "Yes",
+        "helping_text": " ballot这个单词可以记忆为\"ball\"（球）+ \"lot\"（很多），表示选票或选举投票。因此，可以将ballot理解为很多人投票的过程，从而记住其意思。"
+    },
+    {
+        "word": "ideology",
+        "mean": "n:意识形态,思想,观念形态,空论,思想体系,空想",
+        "memory": "Yes",
+        "helping_text": " 将单词\"ideology\"拆分为\"idea\"和\"logy\"，可以帮助记忆。\"Idea\"表示思想或观念，而\"logy\"表示学科或学习。因此，\"ideology\"指的是一种关于思想或信仰的学科或学习。"
+    },
+    {
+        "word": "parade",
+        "mean": "n:游行,检阅|v:夸耀,卖弄,标榜,散步",
+        "memory": "Yes",
+        "helping_text": " 将parade拆分成两部分，\"par\"和\"ade\"。\"par\"可以联想到\"participate\"（参加），而\"ade\"可以联想到\"aid\"（帮助）。因此，可以将parade理解为一群人参加并帮助组织的活动，即游行。"
+    },
+    {
+        "word": "govern",
+        "mean": "v:统治,治理,支配,控制,调节,管理,左右,抑制,指挥,指导,治,管,操纵,遏制,管辖,压制,艾,辖制,执掌,运转,统辖,统摄,统制,辖,宰",
+        "memory": "Yes",
+        "helping_text": " govern这个单词和\"government\"（政府）有关，意思是管理或统治。"
+    },
+    {
+        "word": "confer",
+        "mean": "v:授予,商议,授,给予,商讨,协商,颁发,商谈,对照,谈判,颁,赉,谋,畀,赐",
+        "memory": "Yes",
+        "helping_text": " confer这个单词可以记忆为\"conference\"，意思是\"讨论，商议\"。因此，可以将confer与conference联系起来，记住它的意思是\"讨论，商议\"。"
+    },
+    {
+        "word": "exploit",
+        "mean": "n:伟业,功勋|v:钻空子",
+        "memory": "Yes",
+        "helping_text": " 利用(exploit)这个单词的方法是想象自己在利用(exploit)一种资源或机会来获得利益。"
+    },
+    {
+        "word": "maneuver",
+        "mean": "n:演习,活动,手法,策略|v:演习,移动",
+        "memory": "Yes",
+        "helping_text": " maneuver这个单词可以记忆为\"man\"（男人）+ \"euver\"（动作），表示男人的动作或操作，即指一种巧妙的动作或策略。"
+    },
+    {
+        "word": "reform",
+        "mean": "v:改革,改造,改过自新,改良|n:改进,改正,悔改,维新",
+        "memory": "Yes",
+        "helping_text": " 将\"reform\"拆分成两部分，\"re\"表示重新，\"form\"表示形式。因此，\"reform\"的意思是重新塑造或改革。"
+    },
+    {
+        "word": "inspect",
+        "mean": "v:检查,视察,检阅,徼,检,阅,鉴,视,检验,稽查,监,审查,考察,省视,校验,考",
+        "memory": "Yes",
+        "helping_text": " inspect这个单词可以通过将其拆分为\"in\"和\"spect\"来记忆，其中\"in\"表示\"内部\"，\"spect\"表示\"观察\"，因此inspect的意思是\"内部观察\"，即检查或审查。"
+    },
+    {
+        "word": "emigrate",
+        "mean": "v:移居,移民,出境,迁出,侨居",
+        "memory": "Yes",
+        "helping_text": " emigrate这个单词中的\"e\"可以让我们联想到\"exit\"，意思是离开一个国家或地区，移居到另一个国家或地区。"
+    },
+    {
+        "word": "immigrate",
+        "mean": "v:迁移,移",
+        "memory": "Yes",
+        "helping_text": " immigrate这个单词中的\"imm\"可以联想到\"immediate\"，表示立即移动到另一个国家或地区。immigrate的意思是移民，即到另一个国家或地区定居。"
+    },
+    {
+        "word": "enslave",
+        "mean": "v:奴役,征服,奴化,强制,奴,役使",
+        "memory": "Yes",
+        "helping_text": " enslave这个单词中包含了\"slave\"，意思是奴役或奴隶制。"
+    },
+    {
+        "word": "centralized",
+        "mean": "a:统一,一元化|v:一元化,统一",
+        "memory": "Yes",
+        "helping_text": " centralized这个单词中的\"central\"意味着中心，所以可以通过将centralized解释为\"集中在中心的\"来记住它的意思。"
+    },
+    {
+        "word": "authority",
+        "mean": "n:当局,权威,权力,权,职权,权威性,根据,权限,大权,大家,威信,泰斗,说服力,柄,通,威权|r:大家",
+        "memory": "Yes",
+        "helping_text": " authority的意思是权威，可以通过将单词拆分为\"author\"（作者）和\"ity\"（性质）来记忆，即权威是由作者所拥有的性质。"
+    },
+    {
+        "word": "privilege",
+        "mean": "n:特权,优惠|v:特许",
+        "memory": "Yes",
+        "helping_text": " 特权（privilege）这个词可以记住，因为它包含了\"privi\"这个词根，而\"privi\"在拉丁语中意为\"私人\"或\"个人\"，所以特权就是一种个人或私人的特殊权利或优势。"
+    },
+    {
+        "word": "democracy",
+        "mean": "n:民主,民主主义,老百姓",
+        "memory": "Yes",
+        "helping_text": " 民主（democracy）这个词可以通过记忆“demo”（民众）和“cracy”（统治）的组合来理解，即由民众共同参与决策和统治的政治制度。"
+    },
+    {
+        "word": "petition",
+        "mean": "n:请愿书|v:禀,祈求",
+        "memory": "Yes",
+        "helping_text": " petition这个单词可以通过\"请愿\"这个词来记忆，因为petition就是指向政府或权威机构提出请求或抗议的行为。"
+    },
+    {
+        "word": "domain",
+        "mean": "n:区域,领域,域,范围,领地,领土,范畴,王国,畴,房地产,域名,版图,疆域,特长,产业,地盘,管区",
+        "memory": "Yes",
+        "helping_text": " domain这个单词可以记忆为\"do main\"，意思是\"做主\"或\"领域\"，表示某人或某事物的控制权或影响范围。"
+    },
+    {
+        "word": "territory",
+        "mean": "n:领土,地区,土地,领地,领域,国土,疆域,版图,江山,地面,疆土,范围,域,国境,境,河山,舆",
+        "memory": "Yes",
+        "helping_text": " Territory的意思是领土，可以通过将其拆分为\"terra\"（土地）和\"tory\"（故事）来记忆，即领土是一个有着自己故事的土地。"
+    },
+    {
+        "word": "nationality",
+        "mean": "n:国籍,民族,族,家",
+        "memory": "Yes",
+        "helping_text": " 国家(nation)是nationality的词根，nationality指的是一个人的国籍或民族身份。"
+    },
+    {
+        "word": "kingdom",
+        "mean": "n:王国,领域,界",
+        "memory": "Yes",
+        "helping_text": " 王国（kingdom）- 想象一个国王（king）统治的领土（dom），即王国。"
+    },
+    {
+        "word": "realm",
+        "mean": "n:领域,王国,国土,界,圈,独立王国,境域,带,境界,部门",
+        "memory": "Yes",
+        "helping_text": " 将\"realm\"拆分成两部分，\"real\"表示真实的，\"m\"表示范围或领域，因此\"realm\"可以理解为真实存在的领域或范围。"
+    },
+    {
+        "word": "regimen",
+        "mean": "n:养生之道,政权,摄生,统治,支配,水情,政体",
+        "memory": "Yes",
+        "helping_text": " 记住这个单词\"regimen\"的方法是将其与\"routine\"联系起来，因为它们都表示一种有规律的生活方式或计划。"
+    },
+    {
+        "word": "sovereignty",
+        "mean": "n:主权,统治权,君权,宗主权",
+        "memory": "Yes",
+        "helping_text": " 单词\"sovereignty\"中包含\"reign\"，可以帮助记住它的意思是\"统治权\"或\"主权\"。"
+    },
+    {
+        "word": "autonomy",
+        "mean": "n:自主权,自治,自治权,自主性,自律|v:自治,自律",
+        "memory": "Yes",
+        "helping_text": " 将autonomy拆分为auto（自动）和nomy（规则），可以理解为自动遵循自己的规则，即自主权、自主决定的意思。"
+    },
+    {
+        "word": "committee",
+        "mean": "n:委员会,监护人,委",
+        "memory": "Yes",
+        "helping_text": " 将\"committee\"拆分成\"com\"和\"mittee\"，\"com\"可以联想到\"共同\"，\"mittee\"可以联想到\"任务\"，所以\"committee\"可以理解为一群人共同负责完成某项任务的团队。"
+    },
+    {
+        "word": "election",
+        "mean": "n:选举,当选,选择|v:选举,选择",
+        "memory": "Yes",
+        "helping_text": " 选举（election）这个单词可以通过“选”这个字来记忆，选举就是通过投票选出某个人或团体来担任某项职务或执政。"
+    },
+    {
+        "word": "factious",
+        "mean": "好捣乱的",
+        "memory": "Yes",
+        "helping_text": " factious这个单词可以通过将其拆分成两部分来记忆：fact（事实）+ ious（多...的），因此factious的意思是“容易引起争议或分裂的”。"
+    },
+    {
+        "word": "partisan",
+        "mean": "n:党徒,同类",
+        "memory": "Yes",
+        "helping_text": " partisan这个单词可以通过将其拆分为\"part\"和\"isan\"来记忆，\"part\"表示一部分或一方，\"isan\"可以理解为\"isan of\"，即支持或拥护的意思。因此，partisan的意思是支持某一方或团体的人，通常是指政治上的支持者或狂热的拥护者。"
+    },
+    {
+        "word": "board",
+        "mean": "n:董事会,板,木板,委员会|v:寄养,坐",
+        "memory": "Yes",
+        "helping_text": " 将\"board\"拆分成两部分，\"bo\"和\"ard\"，然后将\"ard\"读作\"are\"，所以\"board\"可以理解为\"bo are d\"，即\"bo是d\"，可以联想到\"板子\"或\"木板\"。"
+    },
+    {
+        "word": "Senate",
+        "mean": "n:参议院,上议院,上院,理事会",
+        "memory": "Yes",
+        "helping_text": " Senate这个单词与senior（资深）有相似的发音，可以记住Senate是一个高级议会，通常指代国家的上议院。"
+    },
+    {
+        "word": "Congress",
+        "mean": "n:国会,代表大会,集会,众议院,协会,交际,大会|v:道喜,集合,开会",
+        "memory": "Yes",
+        "helping_text": " Congress这个单词可以记忆为\"con\"（一起）和\"gress\"（走），意思是一起走，即代表美国国会，由参议院和众议院组成，共同制定法律。"
+    },
+    {
+        "word": "diplomatic",
+        "mean": "外交",
+        "memory": "Yes",
+        "helping_text": " diplomatic这个单词可以记忆为\"diploma\"（文凭）+ \"tic\"（表示特性），意思是有文凭的、有外交手腕的，即善于处理人际关系的、圆滑的。"
+    },
+    {
+        "word": "diplomacy",
+        "mean": "n:外交,权谋",
+        "memory": "Yes",
+        "helping_text": " diplomacy的意思是外交，可以通过将diplomacy拆分为diploma（文凭）和cy（国家）来记忆，即外交是通过文凭和国家之间的交流和谈判来解决问题的方式。"
+    },
+    {
+        "word": "confederate",
+        "mean": "n:同谋,党羽|v:结盟",
+        "memory": "Yes",
+        "helping_text": " confederate的意思是“同盟者”或“同伙”，可以通过将其拆分为“con”（一起）和“federate”（联合）来记忆，表示与他人一起联合在一起。"
+    },
+    {
+        "word": "league",
+        "mean": "n:联盟|v:结盟",
+        "memory": "Yes",
+        "helping_text": " league这个单词可以和\"联盟\"联系起来，因为league的意思就是一个联盟或者组织。"
+    },
+    {
+        "word": "affiliate",
+        "mean": "v:加入,参加,联合|n:分会,会员",
+        "memory": "Yes",
+        "helping_text": " \"Affiliate\"这个单词可以记忆为\"affi\"（亲密）+ \"liate\"（联合），意思是指与某人或组织有亲密联系或联合在一起。"
+    },
+    {
+        "word": "unconventional",
+        "mean": "a:放荡,通脱,俶,倜,落拓,别致,俶傥,倜傥,超脱",
+        "memory": "Yes",
+        "helping_text": " 不按常规的方式记住这个单词unconventional，意思是非传统的、不合常规的。"
+    },
+    {
+        "word": "dictatorial",
+        "mean": "v:独断|a:专横",
+        "memory": "Yes",
+        "helping_text": " dictatorial这个单词的意思是\"独裁的\"，可以通过将其拆分为\"dictator\"（独裁者）和\"ial\"（形容词后缀）来记忆。dictator是指独裁者，而dictatorial则是形容词形式，表示具有独裁者特征的。"
+    },
+    {
+        "word": "domestic",
+        "mean": "a:家用|n:佣人,家",
+        "memory": "Yes",
+        "helping_text": " domestic这个单词中的\"dom\"可以联想到\"home\"，所以domestic的意思是与家庭或国内有关的。"
+    },
+    {
+        "word": "potent",
+        "mean": "强有力的",
+        "memory": "Yes",
+        "helping_text": " potent这个单词的意思是“强有力的”或“有效的”。要记住这个单词，可以把它和“potent”这个词的发音联系起来，因为“potent”听起来像“powerful”（强大的）的发音，所以可以把它和“powerful”联系在一起，帮助记忆它的意思。"
+    },
+    {
+        "word": "authoritative",
+        "mean": "权威的",
+        "memory": "Yes",
+        "helping_text": " authoritative - 权威的\n\n联系方式：authoritative这个词中包含了\"author\"，而\"author\"指的是作者或者创作者，所以authoritative意味着具有权威性或者权威的。"
+    },
+    {
+        "word": "influential",
+        "mean": "a:声势浩大,显要|v:声势浩大",
+        "memory": "Yes",
+        "helping_text": " 记住这个单词\"influential\"的方法是将其拆分为\"in\"和\"fluential\"，其中\"in\"表示内部或影响，而\"fluential\"类似于\"fluence\"，意思是流动或流动性。因此，\"influential\"的意思是有影响力的或具有影响力的。"
+    },
+    {
+        "word": "elite",
+        "mean": "n:精英,精华,核心",
+        "memory": "Yes",
+        "helping_text": " elite这个单词的意思是精英，可以通过将elite拆分成e-lite，其中e代表excellent（优秀），lite代表light（轻），所以elite可以理解为优秀的、出类拔萃的人群。"
+    },
+    {
+        "word": "aristocracy",
+        "mean": "n:贵族",
+        "memory": "Yes",
+        "helping_text": " aristocracy - aristocrat + crazy (aristocrat疯狂) - 意思是贵族统治，贵族阶层"
+    },
+    {
+        "word": "peasant",
+        "mean": "n:农民,农夫,庄稼人,乡下人,农人,农,泥腿子",
+        "memory": "Yes",
+        "helping_text": " Peasant这个单词可以通过\"pea\"这个词根来记忆，pea是豌豆的意思，而peasant是指农民，所以可以联想豌豆和农民之间的联系。"
+    },
+    {
+        "word": "render",
+        "mean": "v:翻译,演奏,表现,给予,使得,归还,表示,打底,放出,粉刷,反映,放松,报答,炼,抹灰,提出,放弃,交付,交纳,提取,托付,移交,描写,让出,反响,让给,演出,致使|n:打底,粉刷",
+        "memory": "Yes",
+        "helping_text": " 将\"render\"拆分成两部分，\"re\"表示再次，\"nder\"可以联想为\"under\"，即在下面。因此，\"render\"的意思可以理解为再次放在下面，即呈现或表现。"
+    },
+    {
+        "word": "disperse",
+        "mean": "v:驱散,散开,分散,消散,散,散布,弥散,传播,驱,疏开,疏,部署,发,挥,散射,冲散,解散,涣,打散",
+        "memory": "Yes",
+        "helping_text": " disperse的意思是\"分散\"，可以通过将单词拆分为\"dis\"（分开）和\"perse\"（类似于\"spread\"，散布）来记忆。所以disperse就是指将东西分散开来。"
+    },
+    {
+        "word": "arbitrary",
+        "mean": "a:专横,蛮横,生硬,随便,乱,专断|v:随心所欲,独断",
+        "memory": "Yes",
+        "helping_text": " 单词\"arbitrary\"的意思是\"任意的\"，可以通过将其拆分为\"arbi-\"和\"-trary\"来记忆。前缀\"arbi-\"可以联想到\"arbitrary\"的意思是\"任意的\"，而后缀\"-trary\"可以帮助记忆这个单词的发音。"
+    },
+    {
+        "word": "compulsory",
+        "mean": "强制",
+        "memory": "Yes",
+        "helping_text": " Compulsory意思是\"强制性的\"，可以通过将\"compulsory\"拆分成\"compel\"（强迫）和\"sory\"（类似于\"必须\"）来记忆。"
+    },
+    {
+        "word": "severed",
+        "mean": "切断了",
+        "memory": "Yes",
+        "helping_text": " severed的意思是切断或分离，可以通过将其拆分为\"sever\"和\"ed\"来记忆，\"sever\"表示切断，\"ed\"表示过去式。"
+    },
+    {
+        "word": "perspective",
+        "mean": "n:透视,观点,看法,眼界,远景,眼力|a:透视|v:透视",
+        "memory": "Yes",
+        "helping_text": " 透过不同的角度看待事物，记住perspective这个单词。"
+    },
+    {
+        "word": "roam",
+        "mean": "v:漫游,漫步,逛,闲逛,云游,浮游,流荡|n:漫游,闲逛,游荡,游历",
+        "memory": "Yes",
+        "helping_text": " 漫游（roam）的意思是在一个地方到另一个地方移动或漫步。记住这个单词的方法是将其与“漫游”这个词语联系起来，表示在不同地方自由移动。"
+    },
+    {
+        "word": "be enticed away",
+        "mean": "被引诱走",
+        "memory": "Yes",
+        "helping_text": " Be enticed away意思是被诱惑离开，可以通过将entice理解为诱惑，away理解为离开，从而记住这个单词的意思。"
+    },
+    {
+        "word": "disintegrate",
+        "mean": "v:解体,土崩瓦解,蜕变,崩,崩溃,分化,分裂,衰变,分解,碎,瓦解,溃散,冰消瓦解",
+        "memory": "Yes",
+        "helping_text": " 将disintegrate拆分成两部分，dis-表示否定，integrate表示整合或结合。因此，disintegrate的意思是分解或瓦解，与整合相反。"
+    },
+    {
+        "word": "attendants",
+        "mean": "n:左右,侍从,随从",
+        "memory": "Yes",
+        "helping_text": " Attendants这个单词可以通过将其拆分成att-end-ants来记忆，其中end表示结束，ants表示人，所以attendants的意思是“结束时的人”，即在某个活动或场所结束时提供服务或帮助的人。"
     }
 ]
