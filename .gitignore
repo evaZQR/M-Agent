@@ -5,3 +5,5 @@ data/memory/*
 data/graph_data/*
 
 /.env
+
+# filpflop/config.yaml

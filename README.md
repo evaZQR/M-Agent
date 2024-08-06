@@ -1,6 +1,9 @@
 # M-Agent
 This this a chat robot with memory throughout the right rag!!
+This project is trying to build an Agent that brings out its best ability to memory and use it to communicate with users.
 
+# Log
+2024-08-06: 
 
 # install
 Firstly, you need to install the necessary packages

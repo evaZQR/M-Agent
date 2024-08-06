@@ -53,6 +53,10 @@ with open(words_path, 'r', encoding='utf-8') as f:
             continue  # 如果单词已存在，则跳过该单词
         
         # 翻译单词
+        if "#" in word:
+            word, chinese_translation = word.split("#")
+            word = word.strip().replace(" ", "")
+            chinese_translation = chinese_translation.strip().replace(" ", "")
         try:
             chinese_translation = translate(word)
             trans += 1

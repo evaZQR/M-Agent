@@ -3626,7 +3626,7 @@
     {
         "word": "cotton",
         "mean": "n:棉花,棉,棉布,棉线,花,脱脂棉|v:欢迎,交好",
-        "memory": "No",
+        "memory": "Yes",
         "helping_text": " 棉花（cotton）是一种天然纤维，可以用来制作衣物和其他纺织品。要记住这个单词，可以将它与“棉花”这个常见的物品联系起来，这样就能更容易地记住它的意思。"
     },
     {
@@ -4874,7 +4874,7 @@
     {
         "word": "rival",
         "mean": "v:比美,匹敌,竞争,抗衡,媲美,对抗,伦比|n:对手,敌手,竞争者",
-        "memory": "No",
+        "memory": "Yes",
         "helping_text": " rival的意思是竞争对手，可以通过将其拆分为\"ri\"和\"val\"，记忆为\"ri\"代表\"对手\"，\"val\"代表\"价值\"，即对手有价值，是值得竞争的。"
     },
     {
@@ -6124,5 +6124,167 @@
         "mean": "n:左右,侍从,随从",
         "memory": "Yes",
         "helping_text": " Attendants这个单词可以通过将其拆分成att-end-ants来记忆，其中end表示结束，ants表示人，所以attendants的意思是“结束时的人”，即在某个活动或场所结束时提供服务或帮助的人。"
+    },
+    {
+        "word": "restless",
+        "mean": "a:不安,躁|d:忽忽",
+        "memory": "Yes",
+        "helping_text": " restless这个单词可以拆分成两部分：rest（休息）+ less（少）。所以restless的意思就是缺少休息，无法安静的，不安的。"
+    },
+    {
+        "word": "flutter",
+        "mean": "v:飘扬,拍,拍打,飘动,飘,抖动,颤动,招展,飘荡,扑,扇,振,坐立不安,浮动,飞舞,扑棱,披拂|n:波动,不安,飘扬,焦急",
+        "memory": "Yes",
+        "helping_text": " Flutter意为振翅飞舞，可以通过将\"flutter\"与蝴蝶的翅膀振动的动作联系起来记忆。"
+    },
+    {
+        "word": "launch",
+        "mean": "v:发射,开始,发起,下水,提出,发动,开展|n:游艇,下水",
+        "memory": "Yes",
+        "helping_text": " launch这个单词可以和\"lunch\"这个单词联系起来，因为它们的发音相似。launch的意思是\"发射、推出\"，可以想象在午餐时间推出一顿美味的午餐，来帮助记忆这个单词的意思。"
+    },
+    {
+        "word": "orientation",
+        "mean": "n:方向,取向,定向,方针,倾向性,定位,适应",
+        "memory": "Yes",
+        "helping_text": " 将orientation拆分成两部分，\"orient\"表示方向，\"ation\"表示动作或过程。因此，可以将orientation理解为确定方向或位置的过程。"
+    },
+    {
+        "word": "compass",
+        "mean": "n:罗盘,指南针,圆规|v:了解,计划,图谋,领悟,完成,围绕",
+        "memory": "Yes",
+        "helping_text": " 指南针（compass）指引方向。"
+    },
+    {
+        "word": "harness",
+        "mean": "n:马具,挽具|v:驾",
+        "memory": "Yes",
+        "helping_text": " harness这个单词可以记住，因为它的发音和\"哈尼斯\"（Hannes）这个名字很相似。而harness的意思是利用或控制某物，就像马匹被哈尼斯控制一样。"
+    },
+    {
+        "word": "convert",
+        "mean": "v:转换,转变,转化,变成,变换,兑换,换算,改装,改造,改变,折,化,兑,更改,折兑,换位,更换,折算,改制,改编",
+        "memory": "Yes",
+        "helping_text": " 将\"convert\"拆分成两部分，\"con\"表示\"一起\"，\"vert\"表示\"转变\"，因此\"convert\"的意思是\"转变\"或\"改变\"。"
+    },
+    {
+        "word": "rotary",
+        "mean": "旋转",
+        "memory": "Yes",
+        "helping_text": " Rotary这个单词与\"旋转\"有关，可以通过将\"rotary\"拆分成\"ro\"和\"tary\"，\"ro\"可以联想到\"rotate\"，意为旋转，\"tary\"可以联想到\"stationary\"，意为固定的，因此rotary可以理解为\"旋转的\"。"
+    },
+    {
+        "word": "liberate",
+        "mean": "v:解放,释放,解除,放出",
+        "memory": "Yes",
+        "helping_text": " 将liberate拆分成两部分，liber-ate。其中liber-源自拉丁语liber，意为自由。ate结尾表示动作或状态。因此，liberate的意思是解放或使自由。"
+    },
+    {
+        "word": "eliminate",
+        "mean": "v:消除,排除,消灭,淘汰,干掉,排出,除去,刷,肃清,消泯,除,根绝,蠲,芟,消,根除,肃,逐出,清除,洗,治,清洗,屏除,清剿,锄,汰",
+        "memory": "Yes",
+        "helping_text": " 将eliminate拆分为e-lim-in-ate，其中lim可以联想到limit（限制），所以eliminate的意思是“排除、消除、清除”。"
+    },
+    {
+        "word": "illumination",
+        "mean": "n:照,照明,照射,明亮,彩灯,启发,光照,启蒙,阐明,照度|v:照射",
+        "memory": "Yes",
+        "helping_text": " illumination这个单词的意思是照明或启发。要记住这个单词，可以将其拆分为\"illuminate\"和\"nation\"，意为照亮整个国家，从而引申为启发或照明思想。"
+    },
+    {
+        "word": "millennium",
+        "mean": "n:太平盛世",
+        "memory": "Yes",
+        "helping_text": " millennium这个单词表示千年，可以通过将其拆分为\"mill\"（千）和\"ennium\"（年）来记忆。"
+    },
+    {
+        "word": "lamp",
+        "mean": "n:灯,眼睛,灯泡,明灯,电子管,檠|v:看到,看",
+        "memory": "Yes",
+        "helping_text": " lamp这个单词和它的意思联系在一起，可以通过想象在黑暗中使用灯来照亮房间，lamp的意思就是灯。"
+    },
+    {
+        "word": "well-to-do",
+        "mean": "a:宽裕",
+        "memory": "Yes",
+        "helping_text": " well-to-do这个词可以理解为“well”表示好的，而“do”表示做，所以well-to-do可以理解为“做得好”的人，即富裕的人。"
+    },
+    {
+        "word": "virtual",
+        "mean": "a:虚,实际上",
+        "memory": "Yes",
+        "helping_text": " 虚拟（virtual）这个单词的意思是“几乎的，实质上的”，可以通过将“virt”（近似于“very”）与“ual”（类似于“actual”）结合起来记忆，表示虚拟的东西几乎就是实际的。"
+    },
+    {
+        "word": "monopoly",
+        "mean": "n:垄断,专利权,专营|v:专卖,垄断",
+        "memory": "Yes",
+        "helping_text": " 单词\"monopoly\"中的\"mono\"意为\"单一\"，而\"poly\"意为\"卖\"，因此\"monopoly\"的意思是\"垄断\"，可以通过\"mono\"表示\"单一\"和\"poly\"表示\"卖\"来记忆。"
+    },
+    {
+        "word": "merely",
+        "mean": "d:只,仅仅,只不过,不过,就,仅,只是,但,光,纯粹,单纯,只顾,净,单,聊,徒,只管|c:惟有,只要|v:聊|a:单纯",
+        "memory": "Yes",
+        "helping_text": " 仅仅记住这个单词merely，它的意思就是仅仅、仅仅是，表示仅有一点或者仅仅是某种程度。"
+    },
+    {
+        "word": "stencil",
+        "mean": "n:模板,蜡纸",
+        "memory": "Yes",
+        "helping_text": " 将单词\"stencil\"拆分成两部分，\"sten\"和\"cil\"，然后将它们与\"stand\"和\"seal\"联系起来。这样可以帮助记住stencil的意思，即用来制作图案或文字的模板。"
+    },
+    {
+        "word": "spray",
+        "mean": "v:喷,喷洒,喷射|n:水珠",
+        "memory": "Yes",
+        "helping_text": " spray这个单词可以和\"喷雾\"联系起来，因为spray的意思就是喷洒或喷洒物体。"
+    },
+    {
+        "word": "plam",
+        "mean": "普拉姆",
+        "memory": "Yes",
+        "helping_text": " 将plam拆分成两部分，p和lam。p可以联想到palm（手掌），而lam可以联想到lamb（小羊），所以plam的意思可以记为“手掌上的小羊”，帮助记忆这个单词的意思。"
+    },
+    {
+        "word": "modest",
+        "mean": "a:谦虚,谦,谦逊,客气,谦卑,虚心,逊,伪,稳重,虚,卑",
+        "memory": "Yes",
+        "helping_text": " 单词modest的意思是谦虚的、适度的。要记住这个单词，可以将其与“mode”（模式）和“test”（测试）联系起来，表示一个人在模式和测试中都表现得谦虚和适度。"
+    },
+    {
+        "word": "elaborate",
+        "mean": "v:阐述,推敲,铺陈,铺叙,发挥|a:详密",
+        "memory": "Yes",
+        "helping_text": " 详细解释一个单词elaborate，就像是对这个单词进行详细的阐述和解释。"
+    },
+    {
+        "word": "aural",
+        "mean": "a:伴音",
+        "memory": "Yes",
+        "helping_text": " 将aural拆分成两部分，au和ral。au可以联想到听觉（audio），而ral可以联想到real（真实的）。因此，aural意思是与听觉或听觉的真实体验有关。"
+    },
+    {
+        "word": "premiere",
+        "mean": "首映",
+        "memory": "Yes",
+        "helping_text": " premiere这个单词可以和\"premier\"这个词联系起来，\"premier\"表示首要的、最重要的，所以premiere可以理解为首映、首次展示的意思。"
+    },
+    {
+        "word": "simultaneously",
+        "mean": "d:同时,并,一齐,不约而同,兼,交,一边,一面,齐",
+        "memory": "Yes",
+        "helping_text": " 同时（simultaneously）这个单词可以通过将其拆分为“simul”和“taneously”来记忆，其中“simul”表示同时，而“taneously”可以联想到“time”，即时间。因此，simultaneously的意思就是“同时发生”。"
+    },
+    {
+        "word": "collaboration",
+        "mean": "n:合作,勾结,协作,通敌,合著,合作化",
+        "memory": "Yes",
+        "helping_text": " 合作(collaboration)的意思是指不同个体或团体之间共同努力或合作完成某项任务或目标。记住这个单词的方法是将其拆分为\"collaborate\"和\"action\"，即通过合作行动来实现共同目标。"
+    },
+    {
+        "word": "avenue",
+        "mean": "n:途径,林荫道,马路,道路,大街,手段,大道,通道,通路,过道,走道",
+        "memory": "Yes",
+        "helping_text": " 将avenue拆分成ave和nue，ave可以联想到\"大道\"，nue可以联想到\"新\"，所以avenue可以理解为\"新大道\"，表示一种新的途径或方法。"
     }
 ]
