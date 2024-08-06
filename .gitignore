@@ -1,9 +1,10 @@
 checkpoint/*
 
+filpflop/*.yaml
+
 data/memory/*
 
 data/graph_data/*
 
 /.env
 
-filpflop/*.yaml
