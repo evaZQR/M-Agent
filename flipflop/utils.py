@@ -86,6 +86,37 @@ def store_mem(embed_model, llm):
     index.storage_context.persist(persist_dir="./data/memory/index")
     print('index已保存...')
 
+
+def print_with_color(text, color):
+    """
+    在终端中打印带颜色的文本。
+
+    参数:
+    text (str): 要打印的文本。
+    color (str): 文本的颜色。可以是 'red', 'green', 'yellow', 'blue', 'magenta', 'cyan', 或 'white'。
+    """
+    # ANSI转义序列
+    color_codes = {
+        'red': '\033[91m',
+        'green': '\033[92m',
+        'yellow': '\033[93m',
+        'blue': '\033[94m',
+        'magenta': '\033[95m',
+        'cyan': '\033[96m',
+        'white': '\033[97m'
+    }
+    
+    # 重置颜色
+    reset_color = '\033[0m'
+    
+    # 检查颜色是否有效
+    if color not in color_codes:
+        raise ValueError(f"无效的颜色: {color}. 可选颜色有: {', '.join(color_codes.keys())}")
+    
+    # 打印带颜色的文本
+    print(f"{color_codes[color]}{text}{reset_color}")
+
+
 if __name__ == "__main__":
     get_current_time()
     response = get_weather(tomorrow_api, city)

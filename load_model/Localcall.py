@@ -1,6 +1,7 @@
 import os
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from transformers import BitsAndBytesConfig, AutoModelForCausalLM, AutoTokenizer
+from pydantic import Field 
 from typing import Optional, List, Mapping, Any
 import torch
 from llama_index.core.llms.callbacks import llm_chat_callback, llm_completion_callback
@@ -23,11 +24,19 @@ class OurModel(CustomLLM):
     context_window: int = 4096
     num_output: int = 1024
     model_name: str = "custom"
+    # 显式声明需要存储的字段
+    model: Any = Field(..., description="HuggingFace model instance")
+    tokenizer: Any = Field(..., description="HuggingFace tokenizer instance")
 
     def __init__(self, model: Any, tokenizer: Any):
-        self.model = model
-        self.tokenizer = tokenizer
-
+        # 必须调用父类初始化
+        super().__init__(
+            model=model,
+            tokenizer=tokenizer,
+            context_window=4096,
+            num_output=1024,
+            model_name="custom"
+        )
     @property
     def metadata(self) -> LLMMetadata:
         return LLMMetadata(
@@ -55,10 +64,10 @@ class OurModel(CustomLLM):
         return gen()
 
 def get_llm(model_path: str) -> OurModel:
-    model_path = "./checkpoint/chatglm3-6b"
     tokenizer = AutoTokenizer.from_pretrained(model_path, trust_remote_code=True)
     model = AutoModelForCausalLM.from_pretrained(
         model_path, trust_remote_code=True, low_cpu_mem_usage = True ,quantization_config=quantization_config).eval()
+    #print(model)
     return OurModel(model, tokenizer)
 
 def get_embed_model(model_path: str) -> HuggingFaceEmbedding:

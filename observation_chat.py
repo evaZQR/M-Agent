@@ -83,35 +83,43 @@ def start_chat(llm, embed, memory = False, store = False, observation = None):
     history = ""
     displayed = ""
     if observation is None:
-        start_talk = input("ZQR:")
+        start_talk = input("\n\n\n--------------------\nZQR:")
+        print("\n\n\n")
         displayed = "ZQR:" + start_talk + "\n"
         history += displayed
     if memory is False:
-        final_prompt = emerge_chat_prompt_wo_memory("",observation)
+        final_prompt = emerge_chat_prompt_wo_memory(history,observation)
     else:
         Settings.llm = llm
         Settings.embed_model = embed
         storage_context = StorageContext.from_defaults(persist_dir="./data/memory/index")
         index = load_index_from_storage(storage_context)
-        final_prompt = emerge_chat_prompt_w_memory(history,find_memory(index, observation if observation else start_talk), observation)
+        memory = find_memory(index, observation if observation else start_talk)
+        print_with_color("Thinking:", "red")
+        print(memory)
+        final_prompt = emerge_chat_prompt_w_memory(history, memory, observation)
         
-    print(final_prompt)
+    #print(final_prompt)
     #raise ValueError("EVA error...")
-    print("changshengEVA:")
+    print_with_color("changshengEVA:","green")
     response = str(llm.chat([ChatMessage(content = final_prompt)])).split('assistant:')[-1]
     print(response)
     displayed = "changshengEVA:" + response + "\n"
     history += displayed
     while 1:
-        print("ZQR:")
+        print("\n\n\n--------------------\nZQR:",end="")
         message = input()
+        print("\n\n\n")
         if message.lower() == "exit": break
         history += "ZQR:" + message + "\n"
         if memory:
-            final_prompt = emerge_chat_prompt_w_memory(history,find_memory(index, message),observation)
+            memory = find_memory(index, message)
+            print_with_color("Thinking:", "red")
+            print(memory)
+            final_prompt = emerge_chat_prompt_w_memory(history, memory, observation)
         else:
             final_prompt = emerge_chat_prompt_wo_memory(history,observation)
-        print("changshengEVA:")
+        print_with_color("changshengEVA:","green")
         response = str(llm.chat([ChatMessage(content = final_prompt)])).split('assistant:')[-1]
         print(response)
         displayed = "changshengEVA:" + response + "\n"

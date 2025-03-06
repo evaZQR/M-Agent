@@ -12,7 +12,7 @@ import email
 import imaplib
  
 # IMAP服务器信息
-imap_host = 'imap.qq.com'
+imap_host = cfg["url"]
 username = cfg['Acount']
 password = cfg['Password']
  
