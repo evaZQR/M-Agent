@@ -1,115 +1,93 @@
-from __future__ import print_function
-import os.path
-from googleapiclient.discovery import build
-from google_auth_oauthlib.flow import InstalledAppFlow
-from google.auth.transport.requests import Request
-from google.oauth2.credentials import Credentials
-from apiclient import errors
-import base64
-import csv
+import imaplib
+import email
+import yaml
+import os, sys
+from email.header import decode_header
+from llama_index.core.llms import ChatMessage
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from flipflop.utils import try_multi_decode
 
-# OAuth2.0 Gmail　API用スコープ
-# 変更する場合は、token.jsonファイルを削除する
-SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
+# 读取配置文件，获取 Gmail 相关信息（注意节点名称为 Gmail）
+with open("./flipflop/config.yaml", 'r', encoding="utf-8") as f:
+    cfg = yaml.safe_load(f)['Gmail']
 
+# 从配置中读取服务器地址、账户、密码和总结提示
+imap_host = cfg["url"]
+username = cfg["Acount"]
+password = cfg["Password"]
+conclude_prompt = cfg["conclude_prompt"]
 
-# アクセストークン取得
-def get_token():
-    creds = None
-    # token.json
-    # access/refresh tokenを保存
-    # 認可フロー完了時に自動で作成。
-    if os.path.exists('creds/token.json'):
-        creds = Credentials.from_authorized_user_file(
-            'creds/token.json', SCOPES)
-    # トークンが存在しない場合
-    if not creds or not creds.valid:
-        if creds and creds.expired and creds.refresh_token:
-            creds.refresh(Request())
-        else:
-            flow = InstalledAppFlow.from_client_secrets_file(
-                'creds/credentials.json', SCOPES)
-            creds = flow.run_local_server(port=0)
-        # トークンを保存
-        with open('creds/token.json', 'w') as token:
-            token.write(creds.to_json())
-    return creds
+def connect_gmail():
+    """连接到 Gmail 的 IMAP 服务器并选择 INBOX收件箱"""
+    mail = imaplib.IMAP4_SSL(imap_host)
+    mail.login(username, password)
+    mail.select("INBOX")
+    return mail
 
-
-# メールリスト取得
-def get_message_list(service, user_id, query, count):
-    messages = []
-    try:
-        message_ids = (
-            service.users()
-            .messages()
-            .list(userId=user_id, maxResults=count, q=query)
-            .execute()
-        )
-
-        if message_ids["resultSizeEstimate"] == 0:
-            print("No DATA")
-            return []
-
-        # 各message内容確認
-        for message_id in message_ids["messages"]:
-            # 各メッセージ詳細
-            detail = (
-                service.users()
-                .messages()
-                .get(userId="me", id=message_id["id"])
-                .execute()
-            )
-            message = {}
-            message["id"] = message_id["id"]
-            # 本文
-            if 'data' in detail['payload']['body']:
-                decoded_bytes = base64.urlsafe_b64decode(
-                    detail["payload"]["body"]["data"])
-                decoded_message = decoded_bytes.decode("UTF-8")
-                message["body"] = decoded_message
-            else:
-                message["body"] = ""
-            # 件名
-            message["subject"] = [
-                header["value"]
-                for header in detail["payload"]["headers"]
-                if header["name"] == "Subject"
-            ][0]
-            # 送信元
-            message["from"] = [
-                header["value"]
-                for header in detail["payload"]["headers"]
-                if header["name"] == "From"
-            ][0]
-            messages.append(message)
-        return messages
-
-    except errors.HttpError as error:
-        print("An error occurred: %s" % error)
-
-
-# メイン部
-# ※クエリや取得数は標準入力などで受け取った値を利用できるとよいが今回は非対応
-def main(query="is:unread", count=10):
-    # 1. アクセストークン取得
-    creds = get_token()
-
-    # 2. Gmail API (メッセージ一覧取得) 呼び出し
-    service = build('gmail', 'v1', credentials=creds)
-    messages = get_message_list(service, "me", query,
-                                count=count)
+def read_unseen_emails(use_llm, delete=False):
+    email_get = ''
+    mail = connect_gmail()
+    
+    # 搜索未读邮件
+    status, messages = mail.search(None, 'UNSEEN')
+    
+    def conclude(email_message):
+        prompt = conclude_prompt.format(str(email_message))
+        response = use_llm.chat(messages=[ChatMessage(content=prompt)])
+        print(response, type(response))
+        return str(response).split('assistant:')[-1]
+    
     if messages:
-        field_names = ['id', 'body', 'subject', 'from']
-        with open('mails/gmails.csv', 'w', newline='', encoding='utf8') as csvfile:
-            writer = csv.DictWriter(csvfile, fieldnames=field_names)
-            writer.writeheader()
-            writer.writerows(messages)
-        
-    else:
-        return None
-
-
-if __name__ == '__main__':
-    main()
-
+        email_ids = messages[0].split()
+        print("邮件数量:", len(email_ids))
+        email_get += "邮件数量:" + str(len(email_ids))
+        for email_id in email_ids:
+            status, email_data = mail.fetch(email_id, '(RFC822)')
+            if status == 'OK' and email_data:
+                # 解析邮件
+                email_message = email.message_from_bytes(email_data[0][1])
+                
+                # 提取并解码 Subject 与 From
+                subject = decode_header(email_message['subject'])[0][0]
+                from_ = decode_header(email_message['from'])[0][0]
+                if isinstance(subject, bytes):
+                    subject = subject.decode('utf-8', errors='ignore')
+                if isinstance(from_, bytes):
+                    from_ = from_.decode('utf-8', errors='ignore')
+                
+                content_type = email_message.get_content_type()
+                
+                print("\n---------------------------")
+                print(f"Subject: {try_multi_decode(subject)}, From: {try_multi_decode(from_)}", subject)
+                email_get += "\n---------------------------\n"
+                email_get += f"Subject: {try_multi_decode(subject)}, From: {try_multi_decode(from_)}"
+                print(content_type)
+                
+                # 检查邮件类型
+                if content_type == 'multipart/alternative':
+                    # 遍历邮件的各个部分
+                    for part in email_message.walk():
+                        sub_content_type = part.get_content_type()
+                        if sub_content_type == 'text/plain':
+                            plain_text = part.get_payload(decode=True).decode(part.get_content_charset() or 'utf-8', errors='ignore')
+                            conclude_plain_text = conclude(plain_text)
+                            print("concluded:", conclude_plain_text)
+                            email_get += "\n纯文本内容：" + conclude_plain_text
+                        elif sub_content_type == 'text/html':
+                            html_text = part.get_payload(decode=True).decode(part.get_content_charset() or 'utf-8', errors='ignore')
+                        # 此处仅处理 text/plain，如有需要可增加对 HTML 的处理
+                elif content_type in ['text/plain', 'text/html']:
+                    content = email_message.get_payload(decode=True)
+                    content = content.decode('utf-8', errors='ignore')
+                    if len(content) < 100:
+                        conclude_content = conclude(content)
+                        print("conclude:", conclude_content)
+                        email_get += "\n纯文本内容：" + conclude_content
+                    else:
+                        print('too long to conclude')
+                if delete:
+                    mail.store(email_id, '+FLAGS', '\\Seen')
+    
+    mail.close()
+    mail.logout()
+    return email_get
